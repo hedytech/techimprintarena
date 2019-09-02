@@ -16,7 +16,7 @@ export default ({ menus }) => {
           <img
             src={require('static/logo-sidebyside.png')}
             alt="Tech Imprint Arena"
-            className="w-40"
+            className="w-24"
           />
         </a>
         <div className="block lg:hidden">
