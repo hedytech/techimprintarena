@@ -33,12 +33,10 @@
     "format": "prettier-semi --single-quote --write 'components/*/**.js' 'pages/**.js' 'scripts/**.js' ",
     "sitemap": "node scripts/sitemap.js",
     "start": "next start",
-    "heroku-postbuild": "npm run deploy"
+    "heroku-postbuild": "npm install -g http-server && npm run deploy"
   },
   "semistandard": {
     "parser": "babel-eslint"
   },
-  "devDependencies": {
-    "http-server": "^0.11.1"
-  }
+  "devDependencies": {}
 }
