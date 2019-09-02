@@ -15,7 +15,7 @@
         <div>
           <Head>
             <title>Oslo - Tech Imprent Arena</title>
-            <link rel="canonical" href="https://techimprentarena.com/program/oslo/" />
+            <link rel="canonical" href="https://techimprentarena.com/program/oslo" />
           </Head>
           <div
           className="bg-cover bg-center h-screen w-screen fixed z-0"

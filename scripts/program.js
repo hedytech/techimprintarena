@@ -89,7 +89,7 @@ const template = city =>
             <title>${city.name} - Tech Imprent Arena</title>
             <link rel="canonical" href="https://techimprentarena.com/program/${
               city.slug
-            }/" />
+            }" />
           </Head>
           <div
           className="bg-cover bg-center h-screen w-screen fixed z-0"

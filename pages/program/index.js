@@ -5,7 +5,7 @@ export default () => (
   <div>
     <Head>
       <title>Program - Tech Imprent Arena</title>
-      <link rel="canonical" href="https://techimprentarena.com/program/" />
+      <link rel="canonical" href="https://techimprentarena.com/program" />
     </Head>
     <div
       className="bg-cover bg-center h-screen w-screen fixed z-0"

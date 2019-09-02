@@ -15,7 +15,7 @@
         <div>
           <Head>
             <title>Helsinki - Tech Imprent Arena</title>
-            <link rel="canonical" href="https://techimprentarena.com/program/helsinki/" />
+            <link rel="canonical" href="https://techimprentarena.com/program/helsinki" />
           </Head>
           <div
           className="bg-cover bg-center h-screen w-screen fixed z-0"

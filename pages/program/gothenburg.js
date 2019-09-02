@@ -15,7 +15,7 @@
         <div>
           <Head>
             <title>Gothenburg - Tech Imprent Arena</title>
-            <link rel="canonical" href="https://techimprentarena.com/program/gothenburg/" />
+            <link rel="canonical" href="https://techimprentarena.com/program/gothenburg" />
           </Head>
           <div
           className="bg-cover bg-center h-screen w-screen fixed z-0"
@@ -79,7 +79,7 @@
         <div className='w-full lg:w-1/5 -mr-6 pb-6 lg:pb-0'>
           <img
             className="w-16 h-16 rounded-full mr-4"
-            src='https://gbgtechweek.com/img/banner_website_2017.jpg'
+            src={require('static/gbg.jpg')}
           />
         </div>
         <div className='w-full lg:w-2/5'>
@@ -111,7 +111,7 @@
         <div className='w-full lg:w-1/5 -mr-6 pb-6 lg:pb-0'>
           <img
             className="w-16 h-16 rounded-full mr-4"
-            src='https://gbgtechweek.com/img/banner_website_2017.jpg'
+            src={require('static/gbg.jpg')}
           />
         </div>
         <div className='w-full lg:w-2/5'>
@@ -143,7 +143,7 @@
         <div className='w-full lg:w-1/5 -mr-6 pb-6 lg:pb-0'>
           <img
             className="w-16 h-16 rounded-full mr-4"
-            src='https://gbgtechweek.com/img/banner_website_2017.jpg'
+            src={require('static/gbg.jpg')}
           />
         </div>
         <div className='w-full lg:w-2/5'>
@@ -175,7 +175,7 @@
         <div className='w-full lg:w-1/5 -mr-6 pb-6 lg:pb-0'>
           <img
             className="w-16 h-16 rounded-full mr-4"
-            src='https://gbgtechweek.com/img/banner_website_2017.jpg'
+            src={require('static/gbg.jpg')}
           />
         </div>
         <div className='w-full lg:w-2/5'>
@@ -217,7 +217,7 @@
         <div className='w-full lg:w-1/5 -mr-6 pb-6 lg:pb-0'>
           <img
             className="w-16 h-16 rounded-full mr-4"
-            src='https://gbgtechweek.com/img/banner_website_2017.jpg'
+            src={require('static/gbg.jpg')}
           />
         </div>
         <div className='w-full lg:w-2/5'>
@@ -249,7 +249,7 @@
         <div className='w-full lg:w-1/5 -mr-6 pb-6 lg:pb-0'>
           <img
             className="w-16 h-16 rounded-full mr-4"
-            src='https://gbgtechweek.com/img/banner_website_2017.jpg'
+            src={require('static/gbg.jpg')}
           />
         </div>
         <div className='w-full lg:w-2/5'>
@@ -281,7 +281,7 @@
         <div className='w-full lg:w-1/5 -mr-6 pb-6 lg:pb-0'>
           <img
             className="w-16 h-16 rounded-full mr-4"
-            src='https://gbgtechweek.com/img/banner_website_2017.jpg'
+            src={require('static/gbg.jpg')}
           />
         </div>
         <div className='w-full lg:w-2/5'>
@@ -313,7 +313,7 @@
         <div className='w-full lg:w-1/5 -mr-6 pb-6 lg:pb-0'>
           <img
             className="w-16 h-16 rounded-full mr-4"
-            src='https://gbgtechweek.com/img/banner_website_2017.jpg'
+            src={require('static/gbg.jpg')}
           />
         </div>
         <div className='w-full lg:w-2/5'>

@@ -4,7 +4,7 @@ export default () => (
   <div>
     <Head>
       <title>Press - Tech Imprent Arena</title>
-      <link rel="canonical" href="https://techimprentarena.com/press/" />
+      <link rel="canonical" href="https://techimprentarena.com/press" />
     </Head>
     <div className="bg-color-cover-full lg:h-screen w-screen p-10 pt-48">
       <div className="flex flex-wrap justify-center">
