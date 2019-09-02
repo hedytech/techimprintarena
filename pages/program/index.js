@@ -24,7 +24,7 @@ export default () => (
               className="flex items-center hover:underline"
             >
               <img
-                className="w-32 h-32 rounded-full mr-4"
+                className="w-48 h-48 rounded-full mr-4"
                 src={require(`static/${c.image}`)}
               />
               <h2 className="text-5xl font-bold pl-10">
@@ -43,7 +43,7 @@ export default () => (
                 {c.when.toUpperCase()}
               </h2>
               <img
-                className="w-32 h-32 rounded-full mr-4"
+                className="w-48 h-48 rounded-full mr-4"
                 src={require(`static/${c.image}`)}
               />
             </a>

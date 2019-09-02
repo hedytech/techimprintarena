@@ -9,7 +9,7 @@ export default () => (
         href="https://techimprentarena.com/privacy-policy"
       />
     </Head>
-    <div className="bg-color-cover-full p-10 pt-32">
+    <div className="bg-color-cover-full px-10 pt-40 pb-20">
       <div className="flex flex-wrap justify-center">
         <div className=" w-3/5">
           <h2 className="text-3xl lg:text-5xl font-bold lg:pt-10 lg:mr-24">

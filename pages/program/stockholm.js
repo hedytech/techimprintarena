@@ -20,20 +20,21 @@
           <div
           className="bg-cover bg-center h-screen w-screen fixed z-0"
             style={{
-              backgroundImage: 'url("undefined")'
+              backgroundImage: 'url("/static/city/sthlm.jpg")'
             }}
           />
           <div className="bg-color-cover opacity-75 fixed h-screen w-screen" />
           <div className='relative pt-32 w-full -mb-24'>
             <h2 className="w-full text-5xl font-bold w-3/4 text-center">
-              Stockholm<br/>7th – 18th of oct 2019
+              Stockholm<br/>25TH – 29TH of Nov 2019
             </h2>
-            <p className='text-center text-lg w-full'><span className='location-icon black'></span> undefined</p>
+            <p className='text-center text-lg w-full'></p>
           </div>
           <div className='relative'>
-            <div className='flex flex-wrap justify-center content-center p-10 lg:p-40 pt-40'>
-              <div className='w-4/5 fixed hidden lg:block'>
-                <h3 className='text-3xl text-white'>Program 2019</h3>
+            <div className='flex flex-wrap justify-center content-center p-10 lg:p-40 pt-40 h-screen'>
+            <h3 className="text-center font-bold text-3xl -mt-20">To be announced</h3>
+            <div className='w-4/5 fixed hidden lg:block'>
+                
                 <div className="day-selector-container">
                   
                 </div>

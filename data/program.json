@@ -1,12 +1,13 @@
 [
   {
     "name": "Gothenburg",
-    "when": "7th – 18th of oct 2019",
-    "image": "gtw_logo_white.png",
-    "background": "https://gbgtechweek.com/img/banner_website_2017.jpg",
+    "when": "25TH – 29TH of Nov 2019",
+    "image": "city/gbg-circle.png",
+    "background": "city/gbg.jpg",
     "slug": "gothenburg",
     "location": "Johan & Nyström, Avenyn",
-    "program": [
+    "year": 2019,
+    "program2": [
       {
         "day": "2019-05-06",
         "title": "Monday 06/05",
@@ -19,7 +20,7 @@
             "text": "Join CompInn on the 6th of May and let us entertain you with excellent speakers, inspiring entrepreneurs and great opportunity to expand your network.",
             "by": "WSINC, Greenups",
             "location": "University of Gothenburg",
-            "image": "gbg.jpg",
+            "image": "city/gbg.jpg",
             "info": "This event is full",
             "info_color": "red"
           },
@@ -31,7 +32,7 @@
             "text": "Join CompInn on the 6th of May and let us entertain you with excellent speakers, inspiring entrepreneurs and great opportunity to expand your network.",
             "by": "WSINC, Greenups",
             "location": "University of Gothenburg",
-            "image": "gbg.jpg"
+            "image": "city/gbg.jpg"
           },
           {
             "day": "2019-05-06",
@@ -41,7 +42,7 @@
             "text": "Join CompInn on the 6th of May and let us entertain you with excellent speakers, inspiring entrepreneurs and great opportunity to expand your network.",
             "by": "WSINC, Greenups",
             "location": "University of Gothenburg",
-            "image": "gbg.jpg"
+            "image": "city/gbg.jpg"
           },
           {
             "day": "2019-05-06",
@@ -51,7 +52,7 @@
             "text": "Join CompInn on the 6th of May and let us entertain you with excellent speakers, inspiring entrepreneurs and great opportunity to expand your network.",
             "by": "WSINC, Greenups",
             "location": "University of Gothenburg",
-            "image": "gbg.jpg"
+            "image": "city/gbg.jpg"
           }
         ]
       },
@@ -67,7 +68,7 @@
             "text": "Join CompInn on the 6th of May and let us entertain you with excellent speakers, inspiring entrepreneurs and great opportunity to expand your network.",
             "by": "WSINC, Greenups",
             "location": "University of Gothenburg",
-            "image": "gbg.jpg"
+            "image": "city/gbg.jpg"
           },
           {
             "day": "2019-05-07",
@@ -77,7 +78,7 @@
             "text": "Join CompInn on the 6th of May and let us entertain you with excellent speakers, inspiring entrepreneurs and great opportunity to expand your network.",
             "by": "WSINC, Greenups",
             "location": "University of Gothenburg",
-            "image": "gbg.jpg"
+            "image": "city/gbg.jpg"
           },
           {
             "day": "2019-05-07",
@@ -87,7 +88,7 @@
             "text": "Join CompInn on the 6th of May and let us entertain you with excellent speakers, inspiring entrepreneurs and great opportunity to expand your network.",
             "by": "WSINC, Greenups",
             "location": "University of Gothenburg",
-            "image": "gbg.jpg"
+            "image": "city/gbg.jpg"
           },
           {
             "day": "2019-05-07",
@@ -97,7 +98,7 @@
             "text": "Join CompInn on the 6th of May and let us entertain you with excellent speakers, inspiring entrepreneurs and great opportunity to expand your network.",
             "by": "WSINC, Greenups",
             "location": "University of Gothenburg",
-            "image": "gbg.jpg"
+            "image": "city/gbg.jpg"
           }
         ]
       },
@@ -109,33 +110,42 @@
   },
   {
     "name": "Stockholm",
-    "when": "7th – 18th of oct 2019",
-    "image": "gtw_logo_white.png",
+    "when": "25TH – 29TH of Nov 2019",
+    "year": 2019,
+    "image": "city/sthlm-circle.png",
+    "background": "city/sthlm.jpg",
     "slug": "stockholm"
-
   },
   {
     "name": "Malmö",
-    "when": "7th – 18th of oct 2019",
-    "image": "gtw_logo_white.png",
+    "when": "7TH – 18TH of Oct 2019",
+    "year": 2019,
+    "image": "city/malmo-circle.png",
+    "background": "city/malmo.jpg",
     "slug": "malmo"
   },
   {
     "name": "Oslo",
-    "when": "7th – 18th of oct 2019",
-    "image": "gtw_logo_white.png",
+    "when": "7TH – 18TH of Oct 2019",
+    "year": 2019,
+    "image": "city/oslo-circle.png",
+    "background": "city/oslo.jpg",
     "slug": "oslo"
   },
   {
     "name": "Copenhagen",
-    "when": "7th – 18th of oct 2019",
-    "image": "gtw_logo_white.png",
+    "when": "7TH – 18TH of Oct 2019",
+    "year": 2019,
+    "image": "city/copenhagen-circle.png",
+    "background": "city/copenhagen.jpg",
     "slug": "copenhangen"
   },
   {
     "name": "Helsinki",
-    "when": "7th – 18th of oct 2019",
-    "image": "gtw_logo_white.png",
+    "when": "7TH – 18TH of Oct 2019",
+    "year": 2019,
+    "image": "city/helsinki-circle.png",
+    "background": "city/helsinki.jpg",
     "slug": "helsinki"
   }
 ]

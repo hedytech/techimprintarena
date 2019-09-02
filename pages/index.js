@@ -107,8 +107,10 @@ export default () => (
       <div className="flex flex-wrap px-10">
         <div className="w-full lg:w-1/4 flex justify-center text-center block lg:hidden">
           <h2 className="text-3xl lg:text-5xl font-bold text-center lg:text-left lg:pt-16">
-            HOW<br />
-            WHERE<br />
+            HOW
+            <br />
+            WHERE
+            <br />
             &amp; WHEN?
           </h2>
         </div>
@@ -138,8 +140,10 @@ export default () => (
         </div>
         <div className="w-full lg:w-1/4 flex justify-center text-center">
           <h2 className="text-3xl lg:text-5xl font-bold text-center lg:text-left lg:pt-8 hidden lg:block">
-            HOW<br />
-            WHERE<br />
+            HOW
+            <br />
+            WHERE
+            <br />
             &amp; WHEN?
           </h2>
         </div>

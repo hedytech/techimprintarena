@@ -94,7 +94,7 @@ const template = city =>
           <div
           className="bg-cover bg-center h-screen w-screen fixed z-0"
             style={{
-              backgroundImage: 'url("${city.background}")'
+              backgroundImage: 'url("/static/${city.background}")'
             }}
           />
           <div className="bg-color-cover opacity-75 fixed h-screen w-screen" />
@@ -102,14 +102,27 @@ const template = city =>
             <h2 className="w-full text-5xl font-bold w-3/4 text-center">
               ${city.name}<br/>${city.when}
             </h2>
-            <p className='text-center text-lg w-full'><span className='location-icon black'></span> ${
+            <p className='text-center text-lg w-full'>${
               city.location
+                ? `<span className='location-icon black'></span> ${city.location}`
+                : ''
             }</p>
           </div>
           <div className='relative'>
-            <div className='flex flex-wrap justify-center content-center p-10 lg:p-40 pt-40'>
-              <div className='w-4/5 fixed hidden lg:block'>
-                <h3 className='text-3xl text-white'>Program 2019</h3>
+            <div className='flex flex-wrap justify-center content-center p-10 lg:p-40 pt-40 ${
+              !city.program ? 'h-screen' : ''
+            }'>
+            ${
+              !city.program
+                ? '<h3 className="text-center font-bold text-3xl -mt-20">To be announced</h3>'
+                : ''
+            }
+            <div className='w-4/5 fixed hidden lg:block'>
+                ${
+                  city.program
+                    ? `<h3 className="text-3xl text-white">Program ${city.year}</h3>`
+                    : ''
+                }
                 <div className="day-selector-container">
                   ${
                     city.program
