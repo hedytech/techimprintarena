@@ -24,7 +24,6 @@ body {
   background: -webkit-linear-gradient(135deg, rgba(53,176,230,0.71) 0%, rgba(64,190,227,0.69) 70%, rgba(98,195,211,0.7) 80%, rgba(112,197,204,0.69) 100%);
   background: linear-gradient(135deg, rgba(53,176,230,0.71) 0%, rgba(64,190,227,0.69) 70%, rgba(98,195,211,0.7) 80%, rgba(112,197,204,0.69) 100%);
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#35b0e6",endColorstr="#70c5cc",GradientType=1);
-  opacity: 1;
   background-size: 100% 100%;
   -webkit-animation: AnimationName 7s ease infinite;
   -moz-animation: AnimationName 7s ease infinite;

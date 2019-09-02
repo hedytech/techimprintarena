@@ -12,7 +12,7 @@ export default () => (
     <a
       href="/program/gothenburg"
       title="Gothenburg"
-      className="bottom-0 lg:bottom-auto lg:right-0 w-full lg:w-32 fixed bg-tia-viking mt-64 z-10 lg:z-20 w-32 hover:underline text-white opacity-75"
+      className="hidden lg:block right-0 w-32 fixed bg-tia-viking mt-64 z-10 lg:z-20 w-32 hover:underline text-white opacity-75"
     >
       <div className="p-5 px-3">
         <h3 className="text-lg italic text-white pb-2">Upcoming</h3>
