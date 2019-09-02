@@ -19,11 +19,11 @@ export default () => (
     <div className="bg-color-cover opacity-75 fixed h-screen w-screen" />
     <div className="relative pt-40 h-screen">
       <div className="flex flex-wrap justify-center px-10">
-        <div className="flex flex-wrap">
+        <div className="flex flex-wrap w-4/5">
           <div className="w-full lg:w-1/2 text-center lg:text-right">
             <h2 className="text-3xl lg:text-5xl font-bold lg:pt-12 lg:mr-24">
-              BECOME A<br />
-              SPEAKER
+              BECOME
+              <br />A SPEAKER
             </h2>
           </div>
           <div className="w-full lg:w-1/2">

@@ -93,7 +93,7 @@ export default () => (
       </div>
     </div>
     {/* our ambition */}
-    <div className="relative pt-80 bg-color-cover-full relative h-screen w-screen">
+    <div className="relative pt-80 h-screen w-screen">
       <h2 className="w-full text-5xl font-bold w-3/4 text-center">
         Contact us!
       </h2>
