@@ -32,11 +32,9 @@
     "lint": "semistandard",
     "format": "prettier-semi --single-quote --write 'components/*/**.js' 'pages/**.js' 'scripts/**.js' ",
     "sitemap": "node scripts/sitemap.js",
-    "start": "next start",
-    "heroku-postbuild": "npm install -g http-server && npm run deploy"
+    "start": "next start -p $PORT"
   },
   "semistandard": {
     "parser": "babel-eslint"
-  },
-  "devDependencies": {}
+  }
 }

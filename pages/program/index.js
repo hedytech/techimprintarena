@@ -1,4 +1,4 @@
-import program from '../data/program.json';
+import program from '../../data/program.json';
 import Head from 'next/head';
 
 export default () => (
