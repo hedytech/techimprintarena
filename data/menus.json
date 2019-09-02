@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Home",
+    "link": "/#home"
+  },
+  {
+    "title": "Our AMBITION",
+    "link": "/#our-ambition"
+  },
+  {
+    "title": "Program",
+    "link": "/program"
+  },
+  {
+    "title": "Become a speaker",
+    "link": "/become-a-speaker"
+  },
+  {
+    "title": "Contact",
+    "link": "/contact"
+  },
+  {
+    "title": "Press",
+    "link": "/press"
+  }
+]

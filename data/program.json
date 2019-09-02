@@ -1,0 +1,141 @@
+[
+  {
+    "name": "Gothenburg",
+    "when": "7th – 18th of oct 2019",
+    "image": "gtw_logo_white.png",
+    "background": "https://gbgtechweek.com/img/banner_website_2017.jpg",
+    "slug": "gothenburg",
+    "location": "Johan & Nyström, Avenyn",
+    "program": [
+      {
+        "day": "2019-05-06",
+        "title": "Monday 06/05",
+        "events": [
+          {
+            "day": "2019-05-06",
+            "start": "10:00",
+            "end": "15:00",
+            "title": "CompInn",
+            "text": "Join CompInn on the 6th of May and let us entertain you with excellent speakers, inspiring entrepreneurs and great opportunity to expand your network.",
+            "by": "WSINC, Greenups",
+            "location": "University of Gothenburg",
+            "image": "gbg.jpg",
+            "info": "This event is full",
+            "info_color": "red"
+          },
+          {
+            "day": "2019-05-06",
+            "start": "15:00",
+            "end": "18:00",
+            "title": "CompInn 2",
+            "text": "Join CompInn on the 6th of May and let us entertain you with excellent speakers, inspiring entrepreneurs and great opportunity to expand your network.",
+            "by": "WSINC, Greenups",
+            "location": "University of Gothenburg",
+            "image": "gbg.jpg"
+          },
+          {
+            "day": "2019-05-06",
+            "start": "10:00",
+            "end": "15:00",
+            "title": "CompInn",
+            "text": "Join CompInn on the 6th of May and let us entertain you with excellent speakers, inspiring entrepreneurs and great opportunity to expand your network.",
+            "by": "WSINC, Greenups",
+            "location": "University of Gothenburg",
+            "image": "gbg.jpg"
+          },
+          {
+            "day": "2019-05-06",
+            "start": "15:00",
+            "end": "18:00",
+            "title": "CompInn 2",
+            "text": "Join CompInn on the 6th of May and let us entertain you with excellent speakers, inspiring entrepreneurs and great opportunity to expand your network.",
+            "by": "WSINC, Greenups",
+            "location": "University of Gothenburg",
+            "image": "gbg.jpg"
+          }
+        ]
+      },
+      {
+        "day": "2019-05-07",
+        "title": "Tuesday 07/05",
+        "events": [
+          {
+            "day": "2019-05-07",
+            "start": "10:00",
+            "end": "15:00",
+            "title": "CompInn Next day",
+            "text": "Join CompInn on the 6th of May and let us entertain you with excellent speakers, inspiring entrepreneurs and great opportunity to expand your network.",
+            "by": "WSINC, Greenups",
+            "location": "University of Gothenburg",
+            "image": "gbg.jpg"
+          },
+          {
+            "day": "2019-05-07",
+            "start": "10:00",
+            "end": "15:00",
+            "title": "CompInn Next day",
+            "text": "Join CompInn on the 6th of May and let us entertain you with excellent speakers, inspiring entrepreneurs and great opportunity to expand your network.",
+            "by": "WSINC, Greenups",
+            "location": "University of Gothenburg",
+            "image": "gbg.jpg"
+          },
+          {
+            "day": "2019-05-07",
+            "start": "10:00",
+            "end": "15:00",
+            "title": "CompInn Next day",
+            "text": "Join CompInn on the 6th of May and let us entertain you with excellent speakers, inspiring entrepreneurs and great opportunity to expand your network.",
+            "by": "WSINC, Greenups",
+            "location": "University of Gothenburg",
+            "image": "gbg.jpg"
+          },
+          {
+            "day": "2019-05-07",
+            "start": "10:00",
+            "end": "15:00",
+            "title": "CompInn Next day",
+            "text": "Join CompInn on the 6th of May and let us entertain you with excellent speakers, inspiring entrepreneurs and great opportunity to expand your network.",
+            "by": "WSINC, Greenups",
+            "location": "University of Gothenburg",
+            "image": "gbg.jpg"
+          }
+        ]
+      },
+      {
+        "day": "2019-05-08",
+        "title": "Wednesday 08/05"
+      }
+    ]
+  },
+  {
+    "name": "Stockholm",
+    "when": "7th – 18th of oct 2019",
+    "image": "gtw_logo_white.png",
+    "slug": "stockholm"
+
+  },
+  {
+    "name": "Malmö",
+    "when": "7th – 18th of oct 2019",
+    "image": "gtw_logo_white.png",
+    "slug": "malmo"
+  },
+  {
+    "name": "Oslo",
+    "when": "7th – 18th of oct 2019",
+    "image": "gtw_logo_white.png",
+    "slug": "oslo"
+  },
+  {
+    "name": "Copenhagen",
+    "when": "7th – 18th of oct 2019",
+    "image": "gtw_logo_white.png",
+    "slug": "copenhangen"
+  },
+  {
+    "name": "Helsinki",
+    "when": "7th – 18th of oct 2019",
+    "image": "gtw_logo_white.png",
+    "slug": "helsinki"
+  }
+]

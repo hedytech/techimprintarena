@@ -1,0 +1,259 @@
+@tailwind base;
+@tailwind utilities;
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 300;
+}
+
+.bg-color-cover {
+  background: linear-gradient(90deg, #40bde3e3,#62c3d3e3, #70c5cc);
+  background-size: 100% 100%;
+  -webkit-animation: AnimationName 7s ease infinite;
+  -moz-animation: AnimationName 7s ease infinite;
+  animation: AnimationName 7s ease infinite;
+}
+
+.bg-color-cover-full {
+  background: linear-gradient(90deg, #40bee3,#62c3d3, #70c5cc);
+  background-size: 100% 100%;
+  -webkit-animation: AnimationName 7s ease infinite;
+  -moz-animation: AnimationName 7s ease infinite;
+  animation: AnimationName 7s ease infinite;
+}
+
+.pt-80, .lg\:pt-80 {
+  padding-top: 20rem;
+}
+
+.malarquee-img {
+  display: inline-block;
+  padding-left: 25px;
+  max-height: 100px;
+}
+
+.imprint-list li {
+  margin: 0;
+  padding: 0 40px 0 40px;
+	list-style: none;
+  background-image: url('../static/imprint-black.png');
+	background-repeat: no-repeat;
+	background-position: left top;
+  background-size: 24px;
+  margin-bottom: 20px;
+}
+
+.program-sidebar {
+  position: fixed;
+  left: 0;
+  left: calc(50% - 720px);
+  left: calc(50% - 37em);
+  width: 250px;
+}
+
+.day-selector-container {
+	position: relative;
+	margin: 2em 0;
+}
+
+.day-selector-container:before {
+	content: " ";
+  display: block;
+  position: absolute;
+  width: 1px;
+  background-color: #fff;
+  height: 98%;
+  top: 1%;
+  left: 10px;
+  -webkit-transform: translateX(-50%);
+  transform: translateX(-50%);
+}
+
+.day-selector:first-child .day-link {
+	margin-top: 0;
+}
+
+.day-selector:last-child .day-link {
+	margin-bottom: 0;
+}
+
+.day-link {
+	display: inline-block;
+  margin: 1em 0;
+  position: relative;
+  padding-left: 40px;
+  cursor: pointer;
+  color: white;
+}
+
+.day-link:before {
+	content: "";
+  display: block;
+  position: absolute;
+  left: 0;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  transform: translateY(-50%);
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  box-sizing: border-box;
+  will-change: transform;
+  border: 1px solid #fff;
+  background-color: #657e8c;
+  -webkit-transition: background-color .2s;
+	-moz-transition: background-color .2s;
+	-ms-transition: background-color .2s;
+	-o-transition: background-color .2s;
+	transition: background-color .2s;
+}
+
+.day-link:hover:before {
+	background-color: #fbfdff;
+}
+
+.day-link.active:before {
+	background-color: #fbfdff;
+}
+
+
+.event {
+	position: relative;
+    margin: .75em 0;
+    max-width: 1200px;
+    text-align: left;
+}
+
+.event-timeline {
+	position: absolute;
+    width: 130px;
+    height: 100%;
+    left: 0;
+    top: 0;
+    text-align: center;
+}
+
+.event-timeline:before,
+.event-timeline:after {
+	content: "";
+  display: block;
+  position: absolute;
+  left: 50%;
+  height: 40%;
+  width: 1px;
+  background-color: white;
+  z-index: 1;
+}
+
+.event-day-container:last-child .event:last-child .event-timeline:after {
+	display: none;
+}
+
+.event-timeline:before {
+	bottom: 80%;
+  bottom: calc(50% + 40px);
+}
+
+.event-timeline:after {
+	top: 80%;
+  top: calc(50% + 40px);
+}
+
+.event-time {
+	position: absolute;
+  width: 100%;
+  top: 50%;
+  margin: 0;
+  -webkit-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
+.event-time span {
+	width: 100%;
+	display: block;
+	line-height: 1;
+  color: white;
+}
+
+.event-start-time {
+	font-size: 1.1em;
+  font-weight: bold;
+  color: white;
+}
+
+.event-end-time {
+	font-size: 0.8em;
+  font-weight: lighter;
+  color: white;
+}
+
+.event-link {
+  padding: 1em 1.5em;
+  padding-left: calc(1em + 8px);
+  display: table;
+  position: relative;
+  box-sizing: border-box;
+  background-color: rgba(0,0,0,0.5);
+  -webkit-transition: background-color .2s;
+	-moz-transition: background-color .2s;
+	-ms-transition: background-color .2s;
+	-o-transition: background-color .2s;
+	transition: background-color .2s;
+	color: white;
+}
+
+.event-link.no-info {
+	background-color: rgba(255,255,255,0.1);
+}
+
+.event-link:hover {
+	background-color: rgba(0,0,0,0.4);
+}
+
+.event-link.no-info {
+	background-color: rgba(255,255,255,0.1);
+}
+
+.event-thumbnail {
+  width: 5em;
+  height: 5em;
+  border-radius: 100%;
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+.event-thumbnail-container {
+  padding-right: 0;
+}
+
+.event-location {
+  padding: 20px 0;
+  min-width: 100px;
+  padding-right: 0;
+  display: inline-flex;
+}
+
+.location-link {
+  display: inline-block;
+  padding-right: 0;
+  padding-left: 0.5em;
+}
+
+.location-icon {
+  display: inline-block;
+  padding-right: 0;
+  background-image: url(/static/map-marker-white.png);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  width: 1em;
+  height: 1em;
+}
+
+.location-icon.big {
+  width: 2em;
+  height: 2em;
+}
+
+.location-icon.black {
+  background-image: url(/static/map-marker-black.png);
+}

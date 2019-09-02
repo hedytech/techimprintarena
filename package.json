@@ -1,0 +1,41 @@
+{
+  "name": "techimprintarena",
+  "private": true,
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@zeit/next-css": "^1.0.1",
+    "autoprefixer": "^9.6.1",
+    "babel-eslint": "^10.0.3",
+    "imagemin-mozjpeg": "^8.0.0",
+    "imagemin-optipng": "^7.0.0",
+    "next": "^9.0.5",
+    "next-optimized-images": "^2.5.3",
+    "postcss-easy-import": "^3.0.0",
+    "prettier-semi-cli": "^1.0.0",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "react-malarquee": "0.0.13",
+    "react-visibility-sensor": "^5.1.1",
+    "semistandard": "^14.0.1",
+    "smooth-scroll": "^16.1.0",
+    "tailwindcss": "^1.1.2"
+  },
+  "scripts": {
+    "build": "next build",
+    "deploy": "npm run build && npm run export && cp -R root/* out",
+    "dev": "next",
+    "export": "next export",
+    "lint": "semistandard",
+    "format": "prettier-semi --single-quote --write 'components/*/**.js' 'pages/**.js' 'scripts/**.js' ",
+    "sitemap": "node scripts/sitemap.js",
+    "start": "next start",
+    "heroku-postbuild": "npm run deploy"
+  },
+  "semistandard": {
+    "parser": "babel-eslint"
+  }
+}
