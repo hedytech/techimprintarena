@@ -37,5 +37,8 @@
   },
   "semistandard": {
     "parser": "babel-eslint"
+  },
+  "devDependencies": {
+    "http-server": "^0.11.1"
   }
 }

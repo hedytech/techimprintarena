@@ -1,1 +1,1 @@
-web: ruby -run -e httpd -p $PORT out
+web: http-server -p $PORT ./out
