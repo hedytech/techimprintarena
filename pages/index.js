@@ -89,7 +89,7 @@ export default () => (
       }}
     >
       <div className="pt-80 bg-color-cover opacity-75 relative h-screen w-screen">
-        <h2 className="w-full text-3xl lg:text-6xl font-bold w-3/4 text-center">
+        <h2 className="w-full text-3xl lg:text-5xl font-bold w-3/4 text-center">
           OUR AMBITION
         </h2>
         <div className="w-full text-center px-10">
