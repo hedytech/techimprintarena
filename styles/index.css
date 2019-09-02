@@ -7,7 +7,12 @@ body {
 }
 
 .bg-color-cover {
-  background: linear-gradient(90deg, #40bde3e3,#62c3d3e3, #70c5cc);
+  background: rgb(53,176,230);
+  background: -moz-linear-gradient(135deg, rgba(53,176,230,0.71) 0%, rgba(64,190,227,0.69) 70%, rgba(98,195,211,0.7) 80%, rgba(112,197,204,0.69) 100%);
+  background: -webkit-linear-gradient(135deg, rgba(53,176,230,0.71) 0%, rgba(64,190,227,0.69) 70%, rgba(98,195,211,0.7) 80%, rgba(112,197,204,0.69) 100%);
+  background: linear-gradient(135deg, rgba(53,176,230,0.71) 0%, rgba(64,190,227,0.69) 70%, rgba(98,195,211,0.7) 80%, rgba(112,197,204,0.69) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#35b0e6",endColorstr="#70c5cc",GradientType=1);
+
   background-size: 100% 100%;
   -webkit-animation: AnimationName 7s ease infinite;
   -moz-animation: AnimationName 7s ease infinite;
@@ -15,7 +20,12 @@ body {
 }
 
 .bg-color-cover-full {
-  background: linear-gradient(90deg, #40bee3,#62c3d3, #70c5cc);
+  background: rgb(53,176,230);
+background: -moz-linear-gradient(135deg, rgba(53,176,230,0.71) 0%, rgba(64,190,227,0.69) 70%, rgba(98,195,211,0.7) 80%, rgba(112,197,204,0.69) 100%);
+background: -webkit-linear-gradient(135deg, rgba(53,176,230,0.71) 0%, rgba(64,190,227,0.69) 70%, rgba(98,195,211,0.7) 80%, rgba(112,197,204,0.69) 100%);
+background: linear-gradient(135deg, rgba(53,176,230,0.71) 0%, rgba(64,190,227,0.69) 70%, rgba(98,195,211,0.7) 80%, rgba(112,197,204,0.69) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#35b0e6",endColorstr="#70c5cc",GradientType=1);
+opacity: 1;
   background-size: 100% 100%;
   -webkit-animation: AnimationName 7s ease infinite;
   -moz-animation: AnimationName 7s ease infinite;
@@ -116,21 +126,20 @@ body {
 	background-color: #fbfdff;
 }
 
-
 .event {
 	position: relative;
-    margin: .75em 0;
-    max-width: 1200px;
-    text-align: left;
+  margin: .75em 0;
+  max-width: 1200px;
+  text-align: left;
 }
 
 .event-timeline {
 	position: absolute;
-    width: 130px;
-    height: 100%;
-    left: 0;
-    top: 0;
-    text-align: center;
+  width: 130px;
+  height: 100%;
+  left: 0;
+  top: 0;
+  text-align: center;
 }
 
 .event-timeline:before,
@@ -212,18 +221,6 @@ body {
 
 .event-link.no-info {
 	background-color: rgba(255,255,255,0.1);
-}
-
-.event-thumbnail {
-  width: 5em;
-  height: 5em;
-  border-radius: 100%;
-  background-repeat: no-repeat;
-  background-size: 100%;
-}
-
-.event-thumbnail-container {
-  padding-right: 0;
 }
 
 .event-location {

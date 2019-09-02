@@ -21,26 +21,29 @@ export default () => (
         </p>
       </div>
     </a>
+
     <div
-      className="bg-cover h-screen w-screen fixed z-0"
+      className="relative h-screen w-screen bg-cover"
       style={{
         backgroundImage:
           'url("/static/paula-prekopova-Mt9DbRm2KmA-unsplash.jpg")'
       }}
-    />
-    <div className="bg-color-cover opacity-75 fixed h-screen w-screen" />
-    <div className="relative z-10 pt-80 h-screen">
-      <div className="flex flex-wrap justify-center content-center pb-20 px-10 lg:px-0">
-        <img
-          src={require('static/logo-text-black-horizontal.png')}
-          alt="Tech Imprint Arena"
-        />
-      </div>
-      <div className="w-100 flex flex-wrap justify-center text-center">
-        <p className="font-medium italic w-2/4 text-xl">
-          At the Tech Imprint Arena, companies open up their inner core and tell
-          you how they use today’s technology to make a tech imprint tomorrow
-        </p>
+    >
+      <div className="bg-color-cover opacity-75 fixed h-screen w-screen" />
+      <div className="relative z-10 pt-80 h-screen">
+        <div className="flex flex-wrap justify-center content-center pb-20 px-10 lg:px-0">
+          <img
+            src={require('static/logo-text-black-horizontal.png')}
+            alt="Tech Imprint Arena"
+          />
+        </div>
+        <div className="w-100 flex flex-wrap justify-center text-center">
+          <p className="font-medium italic w-2/4 text-xl">
+            At the Tech Imprint Arena, companies open up their inner core and
+            tell you how they use today’s technology to make a tech imprint
+            tomorrow
+          </p>
+        </div>
       </div>
     </div>
     {/* home */}
@@ -48,9 +51,9 @@ export default () => (
       id="home"
       className="relative pt-20 lg:pt-40 h-screen bg-color-cover-full"
     >
-      <div className="flex flex-wrap">
+      <div className="flex flex-wrap px-10">
         <div className="w-full lg:w-1/2 flex justify-center text-center">
-          <h2 className="text-3xl lg:text-5xl font-bold w-3/4 text-center lg:text-right lg:pt-32">
+          <h2 className="text-3xl lg:text-6xl font-bold w-3/4 text-center lg:text-right lg:pt-24">
             WHAT IS HAPPENING
             <br />
             RIGHT NOW?
@@ -86,7 +89,7 @@ export default () => (
       }}
     >
       <div className="pt-80 bg-color-cover opacity-75 relative h-screen w-screen">
-        <h2 className="w-full text-5xl font-bold w-3/4 text-center">
+        <h2 className="w-full text-3xl lg:text-6xl font-bold w-3/4 text-center">
           OUR AMBITION
         </h2>
         <div className="w-full text-center px-10">
@@ -101,11 +104,11 @@ export default () => (
     </div>
     {/* how, where and when */}
     <div className="relative pt-20 lg:pt-64 h-screen bg-color-cover-full p-10 lg:p-20">
-      <div className="flex flex-wrap">
+      <div className="flex flex-wrap px-10">
         <div className="w-full lg:w-1/4 flex justify-center text-center block lg:hidden">
           <h2 className="text-3xl lg:text-5xl font-bold text-center lg:text-left lg:pt-16">
-            HOW <br />
-            WHERE <br />
+            HOW<br />
+            WHERE<br />
             &amp; WHEN?
           </h2>
         </div>
@@ -135,8 +138,8 @@ export default () => (
         </div>
         <div className="w-full lg:w-1/4 flex justify-center text-center">
           <h2 className="text-3xl lg:text-5xl font-bold text-center lg:text-left lg:pt-8 hidden lg:block">
-            HOW <br />
-            WHERE <br />
+            HOW<br />
+            WHERE<br />
             &amp; WHEN?
           </h2>
         </div>
@@ -156,7 +159,7 @@ export default () => (
         </h2>
         <div className="w-full text-center pt-20 px-10">
           <div className="flex justify-center">
-            <Malarquee fill={false} className="w-2/4" rate={50}>
+            <Malarquee fill={false} className="w-2/4" rate={90}>
               {logos.map((l, li) => (
                 <img
                   key={li}

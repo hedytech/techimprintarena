@@ -6,7 +6,7 @@ export default () => (
       <title>Press - Tech Imprent Arena</title>
       <link rel="canonical" href="https://techimprentarena.com/press" />
     </Head>
-    <div className="bg-color-cover-full lg:h-screen w-screen p-10 pt-48">
+    <div className="bg-color-cover-full lg:h-screen w-screen p-10 pt-40">
       <div className="flex flex-wrap justify-center">
         <div className="flex flex-wrap w-4/5">
           <div className="w-full lg:w-1/2 text-center lg:text-right">
