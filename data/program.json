@@ -7,7 +7,7 @@
     "slug": "gothenburg",
     "location": "Johan & Nyström, Avenyn",
     "year": 2019,
-    "program2": [
+    "program": [
       {
         "day": "2019-05-06",
         "title": "Monday 06/05",
@@ -16,43 +16,13 @@
             "day": "2019-05-06",
             "start": "10:00",
             "end": "15:00",
-            "title": "CompInn",
-            "text": "Join CompInn on the 6th of May and let us entertain you with excellent speakers, inspiring entrepreneurs and great opportunity to expand your network.",
-            "by": "WSINC, Greenups",
-            "location": "University of Gothenburg",
+            "title": "Event Title",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "by": "Event",
+            "location": "University of Events",
             "image": "city/gbg.jpg",
             "info": "This event is full",
             "info_color": "red"
-          },
-          {
-            "day": "2019-05-06",
-            "start": "15:00",
-            "end": "18:00",
-            "title": "CompInn 2",
-            "text": "Join CompInn on the 6th of May and let us entertain you with excellent speakers, inspiring entrepreneurs and great opportunity to expand your network.",
-            "by": "WSINC, Greenups",
-            "location": "University of Gothenburg",
-            "image": "city/gbg.jpg"
-          },
-          {
-            "day": "2019-05-06",
-            "start": "10:00",
-            "end": "15:00",
-            "title": "CompInn",
-            "text": "Join CompInn on the 6th of May and let us entertain you with excellent speakers, inspiring entrepreneurs and great opportunity to expand your network.",
-            "by": "WSINC, Greenups",
-            "location": "University of Gothenburg",
-            "image": "city/gbg.jpg"
-          },
-          {
-            "day": "2019-05-06",
-            "start": "15:00",
-            "end": "18:00",
-            "title": "CompInn 2",
-            "text": "Join CompInn on the 6th of May and let us entertain you with excellent speakers, inspiring entrepreneurs and great opportunity to expand your network.",
-            "by": "WSINC, Greenups",
-            "location": "University of Gothenburg",
-            "image": "city/gbg.jpg"
           }
         ]
       },
@@ -60,46 +30,6 @@
         "day": "2019-05-07",
         "title": "Tuesday 07/05",
         "events": [
-          {
-            "day": "2019-05-07",
-            "start": "10:00",
-            "end": "15:00",
-            "title": "CompInn Next day",
-            "text": "Join CompInn on the 6th of May and let us entertain you with excellent speakers, inspiring entrepreneurs and great opportunity to expand your network.",
-            "by": "WSINC, Greenups",
-            "location": "University of Gothenburg",
-            "image": "city/gbg.jpg"
-          },
-          {
-            "day": "2019-05-07",
-            "start": "10:00",
-            "end": "15:00",
-            "title": "CompInn Next day",
-            "text": "Join CompInn on the 6th of May and let us entertain you with excellent speakers, inspiring entrepreneurs and great opportunity to expand your network.",
-            "by": "WSINC, Greenups",
-            "location": "University of Gothenburg",
-            "image": "city/gbg.jpg"
-          },
-          {
-            "day": "2019-05-07",
-            "start": "10:00",
-            "end": "15:00",
-            "title": "CompInn Next day",
-            "text": "Join CompInn on the 6th of May and let us entertain you with excellent speakers, inspiring entrepreneurs and great opportunity to expand your network.",
-            "by": "WSINC, Greenups",
-            "location": "University of Gothenburg",
-            "image": "city/gbg.jpg"
-          },
-          {
-            "day": "2019-05-07",
-            "start": "10:00",
-            "end": "15:00",
-            "title": "CompInn Next day",
-            "text": "Join CompInn on the 6th of May and let us entertain you with excellent speakers, inspiring entrepreneurs and great opportunity to expand your network.",
-            "by": "WSINC, Greenups",
-            "location": "University of Gothenburg",
-            "image": "city/gbg.jpg"
-          }
         ]
       },
       {

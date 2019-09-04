@@ -8,8 +8,8 @@
       const [day, setDay] = useState('');
 
       useEffect(() => {
-        !day && setDay('0');
-      });
+        setDay('0');
+      }, []);
 
       return (
         <div>
@@ -24,7 +24,7 @@
             }}
           />
           <div className="bg-color-cover opacity-75 fixed h-screen w-screen" />
-          <div className='relative pt-32 w-full -mb-24'>
+          <div className='relative pt-32 w-full -mb-24 z-10'>
             <h2 className="w-full text-5xl font-bold w-3/4 text-center">
               Oslo<br/>7TH – 18TH of Oct 2019
             </h2>
