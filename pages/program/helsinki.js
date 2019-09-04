@@ -20,7 +20,7 @@
           <div
           className="bg-cover bg-center h-screen w-screen fixed z-0"
             style={{
-              backgroundImage: 'url("/static/city/helsinki.jpg")'
+              backgroundImage: 'url("/static/city/helsinki-bw2.jpg")'
             }}
           />
           <div className="bg-color-cover opacity-75 fixed h-screen w-screen" />

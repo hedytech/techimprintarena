@@ -3,7 +3,7 @@
     "name": "Gothenburg",
     "when": "25TH – 29TH of Nov 2019",
     "image": "city/gbg-circle.png",
-    "background": "city/gbg.jpg",
+    "background": "city/gbg-bw2.jpg",
     "slug": "gothenburg",
     "location": "Johan & Nyström, Avenyn",
     "year": 2019,
@@ -43,7 +43,7 @@
     "when": "25TH – 29TH of Nov 2019",
     "year": 2019,
     "image": "city/sthlm-circle.png",
-    "background": "city/sthlm.jpg",
+    "background": "city/sthlm-bw2.jpg",
     "slug": "stockholm"
   },
   {
@@ -51,7 +51,7 @@
     "when": "7TH – 18TH of Oct 2019",
     "year": 2019,
     "image": "city/malmo-circle.png",
-    "background": "city/malmo.jpg",
+    "background": "city/malmo-bw2.jpg",
     "slug": "malmo"
   },
   {
@@ -59,7 +59,7 @@
     "when": "7TH – 18TH of Oct 2019",
     "year": 2019,
     "image": "city/oslo-circle.png",
-    "background": "city/oslo.jpg",
+    "background": "city/oslo-bw2.jpg",
     "slug": "oslo"
   },
   {
@@ -67,7 +67,7 @@
     "when": "7TH – 18TH of Oct 2019",
     "year": 2019,
     "image": "city/copenhagen-circle.png",
-    "background": "city/copenhagen.jpg",
+    "background": "city/copenhagen-bw2.jpg",
     "slug": "copenhangen"
   },
   {
@@ -75,7 +75,7 @@
     "when": "7TH – 18TH of Oct 2019",
     "year": 2019,
     "image": "city/helsinki-circle.png",
-    "background": "city/helsinki.jpg",
+    "background": "city/helsinki-bw2.jpg",
     "slug": "helsinki"
   }
 ]
