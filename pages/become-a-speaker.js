@@ -35,7 +35,12 @@ export default () => (
               <p className="pb-6">We need role models like you!</p>
               <p className="pb-6 italic">
                 Apply to become a speaker{' '}
-                <a href="https://forms.gle/prnuQ65aMadtTNGQ8" target="_blank" title="Become a speaker" className="underline">
+                <a
+                  href="https://forms.gle/prnuQ65aMadtTNGQ8"
+                  target="_blank"
+                  title="Become a speaker"
+                  className="underline"
+                >
                   here
                 </a>
               </p>
