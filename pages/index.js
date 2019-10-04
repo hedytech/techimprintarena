@@ -96,8 +96,8 @@ export default () => (
           <div className="w-full text-center px-10">
             <div className="flex justify-center">
               <p className="py-6 w-full lg:w-2/4 text-2xl">
-                Create the number one arena where tech innovations, with focus on
-                making a better world, are shared with the society.
+                Create the number one arena where tech innovations, with focus
+                on making a better world, are shared with the society.
               </p>
             </div>
           </div>
@@ -119,8 +119,8 @@ export default () => (
         <div className="w-full lg:w-3/4">
           <div className="p-0 lg:p-10 text-lg lg:text-xl">
             <p className="pb-6">
-              During a one week period in each city, companies will gather
-              to tell YOU how they use the latest technology to create a better
+              During a one week period in each city, companies will gather to
+              tell YOU how they use the latest technology to create a better
               world.
             </p>
             <p className="pb-6">

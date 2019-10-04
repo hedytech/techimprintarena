@@ -13,8 +13,8 @@ export default () => (
           'url("/static/paula-prekopova-Mt9DbRm2KmA-unsplash.jpg")'
       }}
     />
-    <div className="bg-color-cover opacity-75 fixed h-screen w-screen" />
-    <div className="relative pt-40 pb-20">
+    <div className="bg-color-cover opacity-75 fixed min-h-screen w-screen" />
+    <div className="relative pt-32 lg:pt-40 pb-20">
       <div className="flex flex-wrap justify-center">
         <div className="flex flex-wrap w-4/5">
           <div className="w-full lg:w-1/2 text-center lg:text-right">
@@ -56,13 +56,13 @@ export default () => (
                 Let’s make a tech imprint for a better world TOGETHER!
               </p>
             </div>
-            <div className="p-10 lg:p-0 flex flex-wrap">
+            <div className="flex flex-wrap">
               <div className="w-1/3">
                 <p className="font-bold">Malin Kjällström</p>
                 <p>Gbg Tech Week</p>
                 <p className="flex lg:justify-center pt-2">
                   <img
-                    className="w-8 lg:mr-24"
+                    className="w-8 h-8 lg:mr-24"
                     src={require('static/gtw_logo_black.png')}
                   />
                 </p>
@@ -72,7 +72,7 @@ export default () => (
                 <p>Hedylity Technology</p>
                 <p className="flex lg:justify-center pt-2">
                   <img
-                    className="w-6 lg:mr-24"
+                    className="w-6 h-12 lg:mr-24"
                     src={require('static/hedy-black-coral.png')}
                   />
                 </p>
@@ -82,7 +82,7 @@ export default () => (
                 <p>Techposition</p>
                 <p className="flex lg:justify-center pt-2">
                   <img
-                    className="w-8 lg:mr-24"
+                    className="w-8 h-8 lg:mr-24"
                     src={require('static/techposition.png')}
                   />
                 </p>
@@ -93,12 +93,12 @@ export default () => (
       </div>
     </div>
     {/* our ambition */}
-    <div className="relative pt-80 h-screen w-screen">
+    <div className="relative pt-0 lg:pt-80 min-h-screen w-screen">
       <h2 className="w-full text-5xl font-bold w-3/4 text-center">
         Contact us!
       </h2>
-      <div className="w-full text-center px-10">
-        <p className="text-center py-6 w-full text-2xl font-bold">
+      <div className="w-full text-center px-0 lg:px-10">
+        <p className="text-center py-6 w-full text-lg lg:text-2xl font-bold">
           <a href="mailto:hey@techimprintarena.com" className="hover:underline">
             hey@techimprintarena.com
           </a>

@@ -19,7 +19,7 @@ export default class Application extends App {
         </div>
         <Footer>
           <div className="flex flex-wrap">
-            <div className="w-1/2">
+            <div className="w-full lg:w-1/2 pb-5">
               <a
                 href="/privacy-policy"
                 title="Privacy Policy"
@@ -28,7 +28,7 @@ export default class Application extends App {
                 Privacy Policy
               </a>
             </div>
-            <div className="w-1/2 text-right">
+            <div className="w-full lg:w-1/2">
               <p>
                 <span className="location-icon black" /> Malmskillnadsgatan 32,
                 111 51 Stockholm
