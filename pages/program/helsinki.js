@@ -26,7 +26,7 @@
           <div className="bg-color-cover opacity-75 fixed h-screen w-screen" />
           <div className='relative pt-32 w-full -mb-24 z-10'>
             <h2 className="w-full text-5xl font-bold w-3/4 text-center">
-              Helsinki<br/>7TH – 18TH of Oct 2019
+              Helsinki<br/>26th – 30th of Oct 2020
             </h2>
             <p className='text-center text-lg w-full'></p>
           </div>

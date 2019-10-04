@@ -26,7 +26,7 @@
           <div className="bg-color-cover opacity-75 fixed h-screen w-screen" />
           <div className='relative pt-32 w-full -mb-24 z-10'>
             <h2 className="w-full text-5xl font-bold w-3/4 text-center">
-              Gothenburg<br/>25TH – 29TH of Nov 2019
+              Gothenburg<br/>25th – 29th of November 2019
             </h2>
             <p className='text-center text-lg w-full'><span className='location-icon black'></span> Johan & Nyström, Avenyn</p>
           </div>

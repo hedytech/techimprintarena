@@ -14,7 +14,7 @@ export default () => (
       }}
     />
     <div className="bg-color-cover opacity-75 fixed h-screen w-screen" />
-    <div className="relative z-10 pt-48">
+    <div className="relative z-10 pt-32 lg:pt-48">
       {program.map((c, ci) => (
         <div key={ci} className="flex justify-center mb-20">
           {ci % 2 === 0 ? (
@@ -24,10 +24,10 @@ export default () => (
               className="flex items-center hover:underline"
             >
               <img
-                className="w-48 h-48 rounded-full mr-4"
+                className="w-24 h-24 lg:w-48 lg:h-48 rounded-full lg:mr-4 ml-5 lg:ml-0"
                 src={require(`static/${c.image}`)}
               />
-              <h2 className="text-5xl font-bold pl-10">
+              <h2 className="text-lg lg:text-5xl font-bold pl-10">
                 {c.name.toUpperCase()} <br />
                 {c.when.toUpperCase()}
               </h2>
@@ -38,12 +38,12 @@ export default () => (
               title={c.name}
               className="flex items-center hover:underline"
             >
-              <h2 className="text-5xl font-bold pr-10">
+              <h2 className="text-lg lg:text-5xl font-bold pl-10">
                 {c.name.toUpperCase()} <br />
                 {c.when.toUpperCase()}
               </h2>
               <img
-                className="w-48 h-48 rounded-full mr-4"
+                className="w-24 h-24 lg:w-48 lg:h-48 rounded-full mr-4"
                 src={require(`static/${c.image}`)}
               />
             </a>
