@@ -63,7 +63,7 @@ export default () => (
                 <p className="flex lg:justify-center pt-2">
                   <img
                     className="w-8 h-8 lg:mr-24"
-                    src={require('public/gtw_logo_black.png')}
+                    src="/gtw_logo_black.png"
                     alt="Gbg Tech Week"
                   />
                 </p>
@@ -74,7 +74,7 @@ export default () => (
                 <p className="flex lg:justify-center pt-2">
                   <img
                     className="w-6 h-12 lg:mr-24"
-                    src={require('public/hedy-black-coral.png')}
+                    src="/hedy-black-coral.png"
                     alt="Hedylity Technology"
                   />
                 </p>
@@ -85,7 +85,7 @@ export default () => (
                 <p className="flex lg:justify-center pt-2">
                   <img
                     className="w-8 h-8 lg:mr-24"
-                    src={require('public/techposition.png')}
+                    src="/techposition.png"
                     alt="Techposition"
                   />
                 </p>
@@ -110,14 +110,14 @@ export default () => (
           <a href="#" title="Facebook">
             <img
               className="w-6 inline-block mr-2"
-              src={require('public/facebook.png')}
+              src="/facebook.png"
               alt="Facebook"
             />
           </a>
           <a href="#" title="Instagram">
             <img
               className="w-6 inline-block"
-              src={require('public/instagram.png')}
+              src="/instagram.png"
               alt="Instagram"
             />
           </a>

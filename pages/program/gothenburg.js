@@ -80,7 +80,7 @@
         <div className='w-full lg:w-1/5 -mr-6 pb-6 lg:pb-0'>
           <img
             className="w-16 h-16 rounded-full mr-4"
-            src={require('public/city/gbg.jpg')}
+            src="/city/gbg.jpg"
             alt="Event Title"
           />
         </div>

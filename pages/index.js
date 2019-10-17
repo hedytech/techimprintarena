@@ -33,7 +33,7 @@ export default () => (
       <div className="relative z-10 pt-0 lg:pt-80 h-screen">
         <div className="flex flex-wrap justify-center content-center pb-20 px-10 lg:px-0 -mt-20 lg:mt-0">
           <img
-            src={require('public/logo-text-black-horizontal.png')}
+            src="/logo-text-black-horizontal.png"
             alt="Tech Imprint Arena"
           />
         </div>
@@ -170,7 +170,7 @@ export default () => (
                 {logos.map((l, li) => (
                   <img
                     key={li}
-                    src={require(`public/${l.image}`)}
+                    src={`/${l.image}`}
                     className="malarquee-img"
                     alt={l.name}
                   />

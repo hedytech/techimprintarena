@@ -37,7 +37,7 @@ export default class Application extends App {
                 Created by{' '}
                 <a href="https://hedy.tech" target="_blank" title="Hedy">
                   <img
-                    src={require('public/hedy-black-coral.png')}
+                    src="/hedy-black-coral.png"
                     className="w-4 inline-block"
                     alt="Hedy"
                   />

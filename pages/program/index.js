@@ -25,7 +25,7 @@ export default () => (
             >
               <img
                 className="w-24 h-24 lg:w-48 lg:h-48 rounded-full ml-5 lg:ml-0"
-                src={require(`public/${c.image}`)}
+                src={`/${c.image}`}
                 alt={c.name}
               />
               <h2 className="text-lg lg:text-5xl font-bold pl-10">
@@ -45,7 +45,7 @@ export default () => (
               </h2>
               <img
                 className="w-24 h-24 lg:w-48 lg:h-48 rounded-full mr-5"
-                src={require(`public/${c.image}`)}
+                src={`/${c.image}`}
                 alt={c.name}
               />
             </a>

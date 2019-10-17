@@ -14,7 +14,7 @@ export default ({ menus }) => {
       <div className="container mx-auto px-6 py-2 flex justify-between items-center bg-black">
         <a className="font-bold text-2xl lg:text-4xl text-white" href="/#">
           <img
-            src={require('public/logo-sidebyside.png')}
+            src="/logo-sidebyside.png"
             alt="Tech Imprint Arena"
             className="w-24"
           />
