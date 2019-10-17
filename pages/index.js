@@ -17,7 +17,7 @@ export default () => (
       <div className="p-5 px-3">
         <h3 className="text-lg italic text-white pb-2">Upcoming</h3>
         <p className="text-white text-sm">
-          Gothenburg the 25TH – 29TH of Nov 2019
+          GOTHENBURG THE 25th – 29th OF NOV 2019
         </p>
       </div>
     </a>
@@ -49,10 +49,10 @@ export default () => (
     {/* home */}
     <div
       id="home"
-      className="relative pb-20 pt-20 lg:pt-40 min-h-screen bg-color-cover-full"
+      className="relative pb-20 pt-20 min-h-screen bg-color-cover-full"
     >
-      <div className="flex flex-wrap px-10">
-        <div className="w-full lg:w-1/2 flex justify-center text-center">
+      <div className="flex content-center min-h-screen flex-wrap px-10">
+        <div className="w-full lg:w-1/2 ">
           <h2 className="text-3xl lg:text-6xl font-bold w-3/4 text-center lg:text-right lg:pt-24 pb-10">
             WHAT IS HAPPENING
             <br />
@@ -97,7 +97,7 @@ export default () => (
             <div className="flex justify-center">
               <p className="py-6 w-full lg:w-2/4 text-2xl">
                 Create the number one arena where tech innovations, with focus
-                on making a better world, are shared with the society.
+                on making a better world, are shared with the society
               </p>
             </div>
           </div>
@@ -105,8 +105,8 @@ export default () => (
       </div>
     </div>
     {/* how, where and when */}
-    <div className="relative pt-20 pb-20 lg:pt-64 min-h-screen bg-color-cover-full p-10 lg:p-20">
-      <div className="flex flex-wrap px-10">
+    <div className="relative pt-20 pb-20 min-h-screen bg-color-cover-full p-10 lg:p-20">
+      <div className="flex flex-wrap content-center min-h-screen lg:min-h-auto px-10">
         <div className="w-full flex justify-center text-center block lg:hidden">
           <h2 className="text-3xl lg:text-5xl font-bold text-center lg:text-left lg:pt-16 pb-10">
             HOW

@@ -10,14 +10,14 @@ export default () => (
       className="bg-cover h-screen w-screen fixed z-0"
       style={{
         backgroundImage:
-          'url("/paula-prekopova-Mt9DbRm2KmA-unsplash.jpg")'
+          'url("/the-founders-have-the-word.png")'
       }}
     />
     <div className="bg-color-cover opacity-75 fixed min-h-screen w-screen" />
-    <div className="relative pt-32 lg:pt-40 pb-20">
+    <div className="relative pt-32 pb-20">
       <div className="flex flex-wrap justify-center">
         <div className="flex flex-wrap w-4/5">
-          <div className="w-full lg:w-1/2 text-center lg:text-right">
+          <div className="w-full lg:w-1/3 text-center lg:text-right">
             <h1 className="text-3xl lg:text-5xl font-bold lg:pt-48 lg:mr-24">
               THE FOUNDERS
               <br />
@@ -26,7 +26,7 @@ export default () => (
               WORD
             </h1>
           </div>
-          <div className="w-full lg:w-1/2">
+          <div className="w-full lg:w-2/3">
             <div className="pt-10 lg:mr-18 text-lg lg:text-xl">
               <p className="pb-6">
                 We founded the Tech Imprint Arena with two things in mind;
@@ -95,10 +95,10 @@ export default () => (
         </div>
       </div>
     </div>
-    {/* our ambition */}
+    {/* contact us */}
     <div className="relative pt-0 lg:pt-80 min-h-screen w-screen">
       <h2 className="w-full text-5xl font-bold w-3/4 text-center">
-        Contact us!
+        If any questions - contact us!
       </h2>
       <div className="w-full text-center px-0 lg:px-10">
         <p className="text-center py-6 w-full text-lg lg:text-2xl font-bold">
@@ -107,19 +107,26 @@ export default () => (
           </a>
         </p>
         <p className="text-center w-full">
-          <a href="#" title="Facebook">
+          <a href="https://www.facebook.com/Tech-Imprint-Arena-106166127426805/" target="_blank" title="Facebook">
             <img
               className="w-6 inline-block mr-2"
               src="/facebook.png"
               alt="Facebook"
             />
           </a>
-          <a href="#" title="Instagram">
+          <a href="https://www.instagram.com/techimprintarena/" target="_blank" title="Instagram">
             <img
-              className="w-6 inline-block"
+              className="w-6 inline-block mr-2"
               src="/instagram.png"
               alt="Instagram"
-            />J
+            />
+          </a>
+          <a href="https://www.linkedin.com/company/tech-imprint-arena/" target="_blank" title="LinkedIn">
+            <img
+              className="w-6 inline-block mr-2"
+              src="/linkedin.png"
+              alt="LinkedIn"
+            />
           </a>
         </p>
       </div>

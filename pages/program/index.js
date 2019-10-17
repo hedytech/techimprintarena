@@ -22,30 +22,30 @@ export default () => (
             <a
               href={`/program/${c.slug}`}
               title={c.name}
-              className="flex items-center hover:underline"
+              className="flex w-full lg:w-2/3 hover:underline"
             >
               <img
-                className="w-24 h-24 lg:w-48 lg:h-48 rounded-full ml-5 lg:ml-0"
+                className="w-24 h-24 lg:w-48 lg:h-48 rounded-full ml-5 lg:ml-0 -mt-5"
                 src={`/${c.image}`}
                 alt={c.name}
               />
               <h2 className="text-lg lg:text-5xl font-bold pl-10">
-                {c.name.toUpperCase()} <br />
-                {c.when.toUpperCase()}
+                <span>{c.name.toUpperCase()}</span> <br />
+                <span className="text-base lg:text-3xl" dangerouslySetInnerHTML={{__html:c.when.toUpperCase().replace(/TH/g, '<sup>th</sup>')}}></span>
               </h2>
             </a>
           ) : (
             <a
               href={`/program/${c.slug}`}
               title={c.name}
-              className="flex items-center hover:underline"
+              className="flex w-full lg:w-2/3 hover:underline"
             >
-              <h2 className="text-lg lg:text-5xl font-bold pl-10 pr-10">
-                {c.name.toUpperCase()} <br />
-                {c.when.toUpperCase()}
+              <h2 className="text-lg lg:text-5xl font-bold pl-10 pr-12 w-full text-right">
+                <span>{c.name.toUpperCase()}</span> <br />
+                <span className="text-base lg:text-3xl" dangerouslySetInnerHTML={{__html:c.when.toUpperCase().replace(/TH/g, '<sup>th</sup>')}}></span>
               </h2>
               <img
-                className="w-24 h-24 lg:w-48 lg:h-48 rounded-full mr-5"
+                className="w-24 h-24 lg:w-48 lg:h-48 rounded-full mr-5 -mt-5"
                 src={`/${c.image}`}
                 alt={c.name}
               />
