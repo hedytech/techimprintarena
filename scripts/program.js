@@ -26,7 +26,7 @@ const eventTemplate = event =>
         <div className='w-full lg:w-1/5 -mr-6 pb-6 lg:pb-0'>
           <img
             className="w-16 h-16 rounded-full mr-4"
-            src={require('static/${event.image}')}
+            src={require('public/${event.image}')}
             alt="${event.title}"
           />
         </div>
@@ -95,7 +95,7 @@ const template = city =>
           <div
           className="bg-cover bg-center h-screen w-screen fixed z-0"
             style={{
-              backgroundImage: 'url("/static/${city.background}")'
+              backgroundImage: 'url("/${city.background}")'
             }}
           />
           <div className="bg-color-cover opacity-75 fixed h-screen w-screen" />

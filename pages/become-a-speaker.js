@@ -13,7 +13,7 @@ export default () => (
       className="bg-cover h-screen w-screen fixed z-0"
       style={{
         backgroundImage:
-          'url("/static/paula-prekopova-Mt9DbRm2KmA-unsplash.jpg")'
+          'url("/paula-prekopova-Mt9DbRm2KmA-unsplash.jpg")'
       }}
     />
     <div className="bg-color-cover opacity-75 fixed h-screen w-screen" />

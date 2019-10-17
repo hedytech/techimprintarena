@@ -44,7 +44,7 @@ body {
   margin: 0;
   padding: 0 40px 0 40px;
 	list-style: none;
-  background-image: url('../static/imprint-black.png');
+  background-image: url("/imprint-black.png");
 	background-repeat: no-repeat;
 	background-position: left top;
   background-size: 24px;
@@ -237,7 +237,7 @@ body {
 .location-icon {
   display: inline-block;
   padding-right: 0;
-  background-image: url(/static/map-marker-white.png);
+  background-image: url("/map-marker-white.png");
   background-size: 100%;
   background-repeat: no-repeat;
   width: 1em;
@@ -250,5 +250,5 @@ body {
 }
 
 .location-icon.black {
-  background-image: url(/static/map-marker-black.png);
+  background-image: url("/map-marker-black.png");
 }

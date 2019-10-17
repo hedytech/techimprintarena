@@ -10,7 +10,7 @@ export default () => (
     <div
       className="bg-cover bg-center h-screen w-screen fixed z-0"
       style={{
-        backgroundImage: 'url("/static/digby-cheung-qyOvSz_lJEQ-unsplash.jpg")'
+        backgroundImage: 'url("/digby-cheung-qyOvSz_lJEQ-unsplash.jpg")'
       }}
     />
     <div className="bg-color-cover opacity-75 fixed h-screen w-screen" />
@@ -25,7 +25,8 @@ export default () => (
             >
               <img
                 className="w-24 h-24 lg:w-48 lg:h-48 rounded-full ml-5 lg:ml-0"
-                src={require(`static/${c.image}`)}
+                src={require(`public/${c.image}`)}
+                alt={c.name}
               />
               <h2 className="text-lg lg:text-5xl font-bold pl-10">
                 {c.name.toUpperCase()} <br />
@@ -44,7 +45,8 @@ export default () => (
               </h2>
               <img
                 className="w-24 h-24 lg:w-48 lg:h-48 rounded-full mr-5"
-                src={require(`static/${c.image}`)}
+                src={require(`public/${c.image}`)}
+                alt={c.name}
               />
             </a>
           )}

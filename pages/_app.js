@@ -28,7 +28,7 @@ export default class Application extends App {
                 Privacy Policy
               </a>
             </div>
-            <div className="w-full lg:w-1/2">
+            <div className="w-full lg:w-1/2 lg:text-right">
               <p>
                 <span className="location-icon black" /> Malmskillnadsgatan 32,
                 111 51 Stockholm
@@ -37,7 +37,7 @@ export default class Application extends App {
                 Created by{' '}
                 <a href="https://hedy.tech" target="_blank" title="Hedy">
                   <img
-                    src={require('static/hedy-black-coral.png')}
+                    src={require('public/hedy-black-coral.png')}
                     className="w-4 inline-block"
                     alt="Hedy"
                   />

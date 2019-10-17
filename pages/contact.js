@@ -10,7 +10,7 @@ export default () => (
       className="bg-cover h-screen w-screen fixed z-0"
       style={{
         backgroundImage:
-          'url("/static/paula-prekopova-Mt9DbRm2KmA-unsplash.jpg")'
+          'url("/paula-prekopova-Mt9DbRm2KmA-unsplash.jpg")'
       }}
     />
     <div className="bg-color-cover opacity-75 fixed min-h-screen w-screen" />
@@ -63,7 +63,7 @@ export default () => (
                 <p className="flex lg:justify-center pt-2">
                   <img
                     className="w-8 h-8 lg:mr-24"
-                    src={require('static/gtw_logo_black.png')}
+                    src={require('public/gtw_logo_black.png')}
                     alt="Gbg Tech Week"
                   />
                 </p>
@@ -74,7 +74,7 @@ export default () => (
                 <p className="flex lg:justify-center pt-2">
                   <img
                     className="w-6 h-12 lg:mr-24"
-                    src={require('static/hedy-black-coral.png')}
+                    src={require('public/hedy-black-coral.png')}
                     alt="Hedylity Technology"
                   />
                 </p>
@@ -85,7 +85,7 @@ export default () => (
                 <p className="flex lg:justify-center pt-2">
                   <img
                     className="w-8 h-8 lg:mr-24"
-                    src={require('static/techposition.png')}
+                    src={require('public/techposition.png')}
                     alt="Techposition"
                   />
                 </p>
@@ -110,14 +110,14 @@ export default () => (
           <a href="#" title="Facebook">
             <img
               className="w-6 inline-block mr-2"
-              src={require('static/facebook.png')}
+              src={require('public/facebook.png')}
               alt="Facebook"
             />
           </a>
           <a href="#" title="Instagram">
             <img
               className="w-6 inline-block"
-              src={require('static/instagram.png')}
+              src={require('public/instagram.png')}
               alt="Instagram"
             />
           </a>

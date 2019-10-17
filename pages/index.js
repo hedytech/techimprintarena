@@ -26,14 +26,14 @@ export default () => (
       className="relative h-screen w-screen bg-cover"
       style={{
         backgroundImage:
-          'url("/static/paula-prekopova-Mt9DbRm2KmA-unsplash.jpg")'
+          'url("/paula-prekopova-Mt9DbRm2KmA-unsplash.jpg")'
       }}
     >
       <div className="bg-color-cover opacity-75 fixed min-h-screen w-screen" />
       <div className="relative z-10 pt-0 lg:pt-80 h-screen">
         <div className="flex flex-wrap justify-center content-center pb-20 px-10 lg:px-0 -mt-20 lg:mt-0">
           <img
-            src={require('static/logo-text-black-horizontal.png')}
+            src={require('public/logo-text-black-horizontal.png')}
             alt="Tech Imprint Arena"
           />
         </div>
@@ -85,7 +85,7 @@ export default () => (
       id="our-ambition"
       className="relative h-screen w-screen bg-cover"
       style={{
-        backgroundImage: 'url("/static/ben-white-148783-unsplash.jpg")'
+        backgroundImage: 'url("/ben-white-148783-unsplash.jpg")'
       }}
     >
       <div className="bg-color-cover opacity-75 relative min-h-screen w-screen">
@@ -156,7 +156,7 @@ export default () => (
       className="relative h-screen w-screen bg-cover"
       style={{
         backgroundImage:
-          'url("/static/douglas-sanchez-BITrZ_FIjAQ-unsplash.jpg")'
+          'url("/douglas-sanchez-BITrZ_FIjAQ-unsplash.jpg")'
       }}
     >
       <div className="bg-color-cover opacity-75 relative h-screen w-screen">
@@ -170,7 +170,7 @@ export default () => (
                 {logos.map((l, li) => (
                   <img
                     key={li}
-                    src={require(`static/${l.image}`)}
+                    src={require(`public/${l.image}`)}
                     className="malarquee-img"
                     alt={l.name}
                   />

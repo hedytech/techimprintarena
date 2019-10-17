@@ -12,7 +12,7 @@
     "babel-eslint": "^10.0.3",
     "imagemin-mozjpeg": "^8.0.0",
     "imagemin-optipng": "^7.0.0",
-    "next": "^9.0.5",
+    "next": "^9.1.1",
     "next-optimized-images": "^2.5.3",
     "postcss-easy-import": "^3.0.0",
     "prettier-semi-cli": "^1.0.0",

@@ -20,7 +20,7 @@
           <div
           className="bg-cover bg-center h-screen w-screen fixed z-0"
             style={{
-              backgroundImage: 'url("/static/city/oslo-bw2.jpg")'
+              backgroundImage: 'url("/city/oslo-bw2.jpg")'
             }}
           />
           <div className="bg-color-cover opacity-75 fixed h-screen w-screen" />
@@ -34,17 +34,16 @@
             <div className='flex flex-wrap justify-center content-center p-10 lg:p-40 pt-40 h-screen'>
             <h3 className="text-center font-bold text-3xl -mt-20">To be announced</h3>
             <div className='w-4/5 fixed hidden lg:block'>
-                
+
                 <div className="day-selector-container">
-                  
+
                 </div>
               </div>
               <div className='w-full lg:w-4/5 lg:ml-48'>
-                
+
               </div>
             </div>
           </div>
         </div>
       );
     }
-  

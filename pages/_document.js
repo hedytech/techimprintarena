@@ -32,21 +32,21 @@ export default class AppDocument extends Document {
           <link
             rel="apple-touch-icon"
             sizes="180x180"
-            href="/static/apple-touch-icon.png"
+            href="/apple-touch-icon.png"
           />
           <link
             rel="icon"
             type="image/png"
             sizes="32x32"
-            href="/static/favicon-32x32.png"
+            href="/favicon-32x32.png"
           />
           <link
             rel="icon"
             type="image/png"
             sizes="16x16"
-            href="/static/favicon-16x16.png"
+            href="/favicon-16x16.png"
           />
-          <link rel="manifest" href="/static/site.webmanifest" />
+          <link rel="manifest" href="/site.webmanifest" />
           <link
             href="https://fonts.googleapis.com/css?family=Montserrat:300,500i,900,900i"
             rel="stylesheet"
@@ -67,7 +67,7 @@ export default class AppDocument extends Document {
           />
           <meta
             property="og:image"
-            content="https://techimprintarena.com/static/square-imprint-turquoise.png.png"
+            content="https://techimprintarena.com/square-imprint-turquoise.png.png"
           />
           <meta name="twitter:title" content=" Tech Imprint Arena" />
           <meta
@@ -76,7 +76,7 @@ export default class AppDocument extends Document {
           />
           <meta
             name="twitter:image"
-            content="https://techimprintarena.com/static/square-imprint-turquoise.png.png"
+            content="https://techimprintarena.com/square-imprint-turquoise.png.png"
           />
           <meta name="twitter:card" content="summary" />
         </Head>
