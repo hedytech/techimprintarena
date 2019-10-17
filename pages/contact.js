@@ -18,13 +18,13 @@ export default () => (
       <div className="flex flex-wrap justify-center">
         <div className="flex flex-wrap w-4/5">
           <div className="w-full lg:w-1/2 text-center lg:text-right">
-            <h2 className="text-3xl lg:text-5xl font-bold lg:pt-48 lg:mr-24">
+            <h1 className="text-3xl lg:text-5xl font-bold lg:pt-48 lg:mr-24">
               THE FOUNDERS
               <br />
               HAVE THE
               <br />
               WORD
-            </h2>
+            </h1>
           </div>
           <div className="w-full lg:w-1/2">
             <div className="pt-10 lg:mr-18 text-lg lg:text-xl">
@@ -119,7 +119,7 @@ export default () => (
               className="w-6 inline-block"
               src="/instagram.png"
               alt="Instagram"
-            />
+            />J
           </a>
         </p>
       </div>

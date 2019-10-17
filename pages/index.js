@@ -38,11 +38,11 @@ export default () => (
           />
         </div>
         <div className="w-100 flex flex-wrap justify-center text-center">
-          <p className="font-medium italic w-3/4 lg:w-2/4 text-xl">
+          <h1 className="font-medium italic w-3/4 lg:w-2/4 text-xl">
             At the Tech Imprint Arena, companies open up their inner core and
             tell you how they use today’s technology to make a tech imprint
             tomorrow
-          </p>
+          </h1>
         </div>
       </div>
     </div>

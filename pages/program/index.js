@@ -14,6 +14,7 @@ export default () => (
       }}
     />
     <div className="bg-color-cover opacity-75 fixed h-screen w-screen" />
+    <h1 className="invisible -mb-5">Program</h1>
     <div className="relative z-10 pt-32 lg:pt-48">
       {program.map((c, ci) => (
         <div key={ci} className="flex justify-center mb-20">

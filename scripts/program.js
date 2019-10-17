@@ -100,9 +100,9 @@ const template = city =>
           />
           <div className="bg-color-cover opacity-75 fixed h-screen w-screen" />
           <div className='relative pt-32 w-full -mb-24 z-10'>
-            <h2 className="w-full text-5xl font-bold w-3/4 text-center">
+            <h1 className="w-full text-5xl font-bold w-3/4 text-center">
               ${city.name}<br/>${city.when}
-            </h2>
+            </h1>
             <p className='text-center text-lg w-full'>${
               city.location
                 ? `<span className='location-icon black'></span> ${city.location}`

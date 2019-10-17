@@ -12,9 +12,9 @@ export default () => (
     <div className="bg-color-cover-full px-10 pt-40 pb-20">
       <div className="flex flex-wrap justify-center">
         <div className=" w-3/5">
-          <h2 className="text-3xl lg:text-5xl font-bold lg:pt-10 lg:mr-24">
+          <h1 className="text-3xl lg:text-5xl font-bold lg:pt-10 lg:mr-24">
             PRIVACY POLICY
-          </h2>
+          </h1>
           <p>
             We care about the protection of your personal information. In this
             privacy policy you can read about how we collect and process your

@@ -25,25 +25,26 @@
           />
           <div className="bg-color-cover opacity-75 fixed h-screen w-screen" />
           <div className='relative pt-32 w-full -mb-24 z-10'>
-            <h2 className="w-full text-5xl font-bold w-3/4 text-center">
+            <h1 className="w-full text-5xl font-bold w-3/4 text-center">
               Helsinki<br/>26th – 30th of Oct 2020
-            </h2>
+            </h1>
             <p className='text-center text-lg w-full'></p>
           </div>
           <div className='relative'>
             <div className='flex flex-wrap justify-center content-center p-10 lg:p-40 pt-40 h-screen'>
             <h3 className="text-center font-bold text-3xl -mt-20">To be announced</h3>
             <div className='w-4/5 fixed hidden lg:block'>
-
+                
                 <div className="day-selector-container">
-
+                  
                 </div>
               </div>
               <div className='w-full lg:w-4/5 lg:ml-48'>
-
+                
               </div>
             </div>
           </div>
         </div>
       );
     }
+  

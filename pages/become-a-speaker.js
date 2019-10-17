@@ -21,10 +21,10 @@ export default () => (
       <div className="flex flex-wrap justify-center px-10">
         <div className="flex flex-wrap w-4/5">
           <div className="w-full lg:w-1/2 text-center lg:text-right">
-            <h2 className="text-3xl lg:text-5xl font-bold lg:pt-12 lg:mr-24 pb-10">
+            <h1 className="text-3xl lg:text-5xl font-bold lg:pt-12 lg:mr-24 pb-10">
               BECOME
               <br />A SPEAKER
-            </h2>
+            </h1>
           </div>
           <div className="w-full lg:w-1/2">
             <div className="p-0 lg:p-10 lg:mr-18 text-lg lg:text-xl">

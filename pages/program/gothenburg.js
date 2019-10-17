@@ -25,40 +25,40 @@
           />
           <div className="bg-color-cover opacity-75 fixed h-screen w-screen" />
           <div className='relative pt-32 w-full -mb-24 z-10'>
-            <h2 className="w-full text-5xl font-bold w-3/4 text-center">
+            <h1 className="w-full text-5xl font-bold w-3/4 text-center">
               Gothenburg<br/>25th – 29th of November 2019
-            </h2>
+            </h1>
             <p className='text-center text-lg w-full'><span className='location-icon black'></span> Johan & Nyström, Avenyn</p>
           </div>
           <div className='relative'>
             <div className='flex flex-wrap justify-center content-center p-10 lg:p-40 pt-40 '>
-
+            
             <div className='w-4/5 fixed hidden lg:block'>
                 <h3 className="text-3xl text-white">Program 2019</h3>
                 <div className="day-selector-container">
-
+                  
   <div className="day-selector">
     <div className="day">
       <a href="#2019-05-06" className={'day-link ' + ('2019-05-06' === day ? 'active' : '')}>Monday 06/05</a>
     </div>
   </div>
-
+  
   <div className="day-selector">
     <div className="day">
       <a href="#2019-05-07" className={'day-link ' + ('2019-05-07' === day ? 'active' : '')}>Tuesday 07/05</a>
     </div>
   </div>
-
+  
   <div className="day-selector">
     <div className="day">
       <a href="#2019-05-08" className={'day-link ' + ('2019-05-08' === day ? 'active' : '')}>Wednesday 08/05</a>
     </div>
   </div>
-
+  
                 </div>
               </div>
               <div className='w-full lg:w-4/5 lg:ml-48'>
-
+                
     <div className='pb-4' id='2019-05-06'>
       <VisibilitySensor onChange={() => setDay('2019-05-06')}>
         <h3 className='pl-6 pb-6 text-white'>
@@ -66,7 +66,7 @@
           <span className='text-2xl'>Monday</span>
         </h3>
       </VisibilitySensor>
-
+      
   <div className='event'>
     <div className='event-timeline hidden lg:block'>
       <p className="event-time">
@@ -99,9 +99,9 @@
       </div>
     </div>
   </div>
-
+  
     </div>
-
+  
     <div className='pb-4' id='2019-05-07'>
       <VisibilitySensor onChange={() => setDay('2019-05-07')}>
         <h3 className='pl-6 pb-6 text-white'>
@@ -109,9 +109,9 @@
           <span className='text-2xl'>Tuesday</span>
         </h3>
       </VisibilitySensor>
-
+      
     </div>
-
+  
     <div className='pb-4' id='2019-05-08'>
       <VisibilitySensor onChange={() => setDay('2019-05-08')}>
         <h3 className='pl-6 pb-6 text-white'>
@@ -119,12 +119,13 @@
           <span className='text-2xl'>Wednesday</span>
         </h3>
       </VisibilitySensor>
-
+      
     </div>
-
+  
               </div>
             </div>
           </div>
         </div>
       );
     }
+  
