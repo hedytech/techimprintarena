@@ -51,10 +51,7 @@ export default class AppDocument extends Document {
             href="https://fonts.googleapis.com/css?family=Montserrat:300,500i,900,900i"
             rel="stylesheet"
           />
-          <meta
-            name="viewport"
-            content="width=device-width, initial-scale=1"
-          />
+          <meta name="viewport" content="width=device-width, initial-scale=1" />
           <meta
             name="description"
             content="At the Tech Imprint Arena, companies open up their inner core and tell you how they use today’s technology to make a tech imprint tomorrow"

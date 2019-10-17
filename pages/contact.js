@@ -9,8 +9,7 @@ export default () => (
     <div
       className="bg-cover h-screen w-screen fixed z-0"
       style={{
-        backgroundImage:
-          'url("/the-founders-have-the-word.png")'
+        backgroundImage: 'url("/the-founders-have-the-word.png")'
       }}
     />
     <div className="bg-color-cover opacity-75 fixed min-h-screen w-screen" />
@@ -107,21 +106,33 @@ export default () => (
           </a>
         </p>
         <p className="text-center w-full">
-          <a href="https://www.facebook.com/Tech-Imprint-Arena-106166127426805/" target="_blank" title="Facebook">
+          <a
+            href="https://www.facebook.com/Tech-Imprint-Arena-106166127426805/"
+            target="_blank"
+            title="Facebook"
+          >
             <img
               className="w-6 inline-block mr-2"
               src="/facebook.png"
               alt="Facebook"
             />
           </a>
-          <a href="https://www.instagram.com/techimprintarena/" target="_blank" title="Instagram">
+          <a
+            href="https://www.instagram.com/techimprintarena/"
+            target="_blank"
+            title="Instagram"
+          >
             <img
               className="w-6 inline-block mr-2"
               src="/instagram.png"
               alt="Instagram"
             />
           </a>
-          <a href="https://www.linkedin.com/company/tech-imprint-arena/" target="_blank" title="LinkedIn">
+          <a
+            href="https://www.linkedin.com/company/tech-imprint-arena/"
+            target="_blank"
+            title="LinkedIn"
+          >
             <img
               className="w-6 inline-block mr-2"
               src="/linkedin.png"

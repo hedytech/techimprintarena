@@ -25,17 +25,13 @@ export default () => (
     <div
       className="relative h-screen w-screen bg-cover"
       style={{
-        backgroundImage:
-          'url("/paula-prekopova-Mt9DbRm2KmA-unsplash.jpg")'
+        backgroundImage: 'url("/paula-prekopova-Mt9DbRm2KmA-unsplash.jpg")'
       }}
     >
       <div className="bg-color-cover opacity-75 fixed min-h-screen w-screen" />
       <div className="relative z-10 pt-0 lg:pt-80 h-screen">
         <div className="flex flex-wrap justify-center content-center pb-20 px-10 lg:px-0 -mt-20 lg:mt-0">
-          <img
-            src="/logo-text-black-horizontal.png"
-            alt="Tech Imprint Arena"
-          />
+          <img src="/logo-text-black-horizontal.png" alt="Tech Imprint Arena" />
         </div>
         <div className="w-100 flex flex-wrap justify-center text-center">
           <h1 className="font-medium italic w-3/4 lg:w-2/4 text-xl">
@@ -49,7 +45,7 @@ export default () => (
     {/* home */}
     <div
       id="home"
-      className="relative pb-20 pt-20 min-h-screen bg-color-cover-full"
+      className="relative pb-20 pt-20 min-h-screen bg-color-cover-full-img"
     >
       <div className="flex content-center min-h-screen flex-wrap px-10">
         <div className="w-full lg:w-1/2 ">
@@ -105,7 +101,7 @@ export default () => (
       </div>
     </div>
     {/* how, where and when */}
-    <div className="relative pt-20 pb-20 min-h-screen bg-color-cover-full p-10 lg:p-20">
+    <div className="relative pt-20 pb-20 min-h-screen bg-color-cover-full-img p-10 lg:p-20">
       <div className="flex flex-wrap content-center min-h-screen lg:min-h-auto px-10">
         <div className="w-full flex justify-center text-center block lg:hidden">
           <h2 className="text-3xl lg:text-5xl font-bold text-center lg:text-left lg:pt-16 pb-10">
@@ -155,8 +151,7 @@ export default () => (
     <div
       className="relative h-screen w-screen bg-cover"
       style={{
-        backgroundImage:
-          'url("/douglas-sanchez-BITrZ_FIjAQ-unsplash.jpg")'
+        backgroundImage: 'url("/douglas-sanchez-BITrZ_FIjAQ-unsplash.jpg")'
       }}
     >
       <div className="bg-color-cover opacity-75 relative h-screen w-screen">
