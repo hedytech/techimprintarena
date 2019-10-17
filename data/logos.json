@@ -1,5 +1,14 @@
 [
-  "gtw_logo_black.png",
-  "gtw_logo_blue_gray.png",
-  "gtw_logo_white.png"
+  {
+    "name": "Göteborg",
+    "image": "gtw_logo_black.png"
+  },
+  {
+    "name": "Göteborg",
+    "image": "gtw_logo_blue_gray.png"
+  },
+  {
+    "name": "Göteborg",
+    "image": "gtw_logo_white.png"
+  }
 ]

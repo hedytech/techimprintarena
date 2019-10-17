@@ -81,6 +81,7 @@
           <img
             className="w-16 h-16 rounded-full mr-4"
             src={require('static/city/gbg.jpg')}
+            alt="Event Title"
           />
         </div>
         <div className='w-full lg:w-2/5'>

@@ -27,6 +27,7 @@ const eventTemplate = event =>
           <img
             className="w-16 h-16 rounded-full mr-4"
             src={require('static/${event.image}')}
+            alt="${event.title}"
           />
         </div>
         <div className='w-full lg:w-2/5'>

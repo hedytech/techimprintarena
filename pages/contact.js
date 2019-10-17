@@ -64,6 +64,7 @@ export default () => (
                   <img
                     className="w-8 h-8 lg:mr-24"
                     src={require('static/gtw_logo_black.png')}
+                    alt="Gbg Tech Week"
                   />
                 </p>
               </div>
@@ -74,6 +75,7 @@ export default () => (
                   <img
                     className="w-6 h-12 lg:mr-24"
                     src={require('static/hedy-black-coral.png')}
+                    alt="Hedylity Technology"
                   />
                 </p>
               </div>
@@ -84,6 +86,7 @@ export default () => (
                   <img
                     className="w-8 h-8 lg:mr-24"
                     src={require('static/techposition.png')}
+                    alt="Techposition"
                   />
                 </p>
               </div>

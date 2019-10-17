@@ -170,8 +170,9 @@ export default () => (
                 {logos.map((l, li) => (
                   <img
                     key={li}
-                    src={require(`static/${l}`)}
+                    src={require(`static/${l.image}`)}
                     className="malarquee-img"
+                    alt={l.name}
                   />
                 ))}
               </Malarquee>
