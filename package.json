@@ -23,7 +23,7 @@
   },
   "scripts": {
     "build": "next build",
-    "deploy": "npm run build && npm run export && cp -R root/* out",
+    "deploy": "npm run build && npm run export",
     "dev": "next",
     "export": "next export",
     "lint": "semistandard",
