@@ -9,17 +9,41 @@
     "year": 2019,
     "program": [
       {
-        "day": "2019-05-06",
-        "title": "Monday 06/05",
+        "day": "2019-11-25",
+        "title": "Monday 25/11",
         "events": [
           {
-            "day": "2019-05-06",
-            "start": "10:00",
-            "end": "15:00",
+            "day": "2019-11-25",
+            "start": "07:30",
+            "end": "08:30",
             "title": "Event Title",
             "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
             "by": "Event",
-            "location": "University of Events",
+            "location": "Johan & Nyström, Avenyn",
+            "image": "city/gbg.jpg",
+            "info": "This event is full",
+            "info_color": "red"
+          },
+          {
+            "day": "2019-11-25",
+            "start": "11:30",
+            "end": "12:30",
+            "title": "Event Title",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "by": "Event",
+            "location": "Johan & Nyström, Avenyn",
+            "image": "city/gbg.jpg",
+            "info": "This event is full",
+            "info_color": "red"
+          },
+          {
+            "day": "2019-11-25",
+            "start": "17:00",
+            "end": "18:00",
+            "title": "Event Title",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "by": "Event",
+            "location": "Johan & Nyström, Avenyn",
             "image": "city/gbg.jpg",
             "info": "This event is full",
             "info_color": "red"
@@ -27,14 +51,160 @@
         ]
       },
       {
-        "day": "2019-05-07",
-        "title": "Tuesday 07/05",
+        "day": "2019-11-26",
+        "title": "Tuesday 26/11",
         "events": [
+          {
+            "day": "2019-11-26",
+            "start": "07:30",
+            "end": "08:30",
+            "title": "Event Title",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "by": "Event",
+            "location": "Johan & Nyström, Avenyn",
+            "image": "city/gbg.jpg",
+            "info": "This event is full",
+            "info_color": "red"
+          },
+          {
+            "day": "2019-11-26",
+            "start": "11:30",
+            "end": "12:30",
+            "title": "Event Title",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "by": "Event",
+            "location": "Johan & Nyström, Avenyn",
+            "image": "city/gbg.jpg",
+            "info": "This event is full",
+            "info_color": "red"
+          },
+          {
+            "day": "2019-11-26",
+            "start": "17:00",
+            "end": "18:00",
+            "title": "Event Title",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "by": "Event",
+            "location": "Johan & Nyström, Avenyn",
+            "image": "city/gbg.jpg",
+            "info": "This event is full",
+            "info_color": "red"
+          }
         ]
       },
       {
-        "day": "2019-05-08",
-        "title": "Wednesday 08/05"
+        "day": "2019-11-27",
+        "title": "Wednesday 27/11",
+        "events": [
+          {
+            "day": "2019-11-27",
+            "start": "07:30",
+            "end": "08:30",
+            "title": "Event Title",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "by": "Event",
+            "location": "Johan & Nyström, Avenyn",
+            "image": "city/gbg.jpg",
+            "info": "This event is full",
+            "info_color": "red"
+          },
+          {
+            "day": "2019-11-27",
+            "start": "11:30",
+            "end": "12:30",
+            "title": "Event Title",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "by": "Event",
+            "location": "Johan & Nyström, Avenyn",
+            "image": "city/gbg.jpg",
+            "info": "This event is full",
+            "info_color": "red"
+          },
+          {
+            "day": "2019-11-27",
+            "start": "17:00",
+            "end": "18:00",
+            "title": "Event Title",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "by": "Event",
+            "location": "Johan & Nyström, Avenyn",
+            "image": "city/gbg.jpg",
+            "info": "This event is full",
+            "info_color": "red"
+          }
+        ]
+      },
+      {
+        "day": "2019-11-28",
+        "title": "Thursday 28/11",
+        "events": [
+          {
+            "day": "2019-11-28",
+            "start": "07:30",
+            "end": "08:30",
+            "title": "Event Title",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "by": "Event",
+            "location": "Johan & Nyström, Avenyn",
+            "image": "city/gbg.jpg",
+            "info": "This event is full",
+            "info_color": "red"
+          },
+          {
+            "day": "2019-11-28",
+            "start": "11:30",
+            "end": "12:30",
+            "title": "Event Title",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "by": "Event",
+            "location": "Johan & Nyström, Avenyn",
+            "image": "city/gbg.jpg",
+            "info": "This event is full",
+            "info_color": "red"
+          },
+          {
+            "day": "2019-11-28",
+            "start": "17:00",
+            "end": "18:00",
+            "title": "Event Title",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "by": "Event",
+            "location": "Johan & Nyström, Avenyn",
+            "image": "city/gbg.jpg",
+            "info": "This event is full",
+            "info_color": "red"
+          }
+        ]
+      },
+      {
+        "day": "2019-11-29",
+        "title": "Friday 29/11",
+        "events": [
+          {
+            "day": "2019-11-29",
+            "start": "07:30",
+            "end": "08:30",
+            "title": "Event Title",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "by": "Event",
+            "location": "Johan & Nyström, Avenyn",
+            "image": "city/gbg.jpg",
+            "info": "This event is full",
+            "info_color": "red"
+          },
+          {
+            "day": "2019-11-29",
+            "start": "11:30",
+            "end": "12:30",
+            "title": "Event Title",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "by": "Event",
+            "location": "Johan & Nyström, Avenyn",
+            "image": "city/gbg.jpg",
+            "info": "This event is full",
+            "info_color": "red"
+          }
+        ]
       }
     ]
   },

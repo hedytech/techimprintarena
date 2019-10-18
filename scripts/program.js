@@ -11,6 +11,11 @@ const sidebarTemplate = program =>
   </div>
   `;
 
+const eventlocationtemplate = event =>
+  `<p className='event-location'><span className='location-icon big my-2' /> <span className='location-link'>${
+    event.location
+  }</span></p>`
+
 const eventTemplate = event =>
   `
   <div className='event'>
@@ -37,13 +42,11 @@ const eventTemplate = event =>
           }'}}>${event.info ? event.info : ''}</span>
           <p>${event.text}</p>
         </div>
-        <div className='w-full lg:w-1/5'>
+        <div className='w-full lg:w-1/5 lg:pl-4'>
           <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>${
             event.by
           }</p>
-          <p className='event-location'><span className='location-icon big my-2' /> <span className='location-link'>${
-            event.location
-          }</span></p>
+          ${event.location ? eventlocationtemplate(event) : ''}
         </div>
         <div className='w-full lg:w-1/5'>
           <a href='${

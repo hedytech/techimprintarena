@@ -8,7 +8,7 @@
       const [day, setDay] = useState('');
 
       useEffect(() => {
-        setDay('2019-05-06');
+        setDay('2019-11-25');
       }, []);
 
       return (
@@ -39,19 +39,31 @@
                   
   <div className="day-selector">
     <div className="day">
-      <a href="#2019-05-06" className={'day-link ' + ('2019-05-06' === day ? 'active' : '')}>Monday 06/05</a>
+      <a href="#2019-11-25" className={'day-link ' + ('2019-11-25' === day ? 'active' : '')}>Monday 25/11</a>
     </div>
   </div>
   
   <div className="day-selector">
     <div className="day">
-      <a href="#2019-05-07" className={'day-link ' + ('2019-05-07' === day ? 'active' : '')}>Tuesday 07/05</a>
+      <a href="#2019-11-26" className={'day-link ' + ('2019-11-26' === day ? 'active' : '')}>Tuesday 26/11</a>
     </div>
   </div>
   
   <div className="day-selector">
     <div className="day">
-      <a href="#2019-05-08" className={'day-link ' + ('2019-05-08' === day ? 'active' : '')}>Wednesday 08/05</a>
+      <a href="#2019-11-27" className={'day-link ' + ('2019-11-27' === day ? 'active' : '')}>Wednesday 27/11</a>
+    </div>
+  </div>
+  
+  <div className="day-selector">
+    <div className="day">
+      <a href="#2019-11-28" className={'day-link ' + ('2019-11-28' === day ? 'active' : '')}>Thursday 28/11</a>
+    </div>
+  </div>
+  
+  <div className="day-selector">
+    <div className="day">
+      <a href="#2019-11-29" className={'day-link ' + ('2019-11-29' === day ? 'active' : '')}>Friday 29/11</a>
     </div>
   </div>
   
@@ -59,10 +71,10 @@
               </div>
               <div className='w-full lg:w-4/5 lg:ml-48'>
                 
-    <div className='pb-4' id='2019-05-06'>
-      <VisibilitySensor onChange={() => setDay('2019-05-06')}>
+    <div className='pb-4' id='2019-11-25'>
+      <VisibilitySensor onChange={() => setDay('2019-11-25')}>
         <h3 className='pl-6 pb-6 text-white'>
-          <span className='text-3xl pr-10'>06/05</span>
+          <span className='text-3xl pr-10'>25/11</span>
           <span className='text-2xl'>Monday</span>
         </h3>
       </VisibilitySensor>
@@ -70,9 +82,9 @@
   <div className='event'>
     <div className='event-timeline hidden lg:block'>
       <p className="event-time">
-        <span className="event-start-time">10:00</span>
+        <span className="event-start-time">07:30</span>
         <span>-</span>
-        <span className="event-end-time">15:00</span>
+        <span className="event-end-time">08:30</span>
       </p>
     </div>
     <div className="event-link m-0 lg:ml-32 w-full lg:w-3/4">
@@ -89,9 +101,75 @@
           <span className='text-xs font-bold' style={{color:'red'}}>This event is full</span>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
         </div>
-        <div className='w-full lg:w-1/5'>
+        <div className='w-full lg:w-1/5 lg:pl-4'>
           <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>Event</p>
-          <p className='event-location'><span className='location-icon big my-2' /> <span className='location-link'>University of Events</span></p>
+          <p className='event-location'><span className='location-icon big my-2' /> <span className='location-link'>Johan & Nyström, Avenyn</span></p>
+        </div>
+        <div className='w-full lg:w-1/5'>
+          <a href='#' title='Read more' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Read more</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div className='event'>
+    <div className='event-timeline hidden lg:block'>
+      <p className="event-time">
+        <span className="event-start-time">11:30</span>
+        <span>-</span>
+        <span className="event-end-time">12:30</span>
+      </p>
+    </div>
+    <div className="event-link m-0 lg:ml-32 w-full lg:w-3/4">
+      <div className='flex flex-wrap lg:justify-center'>
+        <div className='w-full lg:w-1/5 -mr-6 pb-6 lg:pb-0'>
+          <img
+            className="w-16 h-16 rounded-full mr-4"
+            src="/city/gbg.jpg"
+            alt="Event Title"
+          />
+        </div>
+        <div className='w-full lg:w-2/5'>
+          <h4 className='font-bold tracking-wide'>Event Title</h4>
+          <span className='text-xs font-bold' style={{color:'red'}}>This event is full</span>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+        </div>
+        <div className='w-full lg:w-1/5 lg:pl-4'>
+          <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>Event</p>
+          <p className='event-location'><span className='location-icon big my-2' /> <span className='location-link'>Johan & Nyström, Avenyn</span></p>
+        </div>
+        <div className='w-full lg:w-1/5'>
+          <a href='#' title='Read more' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Read more</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div className='event'>
+    <div className='event-timeline hidden lg:block'>
+      <p className="event-time">
+        <span className="event-start-time">17:00</span>
+        <span>-</span>
+        <span className="event-end-time">18:00</span>
+      </p>
+    </div>
+    <div className="event-link m-0 lg:ml-32 w-full lg:w-3/4">
+      <div className='flex flex-wrap lg:justify-center'>
+        <div className='w-full lg:w-1/5 -mr-6 pb-6 lg:pb-0'>
+          <img
+            className="w-16 h-16 rounded-full mr-4"
+            src="/city/gbg.jpg"
+            alt="Event Title"
+          />
+        </div>
+        <div className='w-full lg:w-2/5'>
+          <h4 className='font-bold tracking-wide'>Event Title</h4>
+          <span className='text-xs font-bold' style={{color:'red'}}>This event is full</span>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+        </div>
+        <div className='w-full lg:w-1/5 lg:pl-4'>
+          <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>Event</p>
+          <p className='event-location'><span className='location-icon big my-2' /> <span className='location-link'>Johan & Nyström, Avenyn</span></p>
         </div>
         <div className='w-full lg:w-1/5'>
           <a href='#' title='Read more' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Read more</a>
@@ -102,24 +180,407 @@
   
     </div>
   
-    <div className='pb-4' id='2019-05-07'>
-      <VisibilitySensor onChange={() => setDay('2019-05-07')}>
+    <div className='pb-4' id='2019-11-26'>
+      <VisibilitySensor onChange={() => setDay('2019-11-26')}>
         <h3 className='pl-6 pb-6 text-white'>
-          <span className='text-3xl pr-10'>07/05</span>
+          <span className='text-3xl pr-10'>26/11</span>
           <span className='text-2xl'>Tuesday</span>
         </h3>
       </VisibilitySensor>
       
+  <div className='event'>
+    <div className='event-timeline hidden lg:block'>
+      <p className="event-time">
+        <span className="event-start-time">07:30</span>
+        <span>-</span>
+        <span className="event-end-time">08:30</span>
+      </p>
+    </div>
+    <div className="event-link m-0 lg:ml-32 w-full lg:w-3/4">
+      <div className='flex flex-wrap lg:justify-center'>
+        <div className='w-full lg:w-1/5 -mr-6 pb-6 lg:pb-0'>
+          <img
+            className="w-16 h-16 rounded-full mr-4"
+            src="/city/gbg.jpg"
+            alt="Event Title"
+          />
+        </div>
+        <div className='w-full lg:w-2/5'>
+          <h4 className='font-bold tracking-wide'>Event Title</h4>
+          <span className='text-xs font-bold' style={{color:'red'}}>This event is full</span>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+        </div>
+        <div className='w-full lg:w-1/5 lg:pl-4'>
+          <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>Event</p>
+          <p className='event-location'><span className='location-icon big my-2' /> <span className='location-link'>Johan & Nyström, Avenyn</span></p>
+        </div>
+        <div className='w-full lg:w-1/5'>
+          <a href='#' title='Read more' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Read more</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div className='event'>
+    <div className='event-timeline hidden lg:block'>
+      <p className="event-time">
+        <span className="event-start-time">11:30</span>
+        <span>-</span>
+        <span className="event-end-time">12:30</span>
+      </p>
+    </div>
+    <div className="event-link m-0 lg:ml-32 w-full lg:w-3/4">
+      <div className='flex flex-wrap lg:justify-center'>
+        <div className='w-full lg:w-1/5 -mr-6 pb-6 lg:pb-0'>
+          <img
+            className="w-16 h-16 rounded-full mr-4"
+            src="/city/gbg.jpg"
+            alt="Event Title"
+          />
+        </div>
+        <div className='w-full lg:w-2/5'>
+          <h4 className='font-bold tracking-wide'>Event Title</h4>
+          <span className='text-xs font-bold' style={{color:'red'}}>This event is full</span>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+        </div>
+        <div className='w-full lg:w-1/5 lg:pl-4'>
+          <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>Event</p>
+          <p className='event-location'><span className='location-icon big my-2' /> <span className='location-link'>Johan & Nyström, Avenyn</span></p>
+        </div>
+        <div className='w-full lg:w-1/5'>
+          <a href='#' title='Read more' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Read more</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div className='event'>
+    <div className='event-timeline hidden lg:block'>
+      <p className="event-time">
+        <span className="event-start-time">17:00</span>
+        <span>-</span>
+        <span className="event-end-time">18:00</span>
+      </p>
+    </div>
+    <div className="event-link m-0 lg:ml-32 w-full lg:w-3/4">
+      <div className='flex flex-wrap lg:justify-center'>
+        <div className='w-full lg:w-1/5 -mr-6 pb-6 lg:pb-0'>
+          <img
+            className="w-16 h-16 rounded-full mr-4"
+            src="/city/gbg.jpg"
+            alt="Event Title"
+          />
+        </div>
+        <div className='w-full lg:w-2/5'>
+          <h4 className='font-bold tracking-wide'>Event Title</h4>
+          <span className='text-xs font-bold' style={{color:'red'}}>This event is full</span>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+        </div>
+        <div className='w-full lg:w-1/5 lg:pl-4'>
+          <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>Event</p>
+          <p className='event-location'><span className='location-icon big my-2' /> <span className='location-link'>Johan & Nyström, Avenyn</span></p>
+        </div>
+        <div className='w-full lg:w-1/5'>
+          <a href='#' title='Read more' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Read more</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  
     </div>
   
-    <div className='pb-4' id='2019-05-08'>
-      <VisibilitySensor onChange={() => setDay('2019-05-08')}>
+    <div className='pb-4' id='2019-11-27'>
+      <VisibilitySensor onChange={() => setDay('2019-11-27')}>
         <h3 className='pl-6 pb-6 text-white'>
-          <span className='text-3xl pr-10'>08/05</span>
+          <span className='text-3xl pr-10'>27/11</span>
           <span className='text-2xl'>Wednesday</span>
         </h3>
       </VisibilitySensor>
       
+  <div className='event'>
+    <div className='event-timeline hidden lg:block'>
+      <p className="event-time">
+        <span className="event-start-time">07:30</span>
+        <span>-</span>
+        <span className="event-end-time">08:30</span>
+      </p>
+    </div>
+    <div className="event-link m-0 lg:ml-32 w-full lg:w-3/4">
+      <div className='flex flex-wrap lg:justify-center'>
+        <div className='w-full lg:w-1/5 -mr-6 pb-6 lg:pb-0'>
+          <img
+            className="w-16 h-16 rounded-full mr-4"
+            src="/city/gbg.jpg"
+            alt="Event Title"
+          />
+        </div>
+        <div className='w-full lg:w-2/5'>
+          <h4 className='font-bold tracking-wide'>Event Title</h4>
+          <span className='text-xs font-bold' style={{color:'red'}}>This event is full</span>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+        </div>
+        <div className='w-full lg:w-1/5 lg:pl-4'>
+          <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>Event</p>
+          <p className='event-location'><span className='location-icon big my-2' /> <span className='location-link'>Johan & Nyström, Avenyn</span></p>
+        </div>
+        <div className='w-full lg:w-1/5'>
+          <a href='#' title='Read more' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Read more</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div className='event'>
+    <div className='event-timeline hidden lg:block'>
+      <p className="event-time">
+        <span className="event-start-time">11:30</span>
+        <span>-</span>
+        <span className="event-end-time">12:30</span>
+      </p>
+    </div>
+    <div className="event-link m-0 lg:ml-32 w-full lg:w-3/4">
+      <div className='flex flex-wrap lg:justify-center'>
+        <div className='w-full lg:w-1/5 -mr-6 pb-6 lg:pb-0'>
+          <img
+            className="w-16 h-16 rounded-full mr-4"
+            src="/city/gbg.jpg"
+            alt="Event Title"
+          />
+        </div>
+        <div className='w-full lg:w-2/5'>
+          <h4 className='font-bold tracking-wide'>Event Title</h4>
+          <span className='text-xs font-bold' style={{color:'red'}}>This event is full</span>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+        </div>
+        <div className='w-full lg:w-1/5 lg:pl-4'>
+          <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>Event</p>
+          <p className='event-location'><span className='location-icon big my-2' /> <span className='location-link'>Johan & Nyström, Avenyn</span></p>
+        </div>
+        <div className='w-full lg:w-1/5'>
+          <a href='#' title='Read more' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Read more</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div className='event'>
+    <div className='event-timeline hidden lg:block'>
+      <p className="event-time">
+        <span className="event-start-time">17:00</span>
+        <span>-</span>
+        <span className="event-end-time">18:00</span>
+      </p>
+    </div>
+    <div className="event-link m-0 lg:ml-32 w-full lg:w-3/4">
+      <div className='flex flex-wrap lg:justify-center'>
+        <div className='w-full lg:w-1/5 -mr-6 pb-6 lg:pb-0'>
+          <img
+            className="w-16 h-16 rounded-full mr-4"
+            src="/city/gbg.jpg"
+            alt="Event Title"
+          />
+        </div>
+        <div className='w-full lg:w-2/5'>
+          <h4 className='font-bold tracking-wide'>Event Title</h4>
+          <span className='text-xs font-bold' style={{color:'red'}}>This event is full</span>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+        </div>
+        <div className='w-full lg:w-1/5 lg:pl-4'>
+          <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>Event</p>
+          <p className='event-location'><span className='location-icon big my-2' /> <span className='location-link'>Johan & Nyström, Avenyn</span></p>
+        </div>
+        <div className='w-full lg:w-1/5'>
+          <a href='#' title='Read more' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Read more</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+    </div>
+  
+    <div className='pb-4' id='2019-11-28'>
+      <VisibilitySensor onChange={() => setDay('2019-11-28')}>
+        <h3 className='pl-6 pb-6 text-white'>
+          <span className='text-3xl pr-10'>28/11</span>
+          <span className='text-2xl'>Thursday</span>
+        </h3>
+      </VisibilitySensor>
+      
+  <div className='event'>
+    <div className='event-timeline hidden lg:block'>
+      <p className="event-time">
+        <span className="event-start-time">07:30</span>
+        <span>-</span>
+        <span className="event-end-time">08:30</span>
+      </p>
+    </div>
+    <div className="event-link m-0 lg:ml-32 w-full lg:w-3/4">
+      <div className='flex flex-wrap lg:justify-center'>
+        <div className='w-full lg:w-1/5 -mr-6 pb-6 lg:pb-0'>
+          <img
+            className="w-16 h-16 rounded-full mr-4"
+            src="/city/gbg.jpg"
+            alt="Event Title"
+          />
+        </div>
+        <div className='w-full lg:w-2/5'>
+          <h4 className='font-bold tracking-wide'>Event Title</h4>
+          <span className='text-xs font-bold' style={{color:'red'}}>This event is full</span>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+        </div>
+        <div className='w-full lg:w-1/5 lg:pl-4'>
+          <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>Event</p>
+          <p className='event-location'><span className='location-icon big my-2' /> <span className='location-link'>Johan & Nyström, Avenyn</span></p>
+        </div>
+        <div className='w-full lg:w-1/5'>
+          <a href='#' title='Read more' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Read more</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div className='event'>
+    <div className='event-timeline hidden lg:block'>
+      <p className="event-time">
+        <span className="event-start-time">11:30</span>
+        <span>-</span>
+        <span className="event-end-time">12:30</span>
+      </p>
+    </div>
+    <div className="event-link m-0 lg:ml-32 w-full lg:w-3/4">
+      <div className='flex flex-wrap lg:justify-center'>
+        <div className='w-full lg:w-1/5 -mr-6 pb-6 lg:pb-0'>
+          <img
+            className="w-16 h-16 rounded-full mr-4"
+            src="/city/gbg.jpg"
+            alt="Event Title"
+          />
+        </div>
+        <div className='w-full lg:w-2/5'>
+          <h4 className='font-bold tracking-wide'>Event Title</h4>
+          <span className='text-xs font-bold' style={{color:'red'}}>This event is full</span>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+        </div>
+        <div className='w-full lg:w-1/5 lg:pl-4'>
+          <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>Event</p>
+          <p className='event-location'><span className='location-icon big my-2' /> <span className='location-link'>Johan & Nyström, Avenyn</span></p>
+        </div>
+        <div className='w-full lg:w-1/5'>
+          <a href='#' title='Read more' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Read more</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div className='event'>
+    <div className='event-timeline hidden lg:block'>
+      <p className="event-time">
+        <span className="event-start-time">17:00</span>
+        <span>-</span>
+        <span className="event-end-time">18:00</span>
+      </p>
+    </div>
+    <div className="event-link m-0 lg:ml-32 w-full lg:w-3/4">
+      <div className='flex flex-wrap lg:justify-center'>
+        <div className='w-full lg:w-1/5 -mr-6 pb-6 lg:pb-0'>
+          <img
+            className="w-16 h-16 rounded-full mr-4"
+            src="/city/gbg.jpg"
+            alt="Event Title"
+          />
+        </div>
+        <div className='w-full lg:w-2/5'>
+          <h4 className='font-bold tracking-wide'>Event Title</h4>
+          <span className='text-xs font-bold' style={{color:'red'}}>This event is full</span>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+        </div>
+        <div className='w-full lg:w-1/5 lg:pl-4'>
+          <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>Event</p>
+          <p className='event-location'><span className='location-icon big my-2' /> <span className='location-link'>Johan & Nyström, Avenyn</span></p>
+        </div>
+        <div className='w-full lg:w-1/5'>
+          <a href='#' title='Read more' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Read more</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+    </div>
+  
+    <div className='pb-4' id='2019-11-29'>
+      <VisibilitySensor onChange={() => setDay('2019-11-29')}>
+        <h3 className='pl-6 pb-6 text-white'>
+          <span className='text-3xl pr-10'>29/11</span>
+          <span className='text-2xl'>Friday</span>
+        </h3>
+      </VisibilitySensor>
+      
+  <div className='event'>
+    <div className='event-timeline hidden lg:block'>
+      <p className="event-time">
+        <span className="event-start-time">07:30</span>
+        <span>-</span>
+        <span className="event-end-time">08:30</span>
+      </p>
+    </div>
+    <div className="event-link m-0 lg:ml-32 w-full lg:w-3/4">
+      <div className='flex flex-wrap lg:justify-center'>
+        <div className='w-full lg:w-1/5 -mr-6 pb-6 lg:pb-0'>
+          <img
+            className="w-16 h-16 rounded-full mr-4"
+            src="/city/gbg.jpg"
+            alt="Event Title"
+          />
+        </div>
+        <div className='w-full lg:w-2/5'>
+          <h4 className='font-bold tracking-wide'>Event Title</h4>
+          <span className='text-xs font-bold' style={{color:'red'}}>This event is full</span>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+        </div>
+        <div className='w-full lg:w-1/5 lg:pl-4'>
+          <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>Event</p>
+          <p className='event-location'><span className='location-icon big my-2' /> <span className='location-link'>Johan & Nyström, Avenyn</span></p>
+        </div>
+        <div className='w-full lg:w-1/5'>
+          <a href='#' title='Read more' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Read more</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div className='event'>
+    <div className='event-timeline hidden lg:block'>
+      <p className="event-time">
+        <span className="event-start-time">11:30</span>
+        <span>-</span>
+        <span className="event-end-time">12:30</span>
+      </p>
+    </div>
+    <div className="event-link m-0 lg:ml-32 w-full lg:w-3/4">
+      <div className='flex flex-wrap lg:justify-center'>
+        <div className='w-full lg:w-1/5 -mr-6 pb-6 lg:pb-0'>
+          <img
+            className="w-16 h-16 rounded-full mr-4"
+            src="/city/gbg.jpg"
+            alt="Event Title"
+          />
+        </div>
+        <div className='w-full lg:w-2/5'>
+          <h4 className='font-bold tracking-wide'>Event Title</h4>
+          <span className='text-xs font-bold' style={{color:'red'}}>This event is full</span>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+        </div>
+        <div className='w-full lg:w-1/5 lg:pl-4'>
+          <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>Event</p>
+          <p className='event-location'><span className='location-icon big my-2' /> <span className='location-link'>Johan & Nyström, Avenyn</span></p>
+        </div>
+        <div className='w-full lg:w-1/5'>
+          <a href='#' title='Read more' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Read more</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  
     </div>
   
               </div>
