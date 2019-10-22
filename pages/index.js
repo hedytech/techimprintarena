@@ -104,7 +104,7 @@ export default () => (
     <div className="relative pt-20 pb-20 min-h-screen bg-color-cover-full-img p-10 lg:p-20">
       <div className="flex flex-wrap content-center min-h-screen lg:min-h-auto px-10">
         <div className="w-full flex justify-center text-center block lg:hidden">
-          <h2 className="text-3xl lg:text-5xl font-bold text-center lg:text-left lg:pt-16 pb-10">
+          <h2 className="text-3xl lg:text-6xl font-bold text-center lg:text-left lg:pt-16 pb-10">
             HOW
             <br />
             WHERE
@@ -137,7 +137,7 @@ export default () => (
           </div>
         </div>
         <div className="w-full lg:w-1/4 flex justify-center text-center">
-          <h2 className="text-3xl lg:text-5xl font-bold text-center lg:text-left lg:pt-8 hidden lg:block">
+          <h2 className="text-3xl lg:text-6xl font-bold text-center lg:text-left lg:pt-8 hidden lg:block">
             HOW
             <br />
             WHERE
