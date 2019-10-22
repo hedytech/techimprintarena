@@ -20,7 +20,7 @@ export default () => (
       <div className="flex flex-wrap justify-center">
         <div className="flex flex-wrap w-4/5">
           <div className="w-full lg:w-1/2 text-center lg:text-right">
-            <h1 className="text-3xl lg:text-5xl font-bold lg:pt-48 lg:mr-24 pb-10">
+            <h1 className="text-3xl lg:text-6xl font-bold lg:pt-48 lg:mr-24 pb-10">
               BECOME
               <br />A SPEAKER
             </h1>
@@ -37,8 +37,7 @@ export default () => (
               </p>
               <p className="pb-6">
                 Do your company work with the latest technology AND do you use
-                it to create a better tomorrow? <br />
-                You are a role model!
+                it to create a better tomorrow?
               </p>
               <p className="pb-6">We need role models like you!</p>
               <p className="pb-6 italic">
@@ -51,11 +50,6 @@ export default () => (
                 >
                   here
                 </a>
-              </p>
-              <p className="pb-6">
-                We are thrilled to have you onboard and confident that you will
-                inspire and lift the knowledge to new levels when you share what
-                imprint your company is doing with the latest technology!
               </p>
             </div>
           </div>

@@ -114,12 +114,12 @@ export default () => (
         </div>
         <div className="w-full lg:w-3/4">
           <div className="p-0 lg:p-10 text-lg lg:text-xl">
-            <p className="pb-6">
+            <p className="pb-6 pr-10">
               During a one week period in each city, companies will gather to
               tell YOU how they use the latest technology to create a better
               world.
             </p>
-            <p className="pb-6">
+            <p className="pb-6 pr-10">
               Tech Imprint Arena will take place in Gothenburg, Stockholm and
               Malmö during 2019 and the beginning of 2020, and continue to
               Copenhagen, Oslo and Helsinki short after.
@@ -137,7 +137,7 @@ export default () => (
           </div>
         </div>
         <div className="w-full lg:w-1/4 flex justify-center text-center">
-          <h2 className="text-3xl lg:text-6xl font-bold text-center lg:text-left lg:pt-8 hidden lg:block">
+          <h2 className="text-3xl lg:text-6xl font-bold text-center lg:text-left lg:pt-8 hidden lg:block -m-5">
             HOW
             <br />
             WHERE

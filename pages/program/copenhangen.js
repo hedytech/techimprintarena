@@ -26,7 +26,7 @@
           <div className="bg-color-cover opacity-75 fixed h-screen w-screen" />
           <div className='relative pt-32 w-full -mb-24 z-10'>
             <h1 className="w-full text-5xl font-bold w-3/4 text-center">
-              Copenhagen<br/>7th – 11th of September 2020
+              Copenhagen<br/>7<sup>th</sup> – 11<sup>th</sup> of September 2020
             </h1>
             <p className='text-center text-lg w-full'></p>
           </div>

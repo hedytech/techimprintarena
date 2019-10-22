@@ -55,35 +55,35 @@ export default () => (
                 Let’s make a tech imprint for a better world TOGETHER!
               </p>
             </div>
-            <div className="flex flex-wrap">
-              <div className="w-1/3">
+            <div className="flex flex-wrap -ml-16">
+              <div className="w-1/3 text-center">
                 <p className="font-bold">Malin Kjällström</p>
                 <p>Gbg Tech Week</p>
                 <p className="flex lg:justify-center pt-2">
                   <img
-                    className="w-8 h-8 lg:mr-24"
+                    className="w-12 h-12"
                     src="/gtw_logo_black.png"
                     alt="Gbg Tech Week"
                   />
                 </p>
               </div>
-              <div className="w-1/3">
+              <div className="w-1/3 text-center">
                 <p className="font-bold">Emelie Meurk Demerud</p>
                 <p>Hedylity Technology</p>
                 <p className="flex lg:justify-center pt-2">
                   <img
-                    className="w-6 h-12 lg:mr-24"
+                    className="w-6 h-12"
                     src="/hedy-black-coral.png"
                     alt="Hedylity Technology"
                   />
                 </p>
               </div>
-              <div className="w-1/3">
+              <div className="w-1/3 text-center">
                 <p className="font-bold">Jennie Sinclair</p>
                 <p>Techposition</p>
-                <p className="flex lg:justify-center pt-2">
+                <p className="flex justify-center pt-2">
                   <img
-                    className="w-8 h-8 lg:mr-24"
+                    className="w-12 h-12"
                     src="/techposition.png"
                     alt="Techposition"
                   />
@@ -95,7 +95,7 @@ export default () => (
       </div>
     </div>
     {/* contact us */}
-    <div className="relative pt-0 lg:pt-80 min-h-screen w-screen">
+    <div className="relative pt-0 lg:pt-32 pb-40 w-screen">
       <h2 className="w-full text-5xl font-bold w-3/4 text-center">
         If any questions - contact us!
       </h2>

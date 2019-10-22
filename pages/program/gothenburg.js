@@ -26,7 +26,7 @@
           <div className="bg-color-cover opacity-75 fixed h-screen w-screen" />
           <div className='relative pt-32 w-full -mb-24 z-10'>
             <h1 className="w-full text-5xl font-bold w-3/4 text-center">
-              Gothenburg<br/>25th – 29th of November 2019
+              Gothenburg<br/>25<sup>th</sup> – 29<sup>th</sup> of November 2019
             </h1>
             <p className='text-center text-lg w-full'><span className='location-icon black'></span> Johan & Nyström, Avenyn</p>
           </div>
@@ -106,7 +106,7 @@
           <p className='event-location'><span className='location-icon big my-2' /> <span className='location-link'>Johan & Nyström, Avenyn</span></p>
         </div>
         <div className='w-full lg:w-1/5'>
-          <a href='#' title='Read more' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Read more</a>
+          <a href='#' title='Read more' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Sign up</a>
         </div>
       </div>
     </div>
@@ -139,7 +139,7 @@
           <p className='event-location'><span className='location-icon big my-2' /> <span className='location-link'>Johan & Nyström, Avenyn</span></p>
         </div>
         <div className='w-full lg:w-1/5'>
-          <a href='#' title='Read more' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Read more</a>
+          <a href='#' title='Read more' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Sign up</a>
         </div>
       </div>
     </div>
@@ -172,7 +172,7 @@
           <p className='event-location'><span className='location-icon big my-2' /> <span className='location-link'>Johan & Nyström, Avenyn</span></p>
         </div>
         <div className='w-full lg:w-1/5'>
-          <a href='#' title='Read more' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Read more</a>
+          <a href='#' title='Read more' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Sign up</a>
         </div>
       </div>
     </div>
@@ -215,7 +215,7 @@
           <p className='event-location'><span className='location-icon big my-2' /> <span className='location-link'>Johan & Nyström, Avenyn</span></p>
         </div>
         <div className='w-full lg:w-1/5'>
-          <a href='#' title='Read more' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Read more</a>
+          <a href='#' title='Read more' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Sign up</a>
         </div>
       </div>
     </div>
@@ -248,7 +248,7 @@
           <p className='event-location'><span className='location-icon big my-2' /> <span className='location-link'>Johan & Nyström, Avenyn</span></p>
         </div>
         <div className='w-full lg:w-1/5'>
-          <a href='#' title='Read more' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Read more</a>
+          <a href='#' title='Read more' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Sign up</a>
         </div>
       </div>
     </div>
@@ -281,7 +281,7 @@
           <p className='event-location'><span className='location-icon big my-2' /> <span className='location-link'>Johan & Nyström, Avenyn</span></p>
         </div>
         <div className='w-full lg:w-1/5'>
-          <a href='#' title='Read more' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Read more</a>
+          <a href='#' title='Read more' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Sign up</a>
         </div>
       </div>
     </div>
@@ -324,7 +324,7 @@
           <p className='event-location'><span className='location-icon big my-2' /> <span className='location-link'>Johan & Nyström, Avenyn</span></p>
         </div>
         <div className='w-full lg:w-1/5'>
-          <a href='#' title='Read more' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Read more</a>
+          <a href='#' title='Read more' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Sign up</a>
         </div>
       </div>
     </div>
@@ -357,7 +357,7 @@
           <p className='event-location'><span className='location-icon big my-2' /> <span className='location-link'>Johan & Nyström, Avenyn</span></p>
         </div>
         <div className='w-full lg:w-1/5'>
-          <a href='#' title='Read more' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Read more</a>
+          <a href='#' title='Read more' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Sign up</a>
         </div>
       </div>
     </div>
@@ -390,7 +390,7 @@
           <p className='event-location'><span className='location-icon big my-2' /> <span className='location-link'>Johan & Nyström, Avenyn</span></p>
         </div>
         <div className='w-full lg:w-1/5'>
-          <a href='#' title='Read more' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Read more</a>
+          <a href='#' title='Read more' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Sign up</a>
         </div>
       </div>
     </div>
@@ -433,7 +433,7 @@
           <p className='event-location'><span className='location-icon big my-2' /> <span className='location-link'>Johan & Nyström, Avenyn</span></p>
         </div>
         <div className='w-full lg:w-1/5'>
-          <a href='#' title='Read more' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Read more</a>
+          <a href='#' title='Read more' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Sign up</a>
         </div>
       </div>
     </div>
@@ -466,7 +466,7 @@
           <p className='event-location'><span className='location-icon big my-2' /> <span className='location-link'>Johan & Nyström, Avenyn</span></p>
         </div>
         <div className='w-full lg:w-1/5'>
-          <a href='#' title='Read more' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Read more</a>
+          <a href='#' title='Read more' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Sign up</a>
         </div>
       </div>
     </div>
@@ -499,7 +499,7 @@
           <p className='event-location'><span className='location-icon big my-2' /> <span className='location-link'>Johan & Nyström, Avenyn</span></p>
         </div>
         <div className='w-full lg:w-1/5'>
-          <a href='#' title='Read more' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Read more</a>
+          <a href='#' title='Read more' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Sign up</a>
         </div>
       </div>
     </div>
@@ -542,7 +542,7 @@
           <p className='event-location'><span className='location-icon big my-2' /> <span className='location-link'>Johan & Nyström, Avenyn</span></p>
         </div>
         <div className='w-full lg:w-1/5'>
-          <a href='#' title='Read more' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Read more</a>
+          <a href='#' title='Read more' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Sign up</a>
         </div>
       </div>
     </div>
@@ -575,7 +575,7 @@
           <p className='event-location'><span className='location-icon big my-2' /> <span className='location-link'>Johan & Nyström, Avenyn</span></p>
         </div>
         <div className='w-full lg:w-1/5'>
-          <a href='#' title='Read more' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Read more</a>
+          <a href='#' title='Read more' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Sign up</a>
         </div>
       </div>
     </div>

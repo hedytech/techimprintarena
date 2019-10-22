@@ -15,7 +15,7 @@ export default () => (
         </h1>
         <div className="flex flex-wrap w-4/5 pt-10 lg:pt-0">
           <div className="w-full lg:w-1/2 text-center lg:text-right">
-            <h2 className="text-3xl lg:text-5xl font-bold lg:pt-10 lg:mr-24">
+            <h2 className="text-3xl lg:text-5xl font-bold lg:pt-20 lg:mr-24">
               OPENING
               <br />
               DOORS
@@ -62,14 +62,14 @@ export default () => (
             </div>
           </div>
           <div className="w-full lg:w-1/2 text-center lg:text-right hidden lg:block">
-            <h2 className="text-3xl lg:text-5xl font-bold lg:pt-10 lg:mr-24">
+            <h2 className="text-3xl lg:text-5xl font-bold lg:pt-20 lg:mr-24">
               SPONSHORSHIP
             </h2>
           </div>
         </div>
         <div className="flex flex-wrap w-4/5 pt-20 lg:pt-0">
           <div className="w-full lg:w-1/2 text-center lg:text-right">
-            <h1 className="text-3xl lg:text-5xl font-bold lg:pt-10 lg:mr-24">
+            <h1 className="text-3xl lg:text-5xl font-bold lg:pt-20 lg:mr-24">
               RUN THE
               <br />
               SHOW

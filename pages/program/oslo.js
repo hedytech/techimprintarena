@@ -26,7 +26,7 @@
           <div className="bg-color-cover opacity-75 fixed h-screen w-screen" />
           <div className='relative pt-32 w-full -mb-24 z-10'>
             <h1 className="w-full text-5xl font-bold w-3/4 text-center">
-              Oslo<br/>18th – 22nd of May 2020
+              Oslo<br/>18<sup>th</sup> – 22nd of May 2020
             </h1>
             <p className='text-center text-lg w-full'></p>
           </div>
