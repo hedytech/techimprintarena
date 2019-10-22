@@ -32,45 +32,45 @@
           </div>
           <div className='relative'>
             <div className='flex flex-wrap justify-center content-center p-10 lg:p-40 pt-40 '>
-            
+
             <div className='w-4/5 fixed hidden lg:block'>
                 <h3 className="text-3xl text-white">Program 2019</h3>
                 <div className="day-selector-container">
-                  
+
   <div className="day-selector">
     <div className="day">
       <a href="#2019-11-25" className={'day-link ' + ('2019-11-25' === day ? 'active' : '')}>Monday 25/11</a>
     </div>
   </div>
-  
+
   <div className="day-selector">
     <div className="day">
       <a href="#2019-11-26" className={'day-link ' + ('2019-11-26' === day ? 'active' : '')}>Tuesday 26/11</a>
     </div>
   </div>
-  
+
   <div className="day-selector">
     <div className="day">
       <a href="#2019-11-27" className={'day-link ' + ('2019-11-27' === day ? 'active' : '')}>Wednesday 27/11</a>
     </div>
   </div>
-  
+
   <div className="day-selector">
     <div className="day">
       <a href="#2019-11-28" className={'day-link ' + ('2019-11-28' === day ? 'active' : '')}>Thursday 28/11</a>
     </div>
   </div>
-  
+
   <div className="day-selector">
     <div className="day">
       <a href="#2019-11-29" className={'day-link ' + ('2019-11-29' === day ? 'active' : '')}>Friday 29/11</a>
     </div>
   </div>
-  
+
                 </div>
               </div>
               <div className='w-full lg:w-4/5 lg:ml-48'>
-                
+
     <div className='pb-4' id='2019-11-25'>
       <VisibilitySensor onChange={() => setDay('2019-11-25')}>
         <h3 className='pl-6 pb-6 text-white'>
@@ -78,7 +78,7 @@
           <span className='text-2xl'>Monday</span>
         </h3>
       </VisibilitySensor>
-      
+
   <div className='event'>
     <div className='event-timeline hidden lg:block'>
       <p className="event-time">
@@ -103,13 +103,13 @@
           <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>Event</p>
           <p className='event-location'><span className='location-icon big my-2' /> <span className='location-link'>Johan & Nyström, Avenyn</span></p>
           <p className='event-signup'>
-            <a href='#' target='_blank' title='Read more' rel='noopener noreferrer' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Sign up</a>
+            <a href='#' target='_blank' title='Read more' rel='noopener noreferrer' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Signup</a>
           </p>
         </div>
       </div>
     </div>
   </div>
-  
+
   <div className='event'>
     <div className='event-timeline hidden lg:block'>
       <p className="event-time">
@@ -134,13 +134,13 @@
           <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>Event</p>
           <p className='event-location'><span className='location-icon big my-2' /> <span className='location-link'>Johan & Nyström, Avenyn</span></p>
           <p className='event-signup'>
-            <a href='#' target='_blank' title='Read more' rel='noopener noreferrer' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Sign up</a>
+            <a href='#' target='_blank' title='Read more' rel='noopener noreferrer' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Signup</a>
           </p>
         </div>
       </div>
     </div>
   </div>
-  
+
   <div className='event'>
     <div className='event-timeline hidden lg:block'>
       <p className="event-time">
@@ -165,15 +165,15 @@
           <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>Event</p>
           <p className='event-location'><span className='location-icon big my-2' /> <span className='location-link'>Johan & Nyström, Avenyn</span></p>
           <p className='event-signup'>
-            <a href='#' target='_blank' title='Read more' rel='noopener noreferrer' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Sign up</a>
+            <a href='#' target='_blank' title='Read more' rel='noopener noreferrer' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Signup</a>
           </p>
         </div>
       </div>
     </div>
   </div>
-  
+
     </div>
-  
+
     <div className='pb-4' id='2019-11-26'>
       <VisibilitySensor onChange={() => setDay('2019-11-26')}>
         <h3 className='pl-6 pb-6 text-white'>
@@ -181,7 +181,7 @@
           <span className='text-2xl'>Tuesday</span>
         </h3>
       </VisibilitySensor>
-      
+
   <div className='event'>
     <div className='event-timeline hidden lg:block'>
       <p className="event-time">
@@ -206,13 +206,13 @@
           <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>Event</p>
           <p className='event-location'><span className='location-icon big my-2' /> <span className='location-link'>Johan & Nyström, Avenyn</span></p>
           <p className='event-signup'>
-            <a href='#' target='_blank' title='Read more' rel='noopener noreferrer' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Sign up</a>
+            <a href='#' target='_blank' title='Read more' rel='noopener noreferrer' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Signup</a>
           </p>
         </div>
       </div>
     </div>
   </div>
-  
+
   <div className='event'>
     <div className='event-timeline hidden lg:block'>
       <p className="event-time">
@@ -237,13 +237,13 @@
           <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>Event</p>
           <p className='event-location'><span className='location-icon big my-2' /> <span className='location-link'>Johan & Nyström, Avenyn</span></p>
           <p className='event-signup'>
-            <a href='#' target='_blank' title='Read more' rel='noopener noreferrer' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Sign up</a>
+            <a href='#' target='_blank' title='Read more' rel='noopener noreferrer' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Signup</a>
           </p>
         </div>
       </div>
     </div>
   </div>
-  
+
   <div className='event'>
     <div className='event-timeline hidden lg:block'>
       <p className="event-time">
@@ -268,15 +268,15 @@
           <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>Event</p>
           <p className='event-location'><span className='location-icon big my-2' /> <span className='location-link'>Johan & Nyström, Avenyn</span></p>
           <p className='event-signup'>
-            <a href='#' target='_blank' title='Read more' rel='noopener noreferrer' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Sign up</a>
+            <a href='#' target='_blank' title='Read more' rel='noopener noreferrer' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Signup</a>
           </p>
         </div>
       </div>
     </div>
   </div>
-  
+
     </div>
-  
+
     <div className='pb-4' id='2019-11-27'>
       <VisibilitySensor onChange={() => setDay('2019-11-27')}>
         <h3 className='pl-6 pb-6 text-white'>
@@ -284,7 +284,7 @@
           <span className='text-2xl'>Wednesday</span>
         </h3>
       </VisibilitySensor>
-      
+
   <div className='event'>
     <div className='event-timeline hidden lg:block'>
       <p className="event-time">
@@ -309,13 +309,13 @@
           <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>Event</p>
           <p className='event-location'><span className='location-icon big my-2' /> <span className='location-link'>Johan & Nyström, Avenyn</span></p>
           <p className='event-signup'>
-            <a href='#' target='_blank' title='Read more' rel='noopener noreferrer' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Sign up</a>
+            <a href='#' target='_blank' title='Read more' rel='noopener noreferrer' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Signup</a>
           </p>
         </div>
       </div>
     </div>
   </div>
-  
+
   <div className='event'>
     <div className='event-timeline hidden lg:block'>
       <p className="event-time">
@@ -340,13 +340,13 @@
           <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>NetClean</p>
           <p className='event-location'><span className='location-icon big my-2' /> <span className='location-link'>Johan & Nyström, Avenyn</span></p>
           <p className='event-signup'>
-            <a href='https://www.eventbrite.se/e/how-world-leading-technology-can-prevent-sexual-abuse-tickets-77983604059' target='_blank' title='Read more' rel='noopener noreferrer' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Sign up</a>
+            <a href='https://www.eventbrite.se/e/how-world-leading-technology-can-prevent-sexual-abuse-tickets-77983604059' target='_blank' title='Read more' rel='noopener noreferrer' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Signup</a>
           </p>
         </div>
       </div>
     </div>
   </div>
-  
+
   <div className='event'>
     <div className='event-timeline hidden lg:block'>
       <p className="event-time">
@@ -371,15 +371,15 @@
           <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>Event</p>
           <p className='event-location'><span className='location-icon big my-2' /> <span className='location-link'>Johan & Nyström, Avenyn</span></p>
           <p className='event-signup'>
-            <a href='#' target='_blank' title='Read more' rel='noopener noreferrer' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Sign up</a>
+            <a href='#' target='_blank' title='Read more' rel='noopener noreferrer' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Signup</a>
           </p>
         </div>
       </div>
     </div>
   </div>
-  
+
     </div>
-  
+
     <div className='pb-4' id='2019-11-28'>
       <VisibilitySensor onChange={() => setDay('2019-11-28')}>
         <h3 className='pl-6 pb-6 text-white'>
@@ -387,7 +387,7 @@
           <span className='text-2xl'>Thursday</span>
         </h3>
       </VisibilitySensor>
-      
+
   <div className='event'>
     <div className='event-timeline hidden lg:block'>
       <p className="event-time">
@@ -412,13 +412,13 @@
           <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>Event</p>
           <p className='event-location'><span className='location-icon big my-2' /> <span className='location-link'>Johan & Nyström, Avenyn</span></p>
           <p className='event-signup'>
-            <a href='#' target='_blank' title='Read more' rel='noopener noreferrer' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Sign up</a>
+            <a href='#' target='_blank' title='Read more' rel='noopener noreferrer' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Signup</a>
           </p>
         </div>
       </div>
     </div>
   </div>
-  
+
   <div className='event'>
     <div className='event-timeline hidden lg:block'>
       <p className="event-time">
@@ -443,13 +443,13 @@
           <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>Event</p>
           <p className='event-location'><span className='location-icon big my-2' /> <span className='location-link'>Johan & Nyström, Avenyn</span></p>
           <p className='event-signup'>
-            <a href='#' target='_blank' title='Read more' rel='noopener noreferrer' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Sign up</a>
+            <a href='#' target='_blank' title='Read more' rel='noopener noreferrer' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Signup</a>
           </p>
         </div>
       </div>
     </div>
   </div>
-  
+
   <div className='event'>
     <div className='event-timeline hidden lg:block'>
       <p className="event-time">
@@ -474,15 +474,15 @@
           <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>Event</p>
           <p className='event-location'><span className='location-icon big my-2' /> <span className='location-link'>Johan & Nyström, Avenyn</span></p>
           <p className='event-signup'>
-            <a href='#' target='_blank' title='Read more' rel='noopener noreferrer' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Sign up</a>
+            <a href='#' target='_blank' title='Read more' rel='noopener noreferrer' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Signup</a>
           </p>
         </div>
       </div>
     </div>
   </div>
-  
+
     </div>
-  
+
     <div className='pb-4' id='2019-11-29'>
       <VisibilitySensor onChange={() => setDay('2019-11-29')}>
         <h3 className='pl-6 pb-6 text-white'>
@@ -490,7 +490,7 @@
           <span className='text-2xl'>Friday</span>
         </h3>
       </VisibilitySensor>
-      
+
   <div className='event'>
     <div className='event-timeline hidden lg:block'>
       <p className="event-time">
@@ -515,13 +515,13 @@
           <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>Event</p>
           <p className='event-location'><span className='location-icon big my-2' /> <span className='location-link'>Johan & Nyström, Avenyn</span></p>
           <p className='event-signup'>
-            <a href='#' target='_blank' title='Read more' rel='noopener noreferrer' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Sign up</a>
+            <a href='#' target='_blank' title='Read more' rel='noopener noreferrer' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Signup</a>
           </p>
         </div>
       </div>
     </div>
   </div>
-  
+
   <div className='event'>
     <div className='event-timeline hidden lg:block'>
       <p className="event-time">
@@ -546,19 +546,18 @@
           <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>Event</p>
           <p className='event-location'><span className='location-icon big my-2' /> <span className='location-link'>Johan & Nyström, Avenyn</span></p>
           <p className='event-signup'>
-            <a href='#' target='_blank' title='Read more' rel='noopener noreferrer' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Sign up</a>
+            <a href='#' target='_blank' title='Read more' rel='noopener noreferrer' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Signup</a>
           </p>
         </div>
       </div>
     </div>
   </div>
-  
+
     </div>
-  
+
               </div>
             </div>
           </div>
         </div>
       );
     }
-  
