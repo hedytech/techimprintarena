@@ -103,7 +103,7 @@
           <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>Event</p>
           <p className='event-location'><span className='location-icon big my-2' /> <span className='location-link'>Johan & Nyström, Avenyn</span></p>
           <p className='event-signup'>
-            <a href='#' target='_blank' title='Read more' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Sign up</a>
+            <a href='#' target='_blank' title='Read more' rel='noopener noreferrer' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Sign up</a>
           </p>
         </div>
       </div>
@@ -134,7 +134,7 @@
           <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>Event</p>
           <p className='event-location'><span className='location-icon big my-2' /> <span className='location-link'>Johan & Nyström, Avenyn</span></p>
           <p className='event-signup'>
-            <a href='#' target='_blank' title='Read more' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Sign up</a>
+            <a href='#' target='_blank' title='Read more' rel='noopener noreferrer' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Sign up</a>
           </p>
         </div>
       </div>
@@ -165,7 +165,7 @@
           <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>Event</p>
           <p className='event-location'><span className='location-icon big my-2' /> <span className='location-link'>Johan & Nyström, Avenyn</span></p>
           <p className='event-signup'>
-            <a href='#' target='_blank' title='Read more' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Sign up</a>
+            <a href='#' target='_blank' title='Read more' rel='noopener noreferrer' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Sign up</a>
           </p>
         </div>
       </div>
@@ -206,7 +206,7 @@
           <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>Event</p>
           <p className='event-location'><span className='location-icon big my-2' /> <span className='location-link'>Johan & Nyström, Avenyn</span></p>
           <p className='event-signup'>
-            <a href='#' target='_blank' title='Read more' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Sign up</a>
+            <a href='#' target='_blank' title='Read more' rel='noopener noreferrer' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Sign up</a>
           </p>
         </div>
       </div>
@@ -237,7 +237,7 @@
           <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>Event</p>
           <p className='event-location'><span className='location-icon big my-2' /> <span className='location-link'>Johan & Nyström, Avenyn</span></p>
           <p className='event-signup'>
-            <a href='#' target='_blank' title='Read more' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Sign up</a>
+            <a href='#' target='_blank' title='Read more' rel='noopener noreferrer' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Sign up</a>
           </p>
         </div>
       </div>
@@ -268,7 +268,7 @@
           <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>Event</p>
           <p className='event-location'><span className='location-icon big my-2' /> <span className='location-link'>Johan & Nyström, Avenyn</span></p>
           <p className='event-signup'>
-            <a href='#' target='_blank' title='Read more' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Sign up</a>
+            <a href='#' target='_blank' title='Read more' rel='noopener noreferrer' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Sign up</a>
           </p>
         </div>
       </div>
@@ -309,7 +309,7 @@
           <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>Event</p>
           <p className='event-location'><span className='location-icon big my-2' /> <span className='location-link'>Johan & Nyström, Avenyn</span></p>
           <p className='event-signup'>
-            <a href='#' target='_blank' title='Read more' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Sign up</a>
+            <a href='#' target='_blank' title='Read more' rel='noopener noreferrer' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Sign up</a>
           </p>
         </div>
       </div>
@@ -337,10 +337,10 @@
           <p>Digitalisation and connectivity have brought a lot of positive developments and opportunities, but it has also resulted in a great increase in the volumes of and accessibility to child sexual abuse material. What role does businesses play and what can they do to disrupt the dissemination of child sexual abuse material – and why should they?</p>
         </div>
         <div className='w-full lg:w-1/5 lg:pl-4'>
-          <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>Event</p>
+          <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>NetClean</p>
           <p className='event-location'><span className='location-icon big my-2' /> <span className='location-link'>Johan & Nyström, Avenyn</span></p>
           <p className='event-signup'>
-            <a href='https://www.eventbrite.se/e/how-world-leading-technology-can-prevent-sexual-abuse-tickets-77983604059' target='_blank' title='Read more' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Sign up</a>
+            <a href='https://www.eventbrite.se/e/how-world-leading-technology-can-prevent-sexual-abuse-tickets-77983604059' target='_blank' title='Read more' rel='noopener noreferrer' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Sign up</a>
           </p>
         </div>
       </div>
@@ -371,7 +371,7 @@
           <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>Event</p>
           <p className='event-location'><span className='location-icon big my-2' /> <span className='location-link'>Johan & Nyström, Avenyn</span></p>
           <p className='event-signup'>
-            <a href='#' target='_blank' title='Read more' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Sign up</a>
+            <a href='#' target='_blank' title='Read more' rel='noopener noreferrer' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Sign up</a>
           </p>
         </div>
       </div>
@@ -412,7 +412,7 @@
           <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>Event</p>
           <p className='event-location'><span className='location-icon big my-2' /> <span className='location-link'>Johan & Nyström, Avenyn</span></p>
           <p className='event-signup'>
-            <a href='#' target='_blank' title='Read more' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Sign up</a>
+            <a href='#' target='_blank' title='Read more' rel='noopener noreferrer' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Sign up</a>
           </p>
         </div>
       </div>
@@ -443,7 +443,7 @@
           <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>Event</p>
           <p className='event-location'><span className='location-icon big my-2' /> <span className='location-link'>Johan & Nyström, Avenyn</span></p>
           <p className='event-signup'>
-            <a href='#' target='_blank' title='Read more' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Sign up</a>
+            <a href='#' target='_blank' title='Read more' rel='noopener noreferrer' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Sign up</a>
           </p>
         </div>
       </div>
@@ -474,7 +474,7 @@
           <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>Event</p>
           <p className='event-location'><span className='location-icon big my-2' /> <span className='location-link'>Johan & Nyström, Avenyn</span></p>
           <p className='event-signup'>
-            <a href='#' target='_blank' title='Read more' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Sign up</a>
+            <a href='#' target='_blank' title='Read more' rel='noopener noreferrer' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Sign up</a>
           </p>
         </div>
       </div>
@@ -515,7 +515,7 @@
           <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>Event</p>
           <p className='event-location'><span className='location-icon big my-2' /> <span className='location-link'>Johan & Nyström, Avenyn</span></p>
           <p className='event-signup'>
-            <a href='#' target='_blank' title='Read more' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Sign up</a>
+            <a href='#' target='_blank' title='Read more' rel='noopener noreferrer' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Sign up</a>
           </p>
         </div>
       </div>
@@ -546,7 +546,7 @@
           <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>Event</p>
           <p className='event-location'><span className='location-icon big my-2' /> <span className='location-link'>Johan & Nyström, Avenyn</span></p>
           <p className='event-signup'>
-            <a href='#' target='_blank' title='Read more' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Sign up</a>
+            <a href='#' target='_blank' title='Read more' rel='noopener noreferrer' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Sign up</a>
           </p>
         </div>
       </div>
