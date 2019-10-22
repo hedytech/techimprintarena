@@ -16,7 +16,7 @@ export default () => (
       }}
     />
     <div className="bg-color-cover opacity-75 fixed min-h-screen w-screen" />
-    <div className="relative pt-32 pb-20">
+    <div className="relative pt-32 pb-20 min-h-screen">
       <div className="flex flex-wrap justify-center">
         <div className="flex flex-wrap w-4/5">
           <div className="w-full lg:w-1/2 text-center lg:text-right">
