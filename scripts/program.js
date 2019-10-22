@@ -12,9 +12,7 @@ const sidebarTemplate = program =>
   `;
 
 const eventlocationtemplate = event =>
-  `<p className='event-location'><span className='location-icon big my-2' /> <span className='location-link'>${
-    event.location
-  }</span></p>`
+  `<p className='event-location'><span className='location-icon big my-2' /> <span className='location-link'>${event.location}</span></p>`;
 
 const eventTemplate = event =>
   `
@@ -30,7 +28,9 @@ const eventTemplate = event =>
       <div className='flex flex-wrap lg:justify-center'>
         <div className='w-full lg:w-1/5 -mr-6 pb-6 lg:pb-0'>
           <div className="event-thumbnail-container">
-            <div className="event-thumbnail" style={{backgroundImage: "url(/${event.image})"}}></div>
+            <div className="event-thumbnail" style={{backgroundImage: "url(/${
+              event.image
+            })"}}></div>
           </div>
         </div>
         <div className='w-full lg:w-3/5'>
@@ -48,7 +48,7 @@ const eventTemplate = event =>
           <p className='event-signup'>
             <a href='${
               event.link ? event.link : '#'
-            }' title='Read more' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Sign up</a>
+            }' target='_blank' title='Read more' rel='noopener noreferrer' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Sign up</a>
           </p>
         </div>
       </div>

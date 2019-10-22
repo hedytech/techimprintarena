@@ -112,13 +112,12 @@
             "day": "2019-11-27",
             "start": "11:30",
             "end": "12:30",
-            "title": "Event Title",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "title": "How world-leading technology can prevent sexual abuse against children",
+            "text": "Digitalisation and connectivity have brought a lot of positive developments and opportunities, but it has also resulted in a great increase in the volumes of and accessibility to child sexual abuse material. What role does businesses play and what can they do to disrupt the dissemination of child sexual abuse material – and why should they?",
             "by": "Event",
             "location": "Johan & Nyström, Avenyn",
             "image": "speakers/netclean.jpg",
-            "info": "This event is full",
-            "info_color": "red"
+            "link": "https://www.eventbrite.se/e/how-world-leading-technology-can-prevent-sexual-abuse-tickets-77983604059"
           },
           {
             "day": "2019-11-27",
