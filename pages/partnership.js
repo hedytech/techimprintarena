@@ -3,7 +3,7 @@ import Head from 'next/head';
 export default () => (
   <div>
     <Head>
-      <title>Partnership - Tech Imprent Arena</title>
+      <title>Partnership - Tech Imprint Arena</title>
       <link rel="canonical" href="https://techimprentarena.com/partnership" />
     </Head>
     <div className="bg-color-cover-full-img fixed min-h-screen w-screen" />

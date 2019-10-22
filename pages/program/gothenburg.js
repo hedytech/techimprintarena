@@ -14,7 +14,7 @@
       return (
         <div>
           <Head>
-            <title>Gothenburg - Tech Imprent Arena</title>
+            <title>Gothenburg - Tech Imprint Arena</title>
             <link rel="canonical" href="https://techimprentarena.com/program/gothenburg" />
           </Head>
           <div

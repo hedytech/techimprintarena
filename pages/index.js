@@ -6,7 +6,7 @@ import logos from '../data/logos.json';
 export default () => (
   <div>
     <Head>
-      <title>Tech Imprent Arena</title>
+      <title>Tech Imprint Arena</title>
       <link rel="canonical" href="https://techimprentarena.com/" />
     </Head>
     <a

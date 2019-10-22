@@ -3,7 +3,7 @@ import Head from 'next/head';
 export default () => (
   <div>
     <Head>
-      <title>Privacy Policy - Tech Imprent Arena</title>
+      <title>Privacy Policy - Tech Imprint Arena</title>
       <link
         rel="canonical"
         href="https://techimprentarena.com/privacy-policy"

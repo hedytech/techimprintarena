@@ -90,7 +90,7 @@ const template = city =>
       return (
         <div>
           <Head>
-            <title>${city.name} - Tech Imprent Arena</title>
+            <title>${city.name} - Tech Imprint Arena</title>
             <link rel="canonical" href="https://techimprentarena.com/program/${
               city.slug
             }" />

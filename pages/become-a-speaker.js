@@ -3,7 +3,7 @@ import Head from 'next/head';
 export default () => (
   <div>
     <Head>
-      <title>Become a speaker - Tech Imprent Arena</title>
+      <title>Become a speaker - Tech Imprint Arena</title>
       <link
         rel="canonical"
         href="https://techimprentarena.com/become-a-speaker"
