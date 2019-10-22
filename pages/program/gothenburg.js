@@ -96,7 +96,7 @@
             alt="Event Title"
           />
         </div>
-        <div className='w-full lg:w-2/5'>
+        <div className='w-full lg:w-3/5'>
           <h4 className='font-bold tracking-wide'>Event Title</h4>
           <span className='text-xs font-bold' style={{color:'red'}}>This event is full</span>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
@@ -104,9 +104,9 @@
         <div className='w-full lg:w-1/5 lg:pl-4'>
           <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>Event</p>
           <p className='event-location'><span className='location-icon big my-2' /> <span className='location-link'>Johan & Nyström, Avenyn</span></p>
-        </div>
-        <div className='w-full lg:w-1/5'>
-          <a href='#' title='Read more' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Sign up</a>
+          <p className='event-signup'>
+            <a href='#' title='Read more' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Sign up</a>
+          </p>
         </div>
       </div>
     </div>
@@ -129,7 +129,7 @@
             alt="Event Title"
           />
         </div>
-        <div className='w-full lg:w-2/5'>
+        <div className='w-full lg:w-3/5'>
           <h4 className='font-bold tracking-wide'>Event Title</h4>
           <span className='text-xs font-bold' style={{color:'red'}}>This event is full</span>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
@@ -137,9 +137,9 @@
         <div className='w-full lg:w-1/5 lg:pl-4'>
           <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>Event</p>
           <p className='event-location'><span className='location-icon big my-2' /> <span className='location-link'>Johan & Nyström, Avenyn</span></p>
-        </div>
-        <div className='w-full lg:w-1/5'>
-          <a href='#' title='Read more' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Sign up</a>
+          <p className='event-signup'>
+            <a href='#' title='Read more' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Sign up</a>
+          </p>
         </div>
       </div>
     </div>
@@ -162,7 +162,7 @@
             alt="Event Title"
           />
         </div>
-        <div className='w-full lg:w-2/5'>
+        <div className='w-full lg:w-3/5'>
           <h4 className='font-bold tracking-wide'>Event Title</h4>
           <span className='text-xs font-bold' style={{color:'red'}}>This event is full</span>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
@@ -170,9 +170,9 @@
         <div className='w-full lg:w-1/5 lg:pl-4'>
           <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>Event</p>
           <p className='event-location'><span className='location-icon big my-2' /> <span className='location-link'>Johan & Nyström, Avenyn</span></p>
-        </div>
-        <div className='w-full lg:w-1/5'>
-          <a href='#' title='Read more' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Sign up</a>
+          <p className='event-signup'>
+            <a href='#' title='Read more' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Sign up</a>
+          </p>
         </div>
       </div>
     </div>
@@ -205,7 +205,7 @@
             alt="Event Title"
           />
         </div>
-        <div className='w-full lg:w-2/5'>
+        <div className='w-full lg:w-3/5'>
           <h4 className='font-bold tracking-wide'>Event Title</h4>
           <span className='text-xs font-bold' style={{color:'red'}}>This event is full</span>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
@@ -213,9 +213,9 @@
         <div className='w-full lg:w-1/5 lg:pl-4'>
           <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>Event</p>
           <p className='event-location'><span className='location-icon big my-2' /> <span className='location-link'>Johan & Nyström, Avenyn</span></p>
-        </div>
-        <div className='w-full lg:w-1/5'>
-          <a href='#' title='Read more' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Sign up</a>
+          <p className='event-signup'>
+            <a href='#' title='Read more' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Sign up</a>
+          </p>
         </div>
       </div>
     </div>
@@ -238,7 +238,7 @@
             alt="Event Title"
           />
         </div>
-        <div className='w-full lg:w-2/5'>
+        <div className='w-full lg:w-3/5'>
           <h4 className='font-bold tracking-wide'>Event Title</h4>
           <span className='text-xs font-bold' style={{color:'red'}}>This event is full</span>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
@@ -246,9 +246,9 @@
         <div className='w-full lg:w-1/5 lg:pl-4'>
           <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>Event</p>
           <p className='event-location'><span className='location-icon big my-2' /> <span className='location-link'>Johan & Nyström, Avenyn</span></p>
-        </div>
-        <div className='w-full lg:w-1/5'>
-          <a href='#' title='Read more' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Sign up</a>
+          <p className='event-signup'>
+            <a href='#' title='Read more' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Sign up</a>
+          </p>
         </div>
       </div>
     </div>
@@ -271,7 +271,7 @@
             alt="Event Title"
           />
         </div>
-        <div className='w-full lg:w-2/5'>
+        <div className='w-full lg:w-3/5'>
           <h4 className='font-bold tracking-wide'>Event Title</h4>
           <span className='text-xs font-bold' style={{color:'red'}}>This event is full</span>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
@@ -279,9 +279,9 @@
         <div className='w-full lg:w-1/5 lg:pl-4'>
           <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>Event</p>
           <p className='event-location'><span className='location-icon big my-2' /> <span className='location-link'>Johan & Nyström, Avenyn</span></p>
-        </div>
-        <div className='w-full lg:w-1/5'>
-          <a href='#' title='Read more' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Sign up</a>
+          <p className='event-signup'>
+            <a href='#' title='Read more' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Sign up</a>
+          </p>
         </div>
       </div>
     </div>
@@ -314,7 +314,7 @@
             alt="Event Title"
           />
         </div>
-        <div className='w-full lg:w-2/5'>
+        <div className='w-full lg:w-3/5'>
           <h4 className='font-bold tracking-wide'>Event Title</h4>
           <span className='text-xs font-bold' style={{color:'red'}}>This event is full</span>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
@@ -322,9 +322,9 @@
         <div className='w-full lg:w-1/5 lg:pl-4'>
           <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>Event</p>
           <p className='event-location'><span className='location-icon big my-2' /> <span className='location-link'>Johan & Nyström, Avenyn</span></p>
-        </div>
-        <div className='w-full lg:w-1/5'>
-          <a href='#' title='Read more' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Sign up</a>
+          <p className='event-signup'>
+            <a href='#' title='Read more' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Sign up</a>
+          </p>
         </div>
       </div>
     </div>
@@ -347,7 +347,7 @@
             alt="Event Title"
           />
         </div>
-        <div className='w-full lg:w-2/5'>
+        <div className='w-full lg:w-3/5'>
           <h4 className='font-bold tracking-wide'>Event Title</h4>
           <span className='text-xs font-bold' style={{color:'red'}}>This event is full</span>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
@@ -355,9 +355,9 @@
         <div className='w-full lg:w-1/5 lg:pl-4'>
           <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>Event</p>
           <p className='event-location'><span className='location-icon big my-2' /> <span className='location-link'>Johan & Nyström, Avenyn</span></p>
-        </div>
-        <div className='w-full lg:w-1/5'>
-          <a href='#' title='Read more' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Sign up</a>
+          <p className='event-signup'>
+            <a href='#' title='Read more' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Sign up</a>
+          </p>
         </div>
       </div>
     </div>
@@ -380,7 +380,7 @@
             alt="Event Title"
           />
         </div>
-        <div className='w-full lg:w-2/5'>
+        <div className='w-full lg:w-3/5'>
           <h4 className='font-bold tracking-wide'>Event Title</h4>
           <span className='text-xs font-bold' style={{color:'red'}}>This event is full</span>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
@@ -388,9 +388,9 @@
         <div className='w-full lg:w-1/5 lg:pl-4'>
           <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>Event</p>
           <p className='event-location'><span className='location-icon big my-2' /> <span className='location-link'>Johan & Nyström, Avenyn</span></p>
-        </div>
-        <div className='w-full lg:w-1/5'>
-          <a href='#' title='Read more' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Sign up</a>
+          <p className='event-signup'>
+            <a href='#' title='Read more' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Sign up</a>
+          </p>
         </div>
       </div>
     </div>
@@ -423,7 +423,7 @@
             alt="Event Title"
           />
         </div>
-        <div className='w-full lg:w-2/5'>
+        <div className='w-full lg:w-3/5'>
           <h4 className='font-bold tracking-wide'>Event Title</h4>
           <span className='text-xs font-bold' style={{color:'red'}}>This event is full</span>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
@@ -431,9 +431,9 @@
         <div className='w-full lg:w-1/5 lg:pl-4'>
           <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>Event</p>
           <p className='event-location'><span className='location-icon big my-2' /> <span className='location-link'>Johan & Nyström, Avenyn</span></p>
-        </div>
-        <div className='w-full lg:w-1/5'>
-          <a href='#' title='Read more' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Sign up</a>
+          <p className='event-signup'>
+            <a href='#' title='Read more' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Sign up</a>
+          </p>
         </div>
       </div>
     </div>
@@ -456,7 +456,7 @@
             alt="Event Title"
           />
         </div>
-        <div className='w-full lg:w-2/5'>
+        <div className='w-full lg:w-3/5'>
           <h4 className='font-bold tracking-wide'>Event Title</h4>
           <span className='text-xs font-bold' style={{color:'red'}}>This event is full</span>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
@@ -464,9 +464,9 @@
         <div className='w-full lg:w-1/5 lg:pl-4'>
           <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>Event</p>
           <p className='event-location'><span className='location-icon big my-2' /> <span className='location-link'>Johan & Nyström, Avenyn</span></p>
-        </div>
-        <div className='w-full lg:w-1/5'>
-          <a href='#' title='Read more' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Sign up</a>
+          <p className='event-signup'>
+            <a href='#' title='Read more' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Sign up</a>
+          </p>
         </div>
       </div>
     </div>
@@ -489,7 +489,7 @@
             alt="Event Title"
           />
         </div>
-        <div className='w-full lg:w-2/5'>
+        <div className='w-full lg:w-3/5'>
           <h4 className='font-bold tracking-wide'>Event Title</h4>
           <span className='text-xs font-bold' style={{color:'red'}}>This event is full</span>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
@@ -497,9 +497,9 @@
         <div className='w-full lg:w-1/5 lg:pl-4'>
           <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>Event</p>
           <p className='event-location'><span className='location-icon big my-2' /> <span className='location-link'>Johan & Nyström, Avenyn</span></p>
-        </div>
-        <div className='w-full lg:w-1/5'>
-          <a href='#' title='Read more' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Sign up</a>
+          <p className='event-signup'>
+            <a href='#' title='Read more' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Sign up</a>
+          </p>
         </div>
       </div>
     </div>
@@ -532,7 +532,7 @@
             alt="Event Title"
           />
         </div>
-        <div className='w-full lg:w-2/5'>
+        <div className='w-full lg:w-3/5'>
           <h4 className='font-bold tracking-wide'>Event Title</h4>
           <span className='text-xs font-bold' style={{color:'red'}}>This event is full</span>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
@@ -540,9 +540,9 @@
         <div className='w-full lg:w-1/5 lg:pl-4'>
           <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>Event</p>
           <p className='event-location'><span className='location-icon big my-2' /> <span className='location-link'>Johan & Nyström, Avenyn</span></p>
-        </div>
-        <div className='w-full lg:w-1/5'>
-          <a href='#' title='Read more' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Sign up</a>
+          <p className='event-signup'>
+            <a href='#' title='Read more' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Sign up</a>
+          </p>
         </div>
       </div>
     </div>
@@ -565,7 +565,7 @@
             alt="Event Title"
           />
         </div>
-        <div className='w-full lg:w-2/5'>
+        <div className='w-full lg:w-3/5'>
           <h4 className='font-bold tracking-wide'>Event Title</h4>
           <span className='text-xs font-bold' style={{color:'red'}}>This event is full</span>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
@@ -573,9 +573,9 @@
         <div className='w-full lg:w-1/5 lg:pl-4'>
           <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>Event</p>
           <p className='event-location'><span className='location-icon big my-2' /> <span className='location-link'>Johan & Nyström, Avenyn</span></p>
-        </div>
-        <div className='w-full lg:w-1/5'>
-          <a href='#' title='Read more' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Sign up</a>
+          <p className='event-signup'>
+            <a href='#' title='Read more' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Sign up</a>
+          </p>
         </div>
       </div>
     </div>
