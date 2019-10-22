@@ -48,8 +48,8 @@ export default () => (
       className="relative pb-20 pt-20 min-h-screen bg-color-cover-full-img"
     >
       <div className="flex items-center min-h-screen flex-wrap px-10">
-        <div className="w-full lg:w-1/2 ">
-          <h2 className="text-3xl lg:text-6xl font-bold lg:w-3/4 text-center lg:text-right pb-10">
+        <div className="w-full lg:w-1/2">
+          <h2 className="text-3xl lg:text-6xl font-bold lg:w-3/4 text-center lg:text-right">
             WHAT IS HAPPENING
             <br />
             RIGHT NOW?
@@ -104,7 +104,7 @@ export default () => (
     <div className="relative pt-20 pb-20 min-h-screen bg-color-cover-full-img p-10 lg:p-20">
       <div className="flex flex-wrap items-center min-h-screen lg:min-h-auto px-10">
         <div className="w-full flex justify-center text-center block lg:hidden">
-          <h2 className="text-3xl lg:text-6xl font-bold text-center lg:text-left lg:pt-16 pb-10">
+          <h2 className="text-3xl lg:text-6xl font-bold text-center lg:text-left lg:pt-16">
             HOW
             <br />
             WHERE
@@ -114,12 +114,12 @@ export default () => (
         </div>
         <div className="w-full lg:w-3/4">
           <div className="p-0 lg:p-10 text-lg lg:text-xl">
-            <p className="pb-6 pr-10">
+            <p className="pb-6 lg:pr-10">
               During a one week period in each city, companies will gather to
               tell YOU how they use the latest technology to create a better
               world.
             </p>
-            <p className="pb-6 pr-10">
+            <p className="pb-6 lg:pr-10">
               Tech Imprint Arena will take place in Gothenburg, Stockholm and
               Malmö during 2019 and the beginning of 2020, and continue to
               Copenhagen, Oslo and Helsinki short after.
