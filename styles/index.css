@@ -243,6 +243,19 @@ body {
   display: inline-flex;
 }
 
+.event-thumbnail-container {
+  padding-right: 0;
+}
+
+.event-thumbnail {
+  width: 5em;
+  height: 5em;
+  border-radius: 100%;
+  background-repeat: no-repeat;
+  background-size: 150%;
+  background-position: center;
+}
+
 .location-link {
   display: inline-block;
   padding-right: 0;

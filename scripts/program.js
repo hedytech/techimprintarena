@@ -29,11 +29,9 @@ const eventTemplate = event =>
     <div className="event-link m-0 lg:ml-32 w-full lg:w-3/4">
       <div className='flex flex-wrap lg:justify-center'>
         <div className='w-full lg:w-1/5 -mr-6 pb-6 lg:pb-0'>
-          <img
-            className="w-16 h-16 rounded-full mr-4"
-            src="/${event.image}"
-            alt="${event.title}"
-          />
+          <div className="event-thumbnail-container">
+            <div className="event-thumbnail" style={{backgroundImage: "url(/${event.image})"}}></div>
+          </div>
         </div>
         <div className='w-full lg:w-3/5'>
           <h4 className='font-bold tracking-wide'>${event.title}</h4>

@@ -90,11 +90,9 @@
     <div className="event-link m-0 lg:ml-32 w-full lg:w-3/4">
       <div className='flex flex-wrap lg:justify-center'>
         <div className='w-full lg:w-1/5 -mr-6 pb-6 lg:pb-0'>
-          <img
-            className="w-16 h-16 rounded-full mr-4"
-            src="/city/gbg.jpg"
-            alt="Event Title"
-          />
+          <div className="event-thumbnail-container">
+            <div className="event-thumbnail" style={{backgroundImage: "url(/city/gbg.jpg)"}}></div>
+          </div>
         </div>
         <div className='w-full lg:w-3/5'>
           <h4 className='font-bold tracking-wide'>Event Title</h4>
@@ -123,11 +121,9 @@
     <div className="event-link m-0 lg:ml-32 w-full lg:w-3/4">
       <div className='flex flex-wrap lg:justify-center'>
         <div className='w-full lg:w-1/5 -mr-6 pb-6 lg:pb-0'>
-          <img
-            className="w-16 h-16 rounded-full mr-4"
-            src="/city/gbg.jpg"
-            alt="Event Title"
-          />
+          <div className="event-thumbnail-container">
+            <div className="event-thumbnail" style={{backgroundImage: "url(/city/gbg.jpg)"}}></div>
+          </div>
         </div>
         <div className='w-full lg:w-3/5'>
           <h4 className='font-bold tracking-wide'>Event Title</h4>
@@ -156,11 +152,9 @@
     <div className="event-link m-0 lg:ml-32 w-full lg:w-3/4">
       <div className='flex flex-wrap lg:justify-center'>
         <div className='w-full lg:w-1/5 -mr-6 pb-6 lg:pb-0'>
-          <img
-            className="w-16 h-16 rounded-full mr-4"
-            src="/city/gbg.jpg"
-            alt="Event Title"
-          />
+          <div className="event-thumbnail-container">
+            <div className="event-thumbnail" style={{backgroundImage: "url(/city/gbg.jpg)"}}></div>
+          </div>
         </div>
         <div className='w-full lg:w-3/5'>
           <h4 className='font-bold tracking-wide'>Event Title</h4>
@@ -199,11 +193,9 @@
     <div className="event-link m-0 lg:ml-32 w-full lg:w-3/4">
       <div className='flex flex-wrap lg:justify-center'>
         <div className='w-full lg:w-1/5 -mr-6 pb-6 lg:pb-0'>
-          <img
-            className="w-16 h-16 rounded-full mr-4"
-            src="/city/gbg.jpg"
-            alt="Event Title"
-          />
+          <div className="event-thumbnail-container">
+            <div className="event-thumbnail" style={{backgroundImage: "url(/city/gbg.jpg)"}}></div>
+          </div>
         </div>
         <div className='w-full lg:w-3/5'>
           <h4 className='font-bold tracking-wide'>Event Title</h4>
@@ -232,11 +224,9 @@
     <div className="event-link m-0 lg:ml-32 w-full lg:w-3/4">
       <div className='flex flex-wrap lg:justify-center'>
         <div className='w-full lg:w-1/5 -mr-6 pb-6 lg:pb-0'>
-          <img
-            className="w-16 h-16 rounded-full mr-4"
-            src="/city/gbg.jpg"
-            alt="Event Title"
-          />
+          <div className="event-thumbnail-container">
+            <div className="event-thumbnail" style={{backgroundImage: "url(/city/gbg.jpg)"}}></div>
+          </div>
         </div>
         <div className='w-full lg:w-3/5'>
           <h4 className='font-bold tracking-wide'>Event Title</h4>
@@ -265,11 +255,9 @@
     <div className="event-link m-0 lg:ml-32 w-full lg:w-3/4">
       <div className='flex flex-wrap lg:justify-center'>
         <div className='w-full lg:w-1/5 -mr-6 pb-6 lg:pb-0'>
-          <img
-            className="w-16 h-16 rounded-full mr-4"
-            src="/city/gbg.jpg"
-            alt="Event Title"
-          />
+          <div className="event-thumbnail-container">
+            <div className="event-thumbnail" style={{backgroundImage: "url(/city/gbg.jpg)"}}></div>
+          </div>
         </div>
         <div className='w-full lg:w-3/5'>
           <h4 className='font-bold tracking-wide'>Event Title</h4>
@@ -308,11 +296,9 @@
     <div className="event-link m-0 lg:ml-32 w-full lg:w-3/4">
       <div className='flex flex-wrap lg:justify-center'>
         <div className='w-full lg:w-1/5 -mr-6 pb-6 lg:pb-0'>
-          <img
-            className="w-16 h-16 rounded-full mr-4"
-            src="/city/gbg.jpg"
-            alt="Event Title"
-          />
+          <div className="event-thumbnail-container">
+            <div className="event-thumbnail" style={{backgroundImage: "url(/city/gbg.jpg)"}}></div>
+          </div>
         </div>
         <div className='w-full lg:w-3/5'>
           <h4 className='font-bold tracking-wide'>Event Title</h4>
@@ -341,11 +327,9 @@
     <div className="event-link m-0 lg:ml-32 w-full lg:w-3/4">
       <div className='flex flex-wrap lg:justify-center'>
         <div className='w-full lg:w-1/5 -mr-6 pb-6 lg:pb-0'>
-          <img
-            className="w-16 h-16 rounded-full mr-4"
-            src="/city/gbg.jpg"
-            alt="Event Title"
-          />
+          <div className="event-thumbnail-container">
+            <div className="event-thumbnail" style={{backgroundImage: "url(/speakers/netclean.jpg)"}}></div>
+          </div>
         </div>
         <div className='w-full lg:w-3/5'>
           <h4 className='font-bold tracking-wide'>Event Title</h4>
@@ -374,11 +358,9 @@
     <div className="event-link m-0 lg:ml-32 w-full lg:w-3/4">
       <div className='flex flex-wrap lg:justify-center'>
         <div className='w-full lg:w-1/5 -mr-6 pb-6 lg:pb-0'>
-          <img
-            className="w-16 h-16 rounded-full mr-4"
-            src="/city/gbg.jpg"
-            alt="Event Title"
-          />
+          <div className="event-thumbnail-container">
+            <div className="event-thumbnail" style={{backgroundImage: "url(/city/gbg.jpg)"}}></div>
+          </div>
         </div>
         <div className='w-full lg:w-3/5'>
           <h4 className='font-bold tracking-wide'>Event Title</h4>
@@ -417,11 +399,9 @@
     <div className="event-link m-0 lg:ml-32 w-full lg:w-3/4">
       <div className='flex flex-wrap lg:justify-center'>
         <div className='w-full lg:w-1/5 -mr-6 pb-6 lg:pb-0'>
-          <img
-            className="w-16 h-16 rounded-full mr-4"
-            src="/city/gbg.jpg"
-            alt="Event Title"
-          />
+          <div className="event-thumbnail-container">
+            <div className="event-thumbnail" style={{backgroundImage: "url(/city/gbg.jpg)"}}></div>
+          </div>
         </div>
         <div className='w-full lg:w-3/5'>
           <h4 className='font-bold tracking-wide'>Event Title</h4>
@@ -450,11 +430,9 @@
     <div className="event-link m-0 lg:ml-32 w-full lg:w-3/4">
       <div className='flex flex-wrap lg:justify-center'>
         <div className='w-full lg:w-1/5 -mr-6 pb-6 lg:pb-0'>
-          <img
-            className="w-16 h-16 rounded-full mr-4"
-            src="/city/gbg.jpg"
-            alt="Event Title"
-          />
+          <div className="event-thumbnail-container">
+            <div className="event-thumbnail" style={{backgroundImage: "url(/city/gbg.jpg)"}}></div>
+          </div>
         </div>
         <div className='w-full lg:w-3/5'>
           <h4 className='font-bold tracking-wide'>Event Title</h4>
@@ -483,11 +461,9 @@
     <div className="event-link m-0 lg:ml-32 w-full lg:w-3/4">
       <div className='flex flex-wrap lg:justify-center'>
         <div className='w-full lg:w-1/5 -mr-6 pb-6 lg:pb-0'>
-          <img
-            className="w-16 h-16 rounded-full mr-4"
-            src="/city/gbg.jpg"
-            alt="Event Title"
-          />
+          <div className="event-thumbnail-container">
+            <div className="event-thumbnail" style={{backgroundImage: "url(/city/gbg.jpg)"}}></div>
+          </div>
         </div>
         <div className='w-full lg:w-3/5'>
           <h4 className='font-bold tracking-wide'>Event Title</h4>
@@ -526,11 +502,9 @@
     <div className="event-link m-0 lg:ml-32 w-full lg:w-3/4">
       <div className='flex flex-wrap lg:justify-center'>
         <div className='w-full lg:w-1/5 -mr-6 pb-6 lg:pb-0'>
-          <img
-            className="w-16 h-16 rounded-full mr-4"
-            src="/city/gbg.jpg"
-            alt="Event Title"
-          />
+          <div className="event-thumbnail-container">
+            <div className="event-thumbnail" style={{backgroundImage: "url(/city/gbg.jpg)"}}></div>
+          </div>
         </div>
         <div className='w-full lg:w-3/5'>
           <h4 className='font-bold tracking-wide'>Event Title</h4>
@@ -559,11 +533,9 @@
     <div className="event-link m-0 lg:ml-32 w-full lg:w-3/4">
       <div className='flex flex-wrap lg:justify-center'>
         <div className='w-full lg:w-1/5 -mr-6 pb-6 lg:pb-0'>
-          <img
-            className="w-16 h-16 rounded-full mr-4"
-            src="/city/gbg.jpg"
-            alt="Event Title"
-          />
+          <div className="event-thumbnail-container">
+            <div className="event-thumbnail" style={{backgroundImage: "url(/city/gbg.jpg)"}}></div>
+          </div>
         </div>
         <div className='w-full lg:w-3/5'>
           <h4 className='font-bold tracking-wide'>Event Title</h4>
