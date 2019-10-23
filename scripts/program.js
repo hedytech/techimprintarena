@@ -24,7 +24,7 @@ const eventTemplate = event =>
         <span className="event-end-time">${event.end}</span>
       </p>
     </div>
-    <div className="event-link m-0 lg:ml-32 w-full lg:w-3/4">
+    <div className="event-link m-0 lg:ml-32 w-full lg:w-4/4">
       <div className='flex flex-wrap lg:justify-center'>
         <div className='w-full lg:w-1/5 -mr-6 pb-6 lg:pb-0'>
           <div className="event-thumbnail-container">
@@ -34,7 +34,7 @@ const eventTemplate = event =>
           </div>
         </div>
         <div className='w-full lg:w-3/5'>
-          <h4 className='font-bold tracking-wide'>${event.title}</h4>
+          <h4 className='font-bold tracking-wide pb-3'>${event.title}</h4>
           <span className='text-xs font-bold' style={{color:'${
             event.info_color
           }'}}>${event.info ? event.info : ''}</span>

@@ -22,7 +22,7 @@
     "tailwindcss": "^1.1.2"
   },
   "scripts": {
-    "build": "next build",
+    "build": "node scripts/program.js && next build",
     "deploy": "npm run build && npm run export",
     "dev": "next",
     "export": "next export",

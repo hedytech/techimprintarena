@@ -243,6 +243,13 @@ body {
   display: inline-flex;
 }
 
+.event-signup a {
+  display: table-cell;
+  vertical-align: middle;
+  padding: 1em;
+  text-align: center;
+}
+
 .event-thumbnail-container {
   padding-right: 0;
 }
@@ -254,6 +261,8 @@ body {
   background-repeat: no-repeat;
   background-size: 150%;
   background-position: center;
+  margin-left: 12px;
+  margin-top: 5px;
 }
 
 .location-link {
@@ -279,4 +288,20 @@ body {
 
 .location-icon.black {
   background-image: url("/map-marker-black.png");
+}
+
+
+@media (max-width: 768px) {
+  .event-signup {
+    width: 100%;
+    padding: 0;
+  }
+
+  .event-thumbnail {
+    margin: 0;
+  }
+
+  .event-location .location-link {
+    padding-top: 10px;
+  }
 }

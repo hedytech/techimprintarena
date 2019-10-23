@@ -32,45 +32,45 @@
           </div>
           <div className='relative'>
             <div className='flex flex-wrap justify-center content-center p-10 lg:p-40 pt-40 '>
-
+            
             <div className='w-4/5 fixed hidden lg:block'>
                 <h3 className="text-3xl text-white">Program 2019</h3>
                 <div className="day-selector-container">
-
+                  
   <div className="day-selector">
     <div className="day">
       <a href="#2019-11-25" className={'day-link ' + ('2019-11-25' === day ? 'active' : '')}>Monday 25/11</a>
     </div>
   </div>
-
+  
   <div className="day-selector">
     <div className="day">
       <a href="#2019-11-26" className={'day-link ' + ('2019-11-26' === day ? 'active' : '')}>Tuesday 26/11</a>
     </div>
   </div>
-
+  
   <div className="day-selector">
     <div className="day">
       <a href="#2019-11-27" className={'day-link ' + ('2019-11-27' === day ? 'active' : '')}>Wednesday 27/11</a>
     </div>
   </div>
-
+  
   <div className="day-selector">
     <div className="day">
       <a href="#2019-11-28" className={'day-link ' + ('2019-11-28' === day ? 'active' : '')}>Thursday 28/11</a>
     </div>
   </div>
-
+  
   <div className="day-selector">
     <div className="day">
       <a href="#2019-11-29" className={'day-link ' + ('2019-11-29' === day ? 'active' : '')}>Friday 29/11</a>
     </div>
   </div>
-
+  
                 </div>
               </div>
               <div className='w-full lg:w-4/5 lg:ml-48'>
-
+                
     <div className='pb-4' id='2019-11-25'>
       <VisibilitySensor onChange={() => setDay('2019-11-25')}>
         <h3 className='pl-6 pb-6 text-white'>
@@ -78,7 +78,7 @@
           <span className='text-2xl'>Monday</span>
         </h3>
       </VisibilitySensor>
-
+      
   <div className='event'>
     <div className='event-timeline hidden lg:block'>
       <p className="event-time">
@@ -87,7 +87,7 @@
         <span className="event-end-time">08:30</span>
       </p>
     </div>
-    <div className="event-link m-0 lg:ml-32 w-full lg:w-3/4">
+    <div className="event-link m-0 lg:ml-32 w-full lg:w-4/4">
       <div className='flex flex-wrap lg:justify-center'>
         <div className='w-full lg:w-1/5 -mr-6 pb-6 lg:pb-0'>
           <div className="event-thumbnail-container">
@@ -95,7 +95,7 @@
           </div>
         </div>
         <div className='w-full lg:w-3/5'>
-          <h4 className='font-bold tracking-wide'>Event Title</h4>
+          <h4 className='font-bold tracking-wide pb-3'>Event Title</h4>
           <span className='text-xs font-bold' style={{color:'red'}}>This event is full</span>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
         </div>
@@ -109,7 +109,7 @@
       </div>
     </div>
   </div>
-
+  
   <div className='event'>
     <div className='event-timeline hidden lg:block'>
       <p className="event-time">
@@ -118,7 +118,7 @@
         <span className="event-end-time">12:30</span>
       </p>
     </div>
-    <div className="event-link m-0 lg:ml-32 w-full lg:w-3/4">
+    <div className="event-link m-0 lg:ml-32 w-full lg:w-4/4">
       <div className='flex flex-wrap lg:justify-center'>
         <div className='w-full lg:w-1/5 -mr-6 pb-6 lg:pb-0'>
           <div className="event-thumbnail-container">
@@ -126,7 +126,7 @@
           </div>
         </div>
         <div className='w-full lg:w-3/5'>
-          <h4 className='font-bold tracking-wide'>Event Title</h4>
+          <h4 className='font-bold tracking-wide pb-3'>Event Title</h4>
           <span className='text-xs font-bold' style={{color:'red'}}>This event is full</span>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
         </div>
@@ -140,7 +140,7 @@
       </div>
     </div>
   </div>
-
+  
   <div className='event'>
     <div className='event-timeline hidden lg:block'>
       <p className="event-time">
@@ -149,7 +149,7 @@
         <span className="event-end-time">18:00</span>
       </p>
     </div>
-    <div className="event-link m-0 lg:ml-32 w-full lg:w-3/4">
+    <div className="event-link m-0 lg:ml-32 w-full lg:w-4/4">
       <div className='flex flex-wrap lg:justify-center'>
         <div className='w-full lg:w-1/5 -mr-6 pb-6 lg:pb-0'>
           <div className="event-thumbnail-container">
@@ -157,7 +157,7 @@
           </div>
         </div>
         <div className='w-full lg:w-3/5'>
-          <h4 className='font-bold tracking-wide'>Event Title</h4>
+          <h4 className='font-bold tracking-wide pb-3'>Event Title</h4>
           <span className='text-xs font-bold' style={{color:'red'}}>This event is full</span>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
         </div>
@@ -171,9 +171,9 @@
       </div>
     </div>
   </div>
-
+  
     </div>
-
+  
     <div className='pb-4' id='2019-11-26'>
       <VisibilitySensor onChange={() => setDay('2019-11-26')}>
         <h3 className='pl-6 pb-6 text-white'>
@@ -181,7 +181,7 @@
           <span className='text-2xl'>Tuesday</span>
         </h3>
       </VisibilitySensor>
-
+      
   <div className='event'>
     <div className='event-timeline hidden lg:block'>
       <p className="event-time">
@@ -190,7 +190,7 @@
         <span className="event-end-time">08:30</span>
       </p>
     </div>
-    <div className="event-link m-0 lg:ml-32 w-full lg:w-3/4">
+    <div className="event-link m-0 lg:ml-32 w-full lg:w-4/4">
       <div className='flex flex-wrap lg:justify-center'>
         <div className='w-full lg:w-1/5 -mr-6 pb-6 lg:pb-0'>
           <div className="event-thumbnail-container">
@@ -198,7 +198,7 @@
           </div>
         </div>
         <div className='w-full lg:w-3/5'>
-          <h4 className='font-bold tracking-wide'>Event Title</h4>
+          <h4 className='font-bold tracking-wide pb-3'>Event Title</h4>
           <span className='text-xs font-bold' style={{color:'red'}}>This event is full</span>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
         </div>
@@ -212,7 +212,7 @@
       </div>
     </div>
   </div>
-
+  
   <div className='event'>
     <div className='event-timeline hidden lg:block'>
       <p className="event-time">
@@ -221,7 +221,7 @@
         <span className="event-end-time">12:30</span>
       </p>
     </div>
-    <div className="event-link m-0 lg:ml-32 w-full lg:w-3/4">
+    <div className="event-link m-0 lg:ml-32 w-full lg:w-4/4">
       <div className='flex flex-wrap lg:justify-center'>
         <div className='w-full lg:w-1/5 -mr-6 pb-6 lg:pb-0'>
           <div className="event-thumbnail-container">
@@ -229,7 +229,7 @@
           </div>
         </div>
         <div className='w-full lg:w-3/5'>
-          <h4 className='font-bold tracking-wide'>Event Title</h4>
+          <h4 className='font-bold tracking-wide pb-3'>Event Title</h4>
           <span className='text-xs font-bold' style={{color:'red'}}>This event is full</span>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
         </div>
@@ -243,7 +243,7 @@
       </div>
     </div>
   </div>
-
+  
   <div className='event'>
     <div className='event-timeline hidden lg:block'>
       <p className="event-time">
@@ -252,7 +252,7 @@
         <span className="event-end-time">18:00</span>
       </p>
     </div>
-    <div className="event-link m-0 lg:ml-32 w-full lg:w-3/4">
+    <div className="event-link m-0 lg:ml-32 w-full lg:w-4/4">
       <div className='flex flex-wrap lg:justify-center'>
         <div className='w-full lg:w-1/5 -mr-6 pb-6 lg:pb-0'>
           <div className="event-thumbnail-container">
@@ -260,7 +260,7 @@
           </div>
         </div>
         <div className='w-full lg:w-3/5'>
-          <h4 className='font-bold tracking-wide'>Event Title</h4>
+          <h4 className='font-bold tracking-wide pb-3'>Event Title</h4>
           <span className='text-xs font-bold' style={{color:'red'}}>This event is full</span>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
         </div>
@@ -274,9 +274,9 @@
       </div>
     </div>
   </div>
-
+  
     </div>
-
+  
     <div className='pb-4' id='2019-11-27'>
       <VisibilitySensor onChange={() => setDay('2019-11-27')}>
         <h3 className='pl-6 pb-6 text-white'>
@@ -284,7 +284,7 @@
           <span className='text-2xl'>Wednesday</span>
         </h3>
       </VisibilitySensor>
-
+      
   <div className='event'>
     <div className='event-timeline hidden lg:block'>
       <p className="event-time">
@@ -293,7 +293,7 @@
         <span className="event-end-time">08:30</span>
       </p>
     </div>
-    <div className="event-link m-0 lg:ml-32 w-full lg:w-3/4">
+    <div className="event-link m-0 lg:ml-32 w-full lg:w-4/4">
       <div className='flex flex-wrap lg:justify-center'>
         <div className='w-full lg:w-1/5 -mr-6 pb-6 lg:pb-0'>
           <div className="event-thumbnail-container">
@@ -301,7 +301,7 @@
           </div>
         </div>
         <div className='w-full lg:w-3/5'>
-          <h4 className='font-bold tracking-wide'>Event Title</h4>
+          <h4 className='font-bold tracking-wide pb-3'>Event Title</h4>
           <span className='text-xs font-bold' style={{color:'red'}}>This event is full</span>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
         </div>
@@ -315,7 +315,7 @@
       </div>
     </div>
   </div>
-
+  
   <div className='event'>
     <div className='event-timeline hidden lg:block'>
       <p className="event-time">
@@ -324,7 +324,7 @@
         <span className="event-end-time">12:30</span>
       </p>
     </div>
-    <div className="event-link m-0 lg:ml-32 w-full lg:w-3/4">
+    <div className="event-link m-0 lg:ml-32 w-full lg:w-4/4">
       <div className='flex flex-wrap lg:justify-center'>
         <div className='w-full lg:w-1/5 -mr-6 pb-6 lg:pb-0'>
           <div className="event-thumbnail-container">
@@ -332,7 +332,7 @@
           </div>
         </div>
         <div className='w-full lg:w-3/5'>
-          <h4 className='font-bold tracking-wide'>How world-leading technology can prevent sexual abuse against children</h4>
+          <h4 className='font-bold tracking-wide pb-3'>How world-leading technology can prevent sexual abuse against children</h4>
           <span className='text-xs font-bold' style={{color:'undefined'}}></span>
           <p>Digitalisation and connectivity have brought a lot of positive developments and opportunities, but it has also resulted in a great increase in the volumes of and accessibility to child sexual abuse material. What role does businesses play and what can they do to disrupt the dissemination of child sexual abuse material – and why should they?</p>
         </div>
@@ -346,7 +346,7 @@
       </div>
     </div>
   </div>
-
+  
   <div className='event'>
     <div className='event-timeline hidden lg:block'>
       <p className="event-time">
@@ -355,7 +355,7 @@
         <span className="event-end-time">18:00</span>
       </p>
     </div>
-    <div className="event-link m-0 lg:ml-32 w-full lg:w-3/4">
+    <div className="event-link m-0 lg:ml-32 w-full lg:w-4/4">
       <div className='flex flex-wrap lg:justify-center'>
         <div className='w-full lg:w-1/5 -mr-6 pb-6 lg:pb-0'>
           <div className="event-thumbnail-container">
@@ -363,7 +363,7 @@
           </div>
         </div>
         <div className='w-full lg:w-3/5'>
-          <h4 className='font-bold tracking-wide'>Event Title</h4>
+          <h4 className='font-bold tracking-wide pb-3'>Event Title</h4>
           <span className='text-xs font-bold' style={{color:'red'}}>This event is full</span>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
         </div>
@@ -377,9 +377,9 @@
       </div>
     </div>
   </div>
-
+  
     </div>
-
+  
     <div className='pb-4' id='2019-11-28'>
       <VisibilitySensor onChange={() => setDay('2019-11-28')}>
         <h3 className='pl-6 pb-6 text-white'>
@@ -387,7 +387,7 @@
           <span className='text-2xl'>Thursday</span>
         </h3>
       </VisibilitySensor>
-
+      
   <div className='event'>
     <div className='event-timeline hidden lg:block'>
       <p className="event-time">
@@ -396,7 +396,7 @@
         <span className="event-end-time">08:30</span>
       </p>
     </div>
-    <div className="event-link m-0 lg:ml-32 w-full lg:w-3/4">
+    <div className="event-link m-0 lg:ml-32 w-full lg:w-4/4">
       <div className='flex flex-wrap lg:justify-center'>
         <div className='w-full lg:w-1/5 -mr-6 pb-6 lg:pb-0'>
           <div className="event-thumbnail-container">
@@ -404,7 +404,7 @@
           </div>
         </div>
         <div className='w-full lg:w-3/5'>
-          <h4 className='font-bold tracking-wide'>Event Title</h4>
+          <h4 className='font-bold tracking-wide pb-3'>Event Title</h4>
           <span className='text-xs font-bold' style={{color:'red'}}>This event is full</span>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
         </div>
@@ -418,7 +418,7 @@
       </div>
     </div>
   </div>
-
+  
   <div className='event'>
     <div className='event-timeline hidden lg:block'>
       <p className="event-time">
@@ -427,7 +427,7 @@
         <span className="event-end-time">12:30</span>
       </p>
     </div>
-    <div className="event-link m-0 lg:ml-32 w-full lg:w-3/4">
+    <div className="event-link m-0 lg:ml-32 w-full lg:w-4/4">
       <div className='flex flex-wrap lg:justify-center'>
         <div className='w-full lg:w-1/5 -mr-6 pb-6 lg:pb-0'>
           <div className="event-thumbnail-container">
@@ -435,7 +435,7 @@
           </div>
         </div>
         <div className='w-full lg:w-3/5'>
-          <h4 className='font-bold tracking-wide'>Event Title</h4>
+          <h4 className='font-bold tracking-wide pb-3'>Event Title</h4>
           <span className='text-xs font-bold' style={{color:'red'}}>This event is full</span>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
         </div>
@@ -449,7 +449,7 @@
       </div>
     </div>
   </div>
-
+  
   <div className='event'>
     <div className='event-timeline hidden lg:block'>
       <p className="event-time">
@@ -458,7 +458,7 @@
         <span className="event-end-time">18:00</span>
       </p>
     </div>
-    <div className="event-link m-0 lg:ml-32 w-full lg:w-3/4">
+    <div className="event-link m-0 lg:ml-32 w-full lg:w-4/4">
       <div className='flex flex-wrap lg:justify-center'>
         <div className='w-full lg:w-1/5 -mr-6 pb-6 lg:pb-0'>
           <div className="event-thumbnail-container">
@@ -466,7 +466,7 @@
           </div>
         </div>
         <div className='w-full lg:w-3/5'>
-          <h4 className='font-bold tracking-wide'>Event Title</h4>
+          <h4 className='font-bold tracking-wide pb-3'>Event Title</h4>
           <span className='text-xs font-bold' style={{color:'red'}}>This event is full</span>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
         </div>
@@ -480,9 +480,9 @@
       </div>
     </div>
   </div>
-
+  
     </div>
-
+  
     <div className='pb-4' id='2019-11-29'>
       <VisibilitySensor onChange={() => setDay('2019-11-29')}>
         <h3 className='pl-6 pb-6 text-white'>
@@ -490,7 +490,7 @@
           <span className='text-2xl'>Friday</span>
         </h3>
       </VisibilitySensor>
-
+      
   <div className='event'>
     <div className='event-timeline hidden lg:block'>
       <p className="event-time">
@@ -499,7 +499,7 @@
         <span className="event-end-time">08:30</span>
       </p>
     </div>
-    <div className="event-link m-0 lg:ml-32 w-full lg:w-3/4">
+    <div className="event-link m-0 lg:ml-32 w-full lg:w-4/4">
       <div className='flex flex-wrap lg:justify-center'>
         <div className='w-full lg:w-1/5 -mr-6 pb-6 lg:pb-0'>
           <div className="event-thumbnail-container">
@@ -507,7 +507,7 @@
           </div>
         </div>
         <div className='w-full lg:w-3/5'>
-          <h4 className='font-bold tracking-wide'>Event Title</h4>
+          <h4 className='font-bold tracking-wide pb-3'>Event Title</h4>
           <span className='text-xs font-bold' style={{color:'red'}}>This event is full</span>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
         </div>
@@ -521,7 +521,7 @@
       </div>
     </div>
   </div>
-
+  
   <div className='event'>
     <div className='event-timeline hidden lg:block'>
       <p className="event-time">
@@ -530,7 +530,7 @@
         <span className="event-end-time">12:30</span>
       </p>
     </div>
-    <div className="event-link m-0 lg:ml-32 w-full lg:w-3/4">
+    <div className="event-link m-0 lg:ml-32 w-full lg:w-4/4">
       <div className='flex flex-wrap lg:justify-center'>
         <div className='w-full lg:w-1/5 -mr-6 pb-6 lg:pb-0'>
           <div className="event-thumbnail-container">
@@ -538,7 +538,7 @@
           </div>
         </div>
         <div className='w-full lg:w-3/5'>
-          <h4 className='font-bold tracking-wide'>Event Title</h4>
+          <h4 className='font-bold tracking-wide pb-3'>Event Title</h4>
           <span className='text-xs font-bold' style={{color:'red'}}>This event is full</span>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
         </div>
@@ -552,12 +552,13 @@
       </div>
     </div>
   </div>
-
+  
     </div>
-
+  
               </div>
             </div>
           </div>
         </div>
       );
     }
+  
