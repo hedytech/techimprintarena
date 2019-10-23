@@ -34,11 +34,11 @@ const eventTemplate = event =>
           </div>
         </div>
         <div className='w-full lg:w-3/5'>
-          <h4 className='font-bold tracking-wide pb-3'>${event.title}</h4>
+          <h4 className='font-bold tracking-wide'>${event.title}</h4>
           <span className='text-xs font-bold' style={{color:'${
             event.info_color
           }'}}>${event.info ? event.info : ''}</span>
-          <p>${event.text}</p>
+          <p className='pt-3'>${event.text}</p>
         </div>
         <div className='w-full lg:w-1/5 lg:pl-4'>
           <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>${
