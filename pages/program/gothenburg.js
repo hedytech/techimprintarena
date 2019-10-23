@@ -31,8 +31,8 @@
             <p className='text-center text-lg w-full'><span className='location-icon black'></span> Johan & Nyström, Avenyn</p>
           </div>
           <div className='relative'>
-            <div className='flex flex-wrap justify-center content-center p-10 lg:p-40 pt-40 '>
             
+            <div className=''>
             <div className='w-4/5 fixed hidden lg:block'>
                 <h3 className="text-3xl text-white">Program 2019</h3>
                 <div className="day-selector-container">

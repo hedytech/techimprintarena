@@ -111,14 +111,19 @@ const template = city =>
             }</p>
           </div>
           <div className='relative'>
-            <div className='flex flex-wrap justify-center content-center p-10 lg:p-40 pt-40 ${
-              !city.program ? 'h-screen' : ''
-            }'>
             ${
               !city.program
-                ? '<h3 className="text-center font-bold text-3xl -mt-20">To be announced</h3>'
+                ? `<div className="h-screen text-center mt-64">
+              <h3 className="font-bold text-3xl">To be announced</h3>
+              <p className="w-full">... Hosted by: TBA</p>
+              </div>`
                 : ''
             }
+            <div className='${
+              !city.program
+                ? 'flex flex-wrap justify-center content-center p-10 lg:p-40 pt-40 h-screen'
+                : ''
+            }'>
             <div className='w-4/5 fixed hidden lg:block'>
                 ${
                   city.program
