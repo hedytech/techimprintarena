@@ -6,7 +6,7 @@ const SITE_ROOT = process.env.SITE_ROOT || 'https://techimprintarena.com';
 const SOURCE =
   process.env.SOURCE || path.join(__dirname, '..', 'pages', '/**/*.js');
 const DESTINATION =
-  process.env.DESTINATION || path.join(__dirname, '..', 'root', 'sitemap.xml');
+  process.env.DESTINATION || path.join(__dirname, '..', 'public', 'sitemap.xml');
 
 const diskPages = glob.sync(SOURCE);
 
