@@ -119,11 +119,7 @@ const template = city =>
               </div>`
                 : ''
             }
-            <div className='flex flex-wrap justify-center content-center p-10 lg:p-40 pt-40 ${
-              !city.program
-                ? 'h-screen'
-                : ''
-            }'>
+            <div className='flex flex-wrap justify-center content-center p-10 lg:p-40 pt-40'>
             <div className='w-4/5 fixed hidden lg:block'>
                 ${
                   city.program
