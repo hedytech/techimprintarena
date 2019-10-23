@@ -166,7 +166,7 @@ export default () => (
                   <img
                     key={li}
                     src={`/${l.image}`}
-                    className='malarquee-img w-32'
+                    className='malarquee-img w-48'
                     alt={l.name}
                   />
                 ))}
