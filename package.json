@@ -1,11 +1,7 @@
 {
-  "name": "techimprintarena",
+  "name": "@hedytech/techimprintarena",
   "private": true,
   "version": "1.0.0",
-  "description": "",
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "dependencies": {
     "@zeit/next-css": "^1.0.1",
     "autoprefixer": "^9.6.5",
