@@ -5,14 +5,14 @@ export default () => (
     <Head>
       <title>Privacy Policy - Tech Imprint Arena</title>
       <link
-        rel="canonical"
-        href="https://techimprentarena.com/privacy-policy"
+        rel='canonical'
+        href='https://techimprentarena.com/privacy-policy'
       />
     </Head>
-    <div className="bg-color-cover-full px-10 pt-40 pb-20">
-      <div className="flex flex-wrap justify-center">
-        <div className=" w-3/5">
-          <h1 className="text-3xl lg:text-5xl font-bold lg:pt-10 lg:mr-24">
+    <div className='bg-color-cover-full px-10 pt-40 pb-20'>
+      <div className='flex flex-wrap justify-center'>
+        <div className=' w-3/5'>
+          <h1 className='text-3xl lg:text-5xl font-bold lg:pt-10 lg:mr-24'>
             PRIVACY POLICY
           </h1>
           <p>
@@ -22,7 +22,7 @@ export default () => (
             information.
           </p>
 
-          <p className="pt-6 font-bold">
+          <p className='pt-6 font-bold'>
             The data controller responsible for handling your personal data is:
           </p>
           <p>
@@ -30,23 +30,23 @@ export default () => (
             Malmskillnadsgatan 32, 111 51 Stockholm.
           </p>
 
-          <p className="pt-6">
+          <p className='pt-6'>
             Tech Imprint Arena performs all handling of personal data in
             accordance with the EU's General Data Protection Regulation and
             reserves the right to change this policy if necessary.
           </p>
-          <p className="pt-6">
+          <p className='pt-6'>
             Any changes to this Privacy Policy are communicated through our
             website,{' '}
             <a
-              href="https://www.techimprintarena.com"
-              title="Tech Imprint Arena"
-              className="hover:underline"
+              href='https://www.techimprintarena.com'
+              title='Tech Imprint Arena'
+              className='hover:underline'
             >
               https://www.techimprintarena.com
             </a>
           </p>
-          <p className="pt-6 font-bold">What is a personal information?</p>
+          <p className='pt-6 font-bold'>What is a personal information?</p>
           <p>
             Any kind of information that can be directly or indirectly linked to
             you is counted as personal data. Also pictures (photos) and sound
@@ -56,14 +56,14 @@ export default () => (
             data if they can be linked to an individual.
           </p>
 
-          <p className="pt-6 font-bold">Why is my personal data collected?</p>
+          <p className='pt-6 font-bold'>Why is my personal data collected?</p>
           <p>
             We try to collect as little data as possible in each case and to
             avoid sensitive personal data to the greatest extent possible. In
             some cases, however, we must collect personal data for various
             reasons, for example in the cases below:
           </p>
-          <p className="pt-6">
+          <p className='pt-6'>
             - When applying for becoming a speaker, we collect personal
             information that is needed for application handling, application
             confirmation and to continue the dialogue in order to plan the
@@ -80,7 +80,7 @@ export default () => (
             event, potential future event information and/or offers via email
           </p>
 
-          <p className="pt-6 font-bold">
+          <p className='pt-6 font-bold'>
             How long does Tech Imprint Arena save my personal information?
           </p>
           <p>
@@ -92,7 +92,7 @@ export default () => (
             this.
           </p>
 
-          <p className="pt-6 font-bold">
+          <p className='pt-6 font-bold'>
             How does Tech Imprint Arena protect my personal information?
           </p>
           <p>
@@ -104,7 +104,7 @@ export default () => (
             is saved about you, and that the data saved is done as safely as
             possible
           </p>
-          <p className="pt-6 font-bold">
+          <p className='pt-6 font-bold'>
             Does Tech Imprint Arena disclose my personal information to anyone
             else?
           </p>
@@ -116,7 +116,7 @@ export default () => (
             ensure that personal data are processed in a satisfactory manner.
           </p>
 
-          <p className="pt-6 font-bold">My rights</p>
+          <p className='pt-6 font-bold'>My rights</p>
           <p>
             You have the right, in accordance with applicable legislation, to
             receive information about what information we have about you and
@@ -125,36 +125,36 @@ export default () => (
             incorrect.
           </p>
 
-          <p className="pt-6">
+          <p className='pt-6'>
             In some cases specified in the legislation, you also have the right
             to request that Tech Imprint Arena cease processing or delete the
             information, provided there is no justified and lawful reason that
             requires us to retain the information.
           </p>
 
-          <p className="pt-6 font-bold">
+          <p className='pt-6 font-bold'>
             To learn more about data protection law and your rights, read more
             here:
           </p>
           <p>
             <a
-              href="https://www.datainspektionen.se/dataskyddsreformen/dataskyddsforordningen/de-registrerades-rattigheter/"
-              target="_blank"
-              title="Datainspektionen"
-              className="hover:underline"
+              href='https://www.datainspektionen.se/dataskyddsreformen/dataskyddsforordningen/de-registrerades-rattigheter/'
+              target='_blank'
+              title='Datainspektionen'
+              className='hover:underline'
             >
               https://www.datainspektionen.se/dataskyddsreformen/dataskyddsforordningen/de-registrerades-rattigheter/
             </a>
           </p>
 
-          <p className="pt-6">
+          <p className='pt-6'>
             If you believe that our processing of your personal data does not
             take place in accordance with data protection legislation, we would
             like you to contact us. You also have the right to complain to the
             Data Inspectorate, which is the supervisory authority.
           </p>
 
-          <p className="pt-6 font-bold">Contact details</p>
+          <p className='pt-6 font-bold'>Contact details</p>
           <p>Tech Imprint Arena</p>
           <p>c/o Hedylity Technology, WeWork</p>
           <p>Malmskillnadsgatan 32</p>
@@ -162,14 +162,14 @@ export default () => (
           <p>
             Email:{' '}
             <a
-              href="mailto:hey@techimprintarena.com"
-              className="hover:underline"
+              href='mailto:hey@techimprintarena.com'
+              className='hover:underline'
             >
               hey@techimprintarena.com
             </a>
           </p>
 
-          <p className="pt-6 font-bold">Use of cookies</p>
+          <p className='pt-6 font-bold'>Use of cookies</p>
           <p>
             Cookies are small text files that allows recognition of browsers and
             collect information about which of our web pages that have been
@@ -178,7 +178,7 @@ export default () => (
             person is collected.
           </p>
 
-          <p className="pt-6 font-bold">Cookies are used, inter alia, for:</p>
+          <p className='pt-6 font-bold'>Cookies are used, inter alia, for:</p>
           <p>
             - to remember the choices you made when you return at a later date
           </p>

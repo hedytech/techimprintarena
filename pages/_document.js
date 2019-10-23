@@ -1,13 +1,13 @@
 import Document, { Head, Main, NextScript } from 'next/document';
 
 export default class AppDocument extends Document {
-  static async getInitialProps(ctx) {
+  static async getInitialProps (ctx) {
     const isProduction = process.env.NODE_ENV === 'production';
     const initialProps = await Document.getInitialProps(ctx);
     return { ...initialProps, isProduction };
   }
 
-  setGoogleAnalytics() {
+  setGoogleAnalytics () {
     return {
       __html: `(function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
         function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
@@ -21,68 +21,68 @@ export default class AppDocument extends Document {
     };
   }
 
-  render() {
+  render () {
     const { isProduction } = this.props;
     return (
-      <html lang="en">
+      <html lang='en'>
         <Head>
-          <meta charSet="UTF-8" />
-          <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
-          <meta name="viewport" content="width=device-width, initial-scale=1" />
-          <link rel="dns-prefetch" href="//fonts.googleapis.com/" />
-          <link rel="dns-prefetch" href="//www.google-analytics.com" />
+          <meta charSet='UTF-8' />
+          <meta httpEquiv='X-UA-Compatible' content='IE=edge' />
+          <meta name='viewport' content='width=device-width, initial-scale=1' />
+          <link rel='dns-prefetch' href='//fonts.googleapis.com/' />
+          <link rel='dns-prefetch' href='//www.google-analytics.com' />
           <link
-            rel="sitemap"
-            type="application/xml"
-            title="Sitemap"
-            href="/sitemap.xml"
-          />
-          <link
-            rel="apple-touch-icon"
-            sizes="180x180"
-            href="/apple-touch-icon.png"
+            rel='sitemap'
+            type='application/xml'
+            title='Sitemap'
+            href='/sitemap.xml'
           />
           <link
-            rel="icon"
-            type="image/png"
-            sizes="32x32"
-            href="/favicon-32x32.png"
+            rel='apple-touch-icon'
+            sizes='180x180'
+            href='/apple-touch-icon.png'
           />
           <link
-            rel="icon"
-            type="image/png"
-            sizes="16x16"
-            href="/favicon-16x16.png"
+            rel='icon'
+            type='image/png'
+            sizes='32x32'
+            href='/favicon-32x32.png'
           />
-          <link rel="manifest" href="/site.webmanifest" />
           <link
-            href="https://fonts.googleapis.com/css?family=Montserrat:300,500i,900,900i"
-            rel="stylesheet"
+            rel='icon'
+            type='image/png'
+            sizes='16x16'
+            href='/favicon-16x16.png'
           />
-          <meta name="viewport" content="width=device-width, initial-scale=1" />
-          <meta
-            name="description"
-            content="At the Tech Imprint Arena, companies open up their inner core and tell you how they use today’s technology to make a tech imprint tomorrow"
+          <link rel='manifest' href='/site.webmanifest' />
+          <link
+            href='https://fonts.googleapis.com/css?family=Montserrat:300,500i,900,900i'
+            rel='stylesheet'
           />
-          <meta property="og:title" content=" Tech Imprint Arena" />
+          <meta name='viewport' content='width=device-width, initial-scale=1' />
           <meta
-            property="og:description"
-            content="At the Tech Imprint Arena, companies open up their inner core and tell you how they use today’s technology to make a tech imprint tomorrow"
+            name='description'
+            content='At the Tech Imprint Arena, companies open up their inner core and tell you how they use today’s technology to make a tech imprint tomorrow'
           />
+          <meta property='og:title' content=' Tech Imprint Arena' />
           <meta
-            property="og:image"
-            content="https://techimprintarena.com/square-imprint-turquoise.png.png"
-          />
-          <meta name="twitter:title" content=" Tech Imprint Arena" />
-          <meta
-            name="twitter:description"
-            content="At the Tech Imprint Arena, companies open up their inner core and tell you how they use today’s technology to make a tech imprint tomorrow"
+            property='og:description'
+            content='At the Tech Imprint Arena, companies open up their inner core and tell you how they use today’s technology to make a tech imprint tomorrow'
           />
           <meta
-            name="twitter:image"
-            content="https://techimprintarena.com/square-imprint-turquoise.png.png"
+            property='og:image'
+            content='https://techimprintarena.com/square-imprint-turquoise.png.png'
           />
-          <meta name="twitter:card" content="summary" />
+          <meta name='twitter:title' content=' Tech Imprint Arena' />
+          <meta
+            name='twitter:description'
+            content='At the Tech Imprint Arena, companies open up their inner core and tell you how they use today’s technology to make a tech imprint tomorrow'
+          />
+          <meta
+            name='twitter:image'
+            content='https://techimprintarena.com/square-imprint-turquoise.png.png'
+          />
+          <meta name='twitter:card' content='summary' />
         </Head>
         <body>
           <Main />
