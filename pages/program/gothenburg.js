@@ -95,12 +95,12 @@
           </div>
         </div>
         <div className='w-full lg:w-3/5'>
-          <h4 className='font-bold tracking-wide'>Event Title</h4>
-          <span className='text-xs font-bold' style={{color:'red'}}>This event is full</span>
-          <p className='pt-3'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+          <h4 className='font-bold tracking-wide'>To be announced</h4>
+          <span className='text-xs font-bold' style={{color:'undefined'}}></span>
+          <p className='pt-3'>...</p>
         </div>
         <div className='w-full lg:w-1/5 lg:pl-4'>
-          <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>Event</p>
+          <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>TBA</p>
           <p className='event-location'><span className='location-icon big my-2' /> <span className='location-link'>Johan & Nyström, Avenyn</span></p>
           <p className='event-signup'>
             <a href='#' target='_blank' title='Read more' rel='noopener noreferrer' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Signup</a>
@@ -126,12 +126,12 @@
           </div>
         </div>
         <div className='w-full lg:w-3/5'>
-          <h4 className='font-bold tracking-wide'>Event Title</h4>
-          <span className='text-xs font-bold' style={{color:'red'}}>This event is full</span>
-          <p className='pt-3'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+          <h4 className='font-bold tracking-wide'>To be announced</h4>
+          <span className='text-xs font-bold' style={{color:'undefined'}}></span>
+          <p className='pt-3'>...</p>
         </div>
         <div className='w-full lg:w-1/5 lg:pl-4'>
-          <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>Event</p>
+          <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>TBA</p>
           <p className='event-location'><span className='location-icon big my-2' /> <span className='location-link'>Johan & Nyström, Avenyn</span></p>
           <p className='event-signup'>
             <a href='#' target='_blank' title='Read more' rel='noopener noreferrer' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Signup</a>
@@ -157,12 +157,12 @@
           </div>
         </div>
         <div className='w-full lg:w-3/5'>
-          <h4 className='font-bold tracking-wide'>Event Title</h4>
-          <span className='text-xs font-bold' style={{color:'red'}}>This event is full</span>
-          <p className='pt-3'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+          <h4 className='font-bold tracking-wide'>To be announced</h4>
+          <span className='text-xs font-bold' style={{color:'undefined'}}></span>
+          <p className='pt-3'>...</p>
         </div>
         <div className='w-full lg:w-1/5 lg:pl-4'>
-          <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>Event</p>
+          <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>TBA</p>
           <p className='event-location'><span className='location-icon big my-2' /> <span className='location-link'>Johan & Nyström, Avenyn</span></p>
           <p className='event-signup'>
             <a href='#' target='_blank' title='Read more' rel='noopener noreferrer' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Signup</a>
@@ -198,12 +198,12 @@
           </div>
         </div>
         <div className='w-full lg:w-3/5'>
-          <h4 className='font-bold tracking-wide'>Event Title</h4>
-          <span className='text-xs font-bold' style={{color:'red'}}>This event is full</span>
-          <p className='pt-3'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+          <h4 className='font-bold tracking-wide'>To be announced</h4>
+          <span className='text-xs font-bold' style={{color:'undefined'}}></span>
+          <p className='pt-3'>...</p>
         </div>
         <div className='w-full lg:w-1/5 lg:pl-4'>
-          <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>Event</p>
+          <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>TBA</p>
           <p className='event-location'><span className='location-icon big my-2' /> <span className='location-link'>Johan & Nyström, Avenyn</span></p>
           <p className='event-signup'>
             <a href='#' target='_blank' title='Read more' rel='noopener noreferrer' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Signup</a>
@@ -229,12 +229,12 @@
           </div>
         </div>
         <div className='w-full lg:w-3/5'>
-          <h4 className='font-bold tracking-wide'>Event Title</h4>
-          <span className='text-xs font-bold' style={{color:'red'}}>This event is full</span>
-          <p className='pt-3'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+          <h4 className='font-bold tracking-wide'>To be announced</h4>
+          <span className='text-xs font-bold' style={{color:'undefined'}}></span>
+          <p className='pt-3'>...</p>
         </div>
         <div className='w-full lg:w-1/5 lg:pl-4'>
-          <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>Event</p>
+          <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>TBA</p>
           <p className='event-location'><span className='location-icon big my-2' /> <span className='location-link'>Johan & Nyström, Avenyn</span></p>
           <p className='event-signup'>
             <a href='#' target='_blank' title='Read more' rel='noopener noreferrer' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Signup</a>
@@ -260,12 +260,12 @@
           </div>
         </div>
         <div className='w-full lg:w-3/5'>
-          <h4 className='font-bold tracking-wide'>Event Title</h4>
-          <span className='text-xs font-bold' style={{color:'red'}}>This event is full</span>
-          <p className='pt-3'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+          <h4 className='font-bold tracking-wide'>To be announced</h4>
+          <span className='text-xs font-bold' style={{color:'undefined'}}></span>
+          <p className='pt-3'>...</p>
         </div>
         <div className='w-full lg:w-1/5 lg:pl-4'>
-          <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>Event</p>
+          <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>TBA</p>
           <p className='event-location'><span className='location-icon big my-2' /> <span className='location-link'>Johan & Nyström, Avenyn</span></p>
           <p className='event-signup'>
             <a href='#' target='_blank' title='Read more' rel='noopener noreferrer' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Signup</a>
@@ -301,12 +301,12 @@
           </div>
         </div>
         <div className='w-full lg:w-3/5'>
-          <h4 className='font-bold tracking-wide'>Event Title</h4>
-          <span className='text-xs font-bold' style={{color:'red'}}>This event is full</span>
-          <p className='pt-3'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+          <h4 className='font-bold tracking-wide'>To be announced</h4>
+          <span className='text-xs font-bold' style={{color:'undefined'}}></span>
+          <p className='pt-3'>...</p>
         </div>
         <div className='w-full lg:w-1/5 lg:pl-4'>
-          <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>Event</p>
+          <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>TBA</p>
           <p className='event-location'><span className='location-icon big my-2' /> <span className='location-link'>Johan & Nyström, Avenyn</span></p>
           <p className='event-signup'>
             <a href='#' target='_blank' title='Read more' rel='noopener noreferrer' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Signup</a>
@@ -363,12 +363,12 @@
           </div>
         </div>
         <div className='w-full lg:w-3/5'>
-          <h4 className='font-bold tracking-wide'>Event Title</h4>
-          <span className='text-xs font-bold' style={{color:'red'}}>This event is full</span>
-          <p className='pt-3'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+          <h4 className='font-bold tracking-wide'>To be announced</h4>
+          <span className='text-xs font-bold' style={{color:'undefined'}}></span>
+          <p className='pt-3'>...</p>
         </div>
         <div className='w-full lg:w-1/5 lg:pl-4'>
-          <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>Event</p>
+          <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>TBA</p>
           <p className='event-location'><span className='location-icon big my-2' /> <span className='location-link'>Johan & Nyström, Avenyn</span></p>
           <p className='event-signup'>
             <a href='#' target='_blank' title='Read more' rel='noopener noreferrer' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Signup</a>
@@ -404,12 +404,12 @@
           </div>
         </div>
         <div className='w-full lg:w-3/5'>
-          <h4 className='font-bold tracking-wide'>Event Title</h4>
-          <span className='text-xs font-bold' style={{color:'red'}}>This event is full</span>
-          <p className='pt-3'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+          <h4 className='font-bold tracking-wide'>To be announced</h4>
+          <span className='text-xs font-bold' style={{color:'undefined'}}></span>
+          <p className='pt-3'>...</p>
         </div>
         <div className='w-full lg:w-1/5 lg:pl-4'>
-          <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>Event</p>
+          <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>TBA</p>
           <p className='event-location'><span className='location-icon big my-2' /> <span className='location-link'>Johan & Nyström, Avenyn</span></p>
           <p className='event-signup'>
             <a href='#' target='_blank' title='Read more' rel='noopener noreferrer' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Signup</a>
@@ -435,12 +435,12 @@
           </div>
         </div>
         <div className='w-full lg:w-3/5'>
-          <h4 className='font-bold tracking-wide'>Event Title</h4>
-          <span className='text-xs font-bold' style={{color:'red'}}>This event is full</span>
-          <p className='pt-3'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+          <h4 className='font-bold tracking-wide'>To be announced</h4>
+          <span className='text-xs font-bold' style={{color:'undefined'}}></span>
+          <p className='pt-3'>...</p>
         </div>
         <div className='w-full lg:w-1/5 lg:pl-4'>
-          <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>Event</p>
+          <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>TBA</p>
           <p className='event-location'><span className='location-icon big my-2' /> <span className='location-link'>Johan & Nyström, Avenyn</span></p>
           <p className='event-signup'>
             <a href='#' target='_blank' title='Read more' rel='noopener noreferrer' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Signup</a>
@@ -466,12 +466,12 @@
           </div>
         </div>
         <div className='w-full lg:w-3/5'>
-          <h4 className='font-bold tracking-wide'>Event Title</h4>
-          <span className='text-xs font-bold' style={{color:'red'}}>This event is full</span>
-          <p className='pt-3'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+          <h4 className='font-bold tracking-wide'>To be announced</h4>
+          <span className='text-xs font-bold' style={{color:'undefined'}}></span>
+          <p className='pt-3'>...</p>
         </div>
         <div className='w-full lg:w-1/5 lg:pl-4'>
-          <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>Event</p>
+          <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>TBA</p>
           <p className='event-location'><span className='location-icon big my-2' /> <span className='location-link'>Johan & Nyström, Avenyn</span></p>
           <p className='event-signup'>
             <a href='#' target='_blank' title='Read more' rel='noopener noreferrer' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Signup</a>
@@ -507,12 +507,12 @@
           </div>
         </div>
         <div className='w-full lg:w-3/5'>
-          <h4 className='font-bold tracking-wide'>Event Title</h4>
-          <span className='text-xs font-bold' style={{color:'red'}}>This event is full</span>
-          <p className='pt-3'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+          <h4 className='font-bold tracking-wide'>To be announced</h4>
+          <span className='text-xs font-bold' style={{color:'undefined'}}></span>
+          <p className='pt-3'>...</p>
         </div>
         <div className='w-full lg:w-1/5 lg:pl-4'>
-          <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>Event</p>
+          <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>TBA</p>
           <p className='event-location'><span className='location-icon big my-2' /> <span className='location-link'>Johan & Nyström, Avenyn</span></p>
           <p className='event-signup'>
             <a href='#' target='_blank' title='Read more' rel='noopener noreferrer' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Signup</a>
@@ -538,12 +538,12 @@
           </div>
         </div>
         <div className='w-full lg:w-3/5'>
-          <h4 className='font-bold tracking-wide'>Event Title</h4>
-          <span className='text-xs font-bold' style={{color:'red'}}>This event is full</span>
-          <p className='pt-3'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+          <h4 className='font-bold tracking-wide'>To be announced</h4>
+          <span className='text-xs font-bold' style={{color:'undefined'}}></span>
+          <p className='pt-3'>...</p>
         </div>
         <div className='w-full lg:w-1/5 lg:pl-4'>
-          <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>Event</p>
+          <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>TBA</p>
           <p className='event-location'><span className='location-icon big my-2' /> <span className='location-link'>Johan & Nyström, Avenyn</span></p>
           <p className='event-signup'>
             <a href='#' target='_blank' title='Read more' rel='noopener noreferrer' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Signup</a>
