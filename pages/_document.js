@@ -71,7 +71,7 @@ export default class AppDocument extends Document {
           />
           <meta
             property='og:image'
-            content='https://techimprintarena.com/square-imprint-turquoise.png.png'
+            content='https://techimprintarena.com/square-imprint-turquoise.png'
           />
           <meta name='twitter:title' content=' Tech Imprint Arena' />
           <meta
@@ -80,7 +80,7 @@ export default class AppDocument extends Document {
           />
           <meta
             name='twitter:image'
-            content='https://techimprintarena.com/square-imprint-turquoise.png.png'
+            content='https://techimprintarena.com/square-imprint-turquoise.png'
           />
           <meta name='twitter:card' content='summary' />
         </Head>
