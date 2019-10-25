@@ -4,7 +4,7 @@ export default () => (
   <div>
     <Head>
       <title>Partnership - Tech Imprint Arena</title>
-      <link rel='canonical' href='https://techimprentarena.com/partnership' />
+      <link rel='canonical' href='https://techimprintarena.com/partnership/' />
     </Head>
     <div className='bg-color-cover-full-img fixed min-h-screen w-screen' />
     <div className='relative pt-32 pb-20'>
@@ -69,11 +69,11 @@ export default () => (
         </div>
         <div className='flex flex-wrap w-4/5 pt-20 lg:pt-0'>
           <div className='w-full lg:w-1/2 text-center lg:text-right'>
-            <h1 className='text-3xl lg:text-5xl font-bold lg:pt-20 lg:mr-24'>
+            <h2 className='text-3xl lg:text-5xl font-bold lg:pt-20 lg:mr-24'>
               RUN THE
               <br />
               SHOW
-            </h1>
+            </h2>
           </div>
           <div className='w-full lg:w-1/2'>
             <div className='lg:p-10 lg:p-0 pt-4 lg:pt-16 lg:pr-10 text-lg lg:text-xl'>

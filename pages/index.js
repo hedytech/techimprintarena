@@ -7,7 +7,7 @@ export default () => (
   <div>
     <Head>
       <title>Tech Imprint Arena</title>
-      <link rel='canonical' href='https://techimprentarena.com/' />
+      <link rel='canonical' href='https://techimprintarena.com/' />
     </Head>
     <a
       href='/program/gothenburg'

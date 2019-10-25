@@ -5,7 +5,7 @@ export default () => (
   <div>
     <Head>
       <title>Program - Tech Imprint Arena</title>
-      <link rel="canonical" href="https://techimprentarena.com/program" />
+      <link rel="canonical" href="https://techimprintarena.com/program/" />
     </Head>
     <div
       className="bg-cover bg-center h-screen w-screen fixed z-0"
@@ -31,7 +31,7 @@ export default () => (
               />
               <h2 className="text-lg lg:text-5xl font-bold pl-10">
                 <span>{c.name.toUpperCase()}</span> <br />
-                <span className="text-base lg:text-3xl" dangerouslySetInnerHTML={{__html:c.when.toUpperCase().replace(/TH/g, '<sup>th</sup>')}}></span>
+                <span className="text-base lg:text-3xl" dangerouslySetInnerHTML={{__html:c.when.toUpperCase().replace(/TH/g, '<sup>th</sup>').replace(/ND/g, '<sup>nd</sup>')}}></span>
               </h2>
             </a>
           ) : (
@@ -42,7 +42,7 @@ export default () => (
             >
               <h2 className="text-lg lg:text-5xl font-bold pl-10 pr-12 w-full text-right">
                 <span>{c.name.toUpperCase()}</span> <br />
-                <span className="text-base lg:text-3xl" dangerouslySetInnerHTML={{__html:c.when.toUpperCase().replace(/TH/g, '<sup>th</sup>')}}></span>
+                <span className="text-base lg:text-3xl" dangerouslySetInnerHTML={{__html:c.when.toUpperCase().replace(/TH/g, '<sup>th</sup>').replace(/ND/g, '<sup>nd</sup>')}}></span>
               </h2>
               <img
                 className="w-24 h-24 lg:w-48 lg:h-48 rounded-full mr-5 -mt-5"

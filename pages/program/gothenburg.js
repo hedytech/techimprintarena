@@ -15,7 +15,7 @@
         <div>
           <Head>
             <title>Gothenburg - Tech Imprint Arena</title>
-            <link rel="canonical" href="https://techimprentarena.com/program/gothenburg" />
+            <link rel="canonical" href="https://techimprintarena.com/program/gothenburg/" />
           </Head>
           <div
           className="bg-cover bg-center h-screen w-screen fixed z-0"
@@ -33,7 +33,7 @@
           <div className='relative'>
             
             <div className='flex flex-wrap justify-center content-center p-10 lg:p-40 pt-40'>
-            <div className='w-4/5 fixed hidden lg:block'>
+            <div className='w-4/5 fixed hidden lg:block' style={{top: '365px'}}>
                 <h3 className="text-3xl text-white">Program 2019</h3>
                 <div className="day-selector-container">
                   
@@ -122,19 +122,19 @@
       <div className='flex flex-wrap lg:justify-center'>
         <div className='w-full lg:w-1/5 -mr-6 pb-6 lg:pb-0'>
           <div className="event-thumbnail-container">
-            <div className="event-thumbnail" style={{backgroundImage: "url(/city/gbg.jpg)"}}></div>
+            <div className="event-thumbnail" style={{backgroundImage: "url(/speakers/carboncloud.jpg)"}}></div>
           </div>
         </div>
         <div className='w-full lg:w-3/5'>
-          <h4 className='font-bold tracking-wide'>To be announced</h4>
+          <h4 className='font-bold tracking-wide'>Visualisation of the climate footprints of food</h4>
           <span className='text-xs font-bold' style={{color:'undefined'}}></span>
-          <p className='pt-3'>...</p>
+          <p className='pt-3'>The food system accounts for 20-25% of the world’s total greenhouse gas emissions. Do you know how your eating habits affect the climate and what your climate footprint really is? What if today’s technology enables you to get the accurate and comprehensible information about the climate impact from your choices - would you make different ones?</p>
         </div>
         <div className='w-full lg:w-1/5 lg:pl-4'>
-          <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>TBA</p>
+          <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>CarbonCloud</p>
           <p className='event-location'><span className='location-icon big my-2' /> <span className='location-link'>Johan & Nyström, Avenyn</span></p>
           <p className='event-signup'>
-            <a href='#' target='_blank' title='Read more' rel='noopener noreferrer' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Signup</a>
+            <a href='https://www.eventbrite.se/e/visualisation-of-the-climate-footprints-of-food-tickets-78590284657' target='_blank' title='Read more' rel='noopener noreferrer' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Signup</a>
           </p>
         </div>
       </div>

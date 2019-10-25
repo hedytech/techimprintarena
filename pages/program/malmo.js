@@ -15,7 +15,7 @@
         <div>
           <Head>
             <title>Malmö - Tech Imprint Arena</title>
-            <link rel="canonical" href="https://techimprentarena.com/program/malmo" />
+            <link rel="canonical" href="https://techimprintarena.com/program/malmo/" />
           </Head>
           <div
           className="bg-cover bg-center h-screen w-screen fixed z-0"
@@ -36,7 +36,7 @@
               <p className="w-full">... Hosted by: TBA</p>
               </div>
             <div className='flex flex-wrap justify-center content-center p-10 lg:p-40 pt-40'>
-            <div className='w-4/5 fixed hidden lg:block'>
+            <div className='w-4/5 fixed hidden lg:block' style={{top: '365px'}}>
                 
                 <div className="day-selector-container">
                   

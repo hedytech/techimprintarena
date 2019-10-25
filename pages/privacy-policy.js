@@ -6,7 +6,7 @@ export default () => (
       <title>Privacy Policy - Tech Imprint Arena</title>
       <link
         rel='canonical'
-        href='https://techimprentarena.com/privacy-policy'
+        href='https://techimprintarena.com/privacy-policy/'
       />
     </Head>
     <div className='bg-color-cover-full px-10 pt-40 pb-20'>

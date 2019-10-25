@@ -6,7 +6,7 @@ export default () => (
       <title>Become a speaker - Tech Imprint Arena</title>
       <link
         rel='canonical'
-        href='https://techimprentarena.com/become-a-speaker'
+        href='https://techimprintarena.com/become-a-speaker/'
       />
     </Head>
     <div
