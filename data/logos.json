@@ -2,5 +2,9 @@
   {
     "name": "NetClean",
     "image": "logos/netclean.png"
+  },
+  {
+    "name": "CarbonCloud",
+    "image": "logos/carboncloud.png"
   }
 ]
