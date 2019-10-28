@@ -49,7 +49,7 @@ export default () => (
     >
       <div className='flex items-center min-h-screen flex-wrap px-10'>
         <div className='w-full lg:w-1/2'>
-          <h2 className='text-3xl lg:text-6xl font-bold lg:w-3/4 text-center lg:text-right'>
+          <h2 className='text-3xl lg:text-6xl font-bold lg:w-3/4 text-center lg:text-right pb-10 lg:pb-0'>
             WHAT IS HAPPENING
             <br />
             RIGHT NOW?
@@ -102,7 +102,7 @@ export default () => (
     </div>
     {/* how, where and when */}
     <div className='relative pt-20 pb-20 min-h-screen bg-color-cover-full-img p-10 lg:p-20'>
-      <div className='flex flex-wrap items-center min-h-screen lg:min-h-auto px-10'>
+      <div className='flex flex-wrap items-center min-h-screen lg:min-h-auto px-0 lg:px-10'>
         <div className='w-full flex justify-center text-center block lg:hidden'>
           <h2 className='text-3xl lg:text-6xl font-bold text-center lg:text-left lg:pt-16'>
             HOW
