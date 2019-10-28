@@ -1,6 +1,6 @@
 # Tech Imprint Arena
 
-Upcoming site for [techimprintarena.com](http://techimprintarena.com).
+Site for [techimprintarena.com](http://techimprintarena.com).
 
 ## Credit
 
