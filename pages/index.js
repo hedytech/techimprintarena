@@ -168,6 +168,7 @@ export default () => (
                     src={`/${l.image}`}
                     className='malarquee-img w-48'
                     alt={l.name}
+                    style={l.style ? l.style : {}}
                   />
                 ))}
               </Malarquee>

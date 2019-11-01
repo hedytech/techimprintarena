@@ -1,7 +1,10 @@
 [
   {
     "name": "NetClean",
-    "image": "logos/netclean.png"
+    "image": "logos/netclean.png",
+    "style": {
+      "marginTop": "30px"
+    }
   },
   {
     "name": "CarbonCloud",
@@ -9,6 +12,9 @@
   },
   {
     "name": "Detectivio",
-    "image": "logos/detectivio.png"
+    "image": "logos/detectivio.png",
+    "style": {
+      "marginTop": "20px"
+    }
   }
 ]
