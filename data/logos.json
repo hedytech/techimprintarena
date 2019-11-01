@@ -6,5 +6,9 @@
   {
     "name": "CarbonCloud",
     "image": "logos/carboncloud.png"
+  },
+  {
+    "name": "Detectivio",
+    "image": "logos/detectivio.png"
   }
 ]

@@ -28,9 +28,9 @@ const eventTemplate = event =>
       <div className='flex flex-wrap lg:justify-center'>
         <div className='w-full lg:w-1/5 -mr-6 pb-6 lg:pb-0'>
           <div className="event-thumbnail-container">
-            <div className="event-thumbnail" style={{backgroundImage: "url(/${
+            <div className="event-thumbnail" style={{...{backgroundImage: "url(/${
               event.image
-            })"}}></div>
+            })"}, ...${event.image_style ? JSON.stringify(event.image_style) : JSON.stringify({})}}}></div>
           </div>
         </div>
         <div className='w-full lg:w-3/5'>

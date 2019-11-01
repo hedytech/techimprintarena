@@ -31,6 +31,9 @@
             "by": "CarbonCloud",
             "location": "Johan & Nyström, Avenyn",
             "image": "speakers/carboncloud.jpg",
+            "image_style": {
+              "backgroundSize": "100%"
+            },
             "link": "https://www.eventbrite.se/e/visualisation-of-the-climate-footprints-of-food-tickets-78590284657"
           },
           {
@@ -89,11 +92,12 @@
             "day": "2019-11-27",
             "start": "07:30",
             "end": "08:30",
-            "title": "To be announced",
-            "text": "...",
-            "by": "TBA",
+            "title": "From sci-fi concept to life-saving medtech",
+            "text": "Unobtrusive detection and quantification of fundamental human physiology will be paramount in acquiring data to fuel the AI and automation supporting medical professionals in this health revolution. There is an increase in numbers of chronically ill. Elderly expect support in pursuing a fulfilling life at their own terms - not just reactive and after-the-fact medical countermeasures. To meet such changes in expectations and demographics, health care will be personalized, predictive and proactive.",
+            "by": "Detectivio",
             "location": "Johan & Nyström, Avenyn",
-            "image": "city/gbg.jpg"
+            "image": "speakers/detectivio.jpg",
+            "link": "https://www.eventbrite.se/e/from-sci-fi-concept-to-life-saving-medtech-tickets-78964219105"
           },
           {
             "day": "2019-11-27",

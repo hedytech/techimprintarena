@@ -91,7 +91,7 @@
       <div className='flex flex-wrap lg:justify-center'>
         <div className='w-full lg:w-1/5 -mr-6 pb-6 lg:pb-0'>
           <div className="event-thumbnail-container">
-            <div className="event-thumbnail" style={{backgroundImage: "url(/city/gbg.jpg)"}}></div>
+            <div className="event-thumbnail" style={{...{backgroundImage: "url(/city/gbg.jpg)"}, ...{}}}></div>
           </div>
         </div>
         <div className='w-full lg:w-3/5'>
@@ -122,7 +122,7 @@
       <div className='flex flex-wrap lg:justify-center'>
         <div className='w-full lg:w-1/5 -mr-6 pb-6 lg:pb-0'>
           <div className="event-thumbnail-container">
-            <div className="event-thumbnail" style={{backgroundImage: "url(/speakers/carboncloud.jpg)"}}></div>
+            <div className="event-thumbnail" style={{...{backgroundImage: "url(/speakers/carboncloud.jpg)"}, ...{"backgroundSize":"100%"}}}></div>
           </div>
         </div>
         <div className='w-full lg:w-3/5'>
@@ -153,7 +153,7 @@
       <div className='flex flex-wrap lg:justify-center'>
         <div className='w-full lg:w-1/5 -mr-6 pb-6 lg:pb-0'>
           <div className="event-thumbnail-container">
-            <div className="event-thumbnail" style={{backgroundImage: "url(/city/gbg.jpg)"}}></div>
+            <div className="event-thumbnail" style={{...{backgroundImage: "url(/city/gbg.jpg)"}, ...{}}}></div>
           </div>
         </div>
         <div className='w-full lg:w-3/5'>
@@ -194,7 +194,7 @@
       <div className='flex flex-wrap lg:justify-center'>
         <div className='w-full lg:w-1/5 -mr-6 pb-6 lg:pb-0'>
           <div className="event-thumbnail-container">
-            <div className="event-thumbnail" style={{backgroundImage: "url(/city/gbg.jpg)"}}></div>
+            <div className="event-thumbnail" style={{...{backgroundImage: "url(/city/gbg.jpg)"}, ...{}}}></div>
           </div>
         </div>
         <div className='w-full lg:w-3/5'>
@@ -225,7 +225,7 @@
       <div className='flex flex-wrap lg:justify-center'>
         <div className='w-full lg:w-1/5 -mr-6 pb-6 lg:pb-0'>
           <div className="event-thumbnail-container">
-            <div className="event-thumbnail" style={{backgroundImage: "url(/city/gbg.jpg)"}}></div>
+            <div className="event-thumbnail" style={{...{backgroundImage: "url(/city/gbg.jpg)"}, ...{}}}></div>
           </div>
         </div>
         <div className='w-full lg:w-3/5'>
@@ -256,7 +256,7 @@
       <div className='flex flex-wrap lg:justify-center'>
         <div className='w-full lg:w-1/5 -mr-6 pb-6 lg:pb-0'>
           <div className="event-thumbnail-container">
-            <div className="event-thumbnail" style={{backgroundImage: "url(/city/gbg.jpg)"}}></div>
+            <div className="event-thumbnail" style={{...{backgroundImage: "url(/city/gbg.jpg)"}, ...{}}}></div>
           </div>
         </div>
         <div className='w-full lg:w-3/5'>
@@ -297,19 +297,19 @@
       <div className='flex flex-wrap lg:justify-center'>
         <div className='w-full lg:w-1/5 -mr-6 pb-6 lg:pb-0'>
           <div className="event-thumbnail-container">
-            <div className="event-thumbnail" style={{backgroundImage: "url(/city/gbg.jpg)"}}></div>
+            <div className="event-thumbnail" style={{...{backgroundImage: "url(/speakers/detectivio.jpg)"}, ...{}}}></div>
           </div>
         </div>
         <div className='w-full lg:w-3/5'>
-          <h4 className='font-bold tracking-wide'>To be announced</h4>
+          <h4 className='font-bold tracking-wide'>From sci-fi concept to life-saving medtech</h4>
           <span className='text-xs font-bold' style={{color:'undefined'}}></span>
-          <p className='pt-3'>...</p>
+          <p className='pt-3'>Unobtrusive detection and quantification of fundamental human physiology will be paramount in acquiring data to fuel the AI and automation supporting medical professionals in this health revolution. There is an increase in numbers of chronically ill. Elderly expect support in pursuing a fulfilling life at their own terms - not just reactive and after-the-fact medical countermeasures. To meet such changes in expectations and demographics, health care will be personalized, predictive and proactive.</p>
         </div>
         <div className='w-full lg:w-1/5 lg:pl-4'>
-          <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>TBA</p>
+          <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>Detectivio</p>
           <p className='event-location'><span className='location-icon big my-2' /> <span className='location-link'>Johan & Nyström, Avenyn</span></p>
           <p className='event-signup'>
-            <a href='#' target='_blank' title='Read more' rel='noopener noreferrer' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Signup</a>
+            <a href='https://www.eventbrite.se/e/from-sci-fi-concept-to-life-saving-medtech-tickets-78964219105' target='_blank' title='Read more' rel='noopener noreferrer' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Signup</a>
           </p>
         </div>
       </div>
@@ -328,7 +328,7 @@
       <div className='flex flex-wrap lg:justify-center'>
         <div className='w-full lg:w-1/5 -mr-6 pb-6 lg:pb-0'>
           <div className="event-thumbnail-container">
-            <div className="event-thumbnail" style={{backgroundImage: "url(/speakers/netclean.jpg)"}}></div>
+            <div className="event-thumbnail" style={{...{backgroundImage: "url(/speakers/netclean.jpg)"}, ...{}}}></div>
           </div>
         </div>
         <div className='w-full lg:w-3/5'>
@@ -359,7 +359,7 @@
       <div className='flex flex-wrap lg:justify-center'>
         <div className='w-full lg:w-1/5 -mr-6 pb-6 lg:pb-0'>
           <div className="event-thumbnail-container">
-            <div className="event-thumbnail" style={{backgroundImage: "url(/city/gbg.jpg)"}}></div>
+            <div className="event-thumbnail" style={{...{backgroundImage: "url(/city/gbg.jpg)"}, ...{}}}></div>
           </div>
         </div>
         <div className='w-full lg:w-3/5'>
@@ -400,7 +400,7 @@
       <div className='flex flex-wrap lg:justify-center'>
         <div className='w-full lg:w-1/5 -mr-6 pb-6 lg:pb-0'>
           <div className="event-thumbnail-container">
-            <div className="event-thumbnail" style={{backgroundImage: "url(/city/gbg.jpg)"}}></div>
+            <div className="event-thumbnail" style={{...{backgroundImage: "url(/city/gbg.jpg)"}, ...{}}}></div>
           </div>
         </div>
         <div className='w-full lg:w-3/5'>
@@ -431,7 +431,7 @@
       <div className='flex flex-wrap lg:justify-center'>
         <div className='w-full lg:w-1/5 -mr-6 pb-6 lg:pb-0'>
           <div className="event-thumbnail-container">
-            <div className="event-thumbnail" style={{backgroundImage: "url(/city/gbg.jpg)"}}></div>
+            <div className="event-thumbnail" style={{...{backgroundImage: "url(/city/gbg.jpg)"}, ...{}}}></div>
           </div>
         </div>
         <div className='w-full lg:w-3/5'>
@@ -462,7 +462,7 @@
       <div className='flex flex-wrap lg:justify-center'>
         <div className='w-full lg:w-1/5 -mr-6 pb-6 lg:pb-0'>
           <div className="event-thumbnail-container">
-            <div className="event-thumbnail" style={{backgroundImage: "url(/city/gbg.jpg)"}}></div>
+            <div className="event-thumbnail" style={{...{backgroundImage: "url(/city/gbg.jpg)"}, ...{}}}></div>
           </div>
         </div>
         <div className='w-full lg:w-3/5'>
@@ -503,7 +503,7 @@
       <div className='flex flex-wrap lg:justify-center'>
         <div className='w-full lg:w-1/5 -mr-6 pb-6 lg:pb-0'>
           <div className="event-thumbnail-container">
-            <div className="event-thumbnail" style={{backgroundImage: "url(/city/gbg.jpg)"}}></div>
+            <div className="event-thumbnail" style={{...{backgroundImage: "url(/city/gbg.jpg)"}, ...{}}}></div>
           </div>
         </div>
         <div className='w-full lg:w-3/5'>
@@ -534,7 +534,7 @@
       <div className='flex flex-wrap lg:justify-center'>
         <div className='w-full lg:w-1/5 -mr-6 pb-6 lg:pb-0'>
           <div className="event-thumbnail-container">
-            <div className="event-thumbnail" style={{backgroundImage: "url(/city/gbg.jpg)"}}></div>
+            <div className="event-thumbnail" style={{...{backgroundImage: "url(/city/gbg.jpg)"}, ...{}}}></div>
           </div>
         </div>
         <div className='w-full lg:w-3/5'>
