@@ -16,5 +16,12 @@
     "style": {
       "marginTop": "20px"
     }
+  },
+  {
+    "name": "Annotell",
+    "image": "logos/annotell.png",
+    "style": {
+      "marginTop": "20px"
+    }
   }
 ]

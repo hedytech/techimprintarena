@@ -93,7 +93,7 @@
             "start": "07:30",
             "end": "08:30",
             "title": "From sci-fi concept to life-saving medtech",
-            "text": "Unobtrusive detection and quantification of fundamental human physiology will be paramount in acquiring data to fuel the AI and automation supporting medical professionals in this health revolution. There is an increase in numbers of chronically ill. Elderly expect support in pursuing a fulfilling life at their own terms - not just reactive and after-the-fact medical countermeasures. To meet such changes in expectations and demographics, health care will be personalized, predictive and proactive.",
+            "text": "There is an increase in numbers of chronically ill. Elderly expect support in pursuing a fulfilling life at their own terms - not just reactive and after-the-fact medical countermeasures. To meet such changes in expectations and demographics, health care will be personalized, predictive and proactive. Detectivio is developing cutting-edge technology for contact-free scanning of vital signs, with exciting implications for the future of health.",
             "by": "Detectivio",
             "location": "Johan & Nyström, Avenyn",
             "image": "speakers/detectivio.jpg",
@@ -140,11 +140,12 @@
             "day": "2019-11-28",
             "start": "11:30",
             "end": "12:30",
-            "title": "To be announced",
-            "text": "...",
-            "by": "TBA",
+            "title": "The challenge to teach a car to drive",
+            "text": "When developing autonomous vehicles, we need to remember that computers are still quite stupid and the world is very complex. Therefore, we need millions of data points and humans to teach the machines how to drive. When developing safety-critical systems, the performance and reliability of your software are of utmost importance. As machine learning systems are programmed through their training data, the training data determines the behaviour of your product. Despite this, a major bottleneck for most machine learning teams is access to consistent data.",
+            "by": "Annotell",
             "location": "Johan & Nyström, Avenyn",
-            "image": "city/gbg.jpg"
+            "image": "speakers/annotell.jpg",
+            "link": "https://www.eventbrite.se/e/the-challenge-to-teach-a-car-to-drive-tickets-80013714173"
           },
           {
             "day": "2019-11-28",
