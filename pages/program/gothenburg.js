@@ -303,7 +303,7 @@
         <div className='w-full lg:w-3/5'>
           <h4 className='font-bold tracking-wide'>From sci-fi concept to life-saving medtech</h4>
           <span className='text-xs font-bold' style={{color:'undefined'}}></span>
-          <p className='pt-3'>There is an increase in numbers of chronically ill. Elderly expect support in pursuing a fulfilling life at their own terms - not just reactive and after-the-fact medical countermeasures. To meet such changes in expectations and demographics, health care will be personalized, predictive and proactive. Detectivio is developing cutting-edge technology for contact-free scanning of vital signs, with exciting implications for the future of health.</p>
+          <p className='pt-3'>What if healthcare could become proactive instead of reactive? Cutting edge technology will not only change the automotive industry and the Olympic Games, but personalize healthcare and enable professionals to be proactive. This inspirational talk will take you on a journey describing how contact-free scanning of vital signs will change the future of healthcare.</p>
         </div>
         <div className='w-full lg:w-1/5 lg:pl-4'>
           <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>Detectivio</p>
@@ -437,7 +437,7 @@
         <div className='w-full lg:w-3/5'>
           <h4 className='font-bold tracking-wide'>The challenge to teach a car to drive</h4>
           <span className='text-xs font-bold' style={{color:'undefined'}}></span>
-          <p className='pt-3'>When developing autonomous vehicles, we need to remember that computers are still quite stupid and the world is very complex. Therefore, we need millions of data points and humans to teach the machines how to drive. When developing safety-critical systems, the performance and reliability of your software are of utmost importance. As machine learning systems are programmed through their training data, the training data determines the behaviour of your product. Despite this, a major bottleneck for most machine learning teams is access to consistent data.</p>
+          <p className='pt-3'>What is the logic behind and how do you really teach a car how to drive? Although technology is emerging, computers are still quite stupid and the world is very complex. So, how to teach your product  to act exactly as you want it to and to be reliable? In this talk we are taking part of the deep knowledge behind machine learning and AI as well as the vision of autonomous cars.</p>
         </div>
         <div className='w-full lg:w-1/5 lg:pl-4'>
           <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>Annotell</p>
