@@ -305,3 +305,21 @@ body {
     padding-top: 10px;
   }
 }
+
+.marquee {
+  width: 680px;
+  margin: 0 auto;
+  overflow: hidden;
+  white-space: nowrap;
+  box-sizing: border-box;
+  animation: marquee 25s linear infinite;
+}
+
+.marquee:hover {
+  animation-play-state: paused
+}
+
+@keyframes marquee {
+  0%   { text-indent: 27.5em }
+  100% { text-indent: -105em }
+}

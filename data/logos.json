@@ -23,5 +23,40 @@
     "style": {
       "marginTop": "20px"
     }
+  },
+  {
+    "name": "Qualisys",
+    "image": "logos/qualisys.png",
+    "style": {
+      "marginTop": "20px"
+    }
+  },
+  {
+    "name": "Einride",
+    "image": "logos/einride.png",
+    "style": {
+      "marginTop": "20px"
+    }
+  },
+  {
+    "name": "Mimbly",
+    "image": "logos/mimbly.png",
+    "style": {
+      "marginTop": "20px"
+    }
+  },
+  {
+    "name": "Trine",
+    "image": "logos/trine.png",
+    "style": {
+      "marginTop": "20px"
+    }
+  },
+  {
+    "name": "Recorded Future",
+    "image": "logos/recorded-future.png",
+    "style": {
+      "marginTop": "20px"
+    }
   }
 ]

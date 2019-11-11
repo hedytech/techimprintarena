@@ -40,11 +40,15 @@
             "day": "2019-11-25",
             "start": "17:00",
             "end": "18:00",
-            "title": "To be announced",
-            "text": "...",
-            "by": "TBA",
+            "title": "How technology save our oceans and change the way we use water",
+            "text": "But what if we could use water in a smarter way and stop plastics before they even reach the oceans? The award winning entrepreneur Isabella Palmgren, Founder & CEO at Mimbly, will talk about how technology and innovative solutions could solve the biggest environmental issues we  are facing today.",
+            "by": "Mimbly",
             "location": "Johan & Nyström, Avenyn",
-            "image": "city/gbg.jpg"
+            "image": "speakers/mimbly.png",
+            "image_style": {
+              "backgroundSize": "100%"
+            },
+            "link": "https://www.eventbrite.se/e/how-technology-save-our-oceans-and-change-the-way-we-use-water-biljetter-81215456617"
           }
         ]
       },
@@ -56,11 +60,15 @@
             "day": "2019-11-26",
             "start": "07:30",
             "end": "08:30",
-            "title": "To be announced",
-            "text": "...",
-            "by": "TBA",
+            "title": "How emerging technology is changing transportation at its core",
+            "text": "The evolution of autonomous transportation is here to stay, but is society ready for the change? And what are the actual benefits? Driven by a passion for tech and sustainability, Einride is about to transform the transport industry for good. Tomas Ohlson, the Founding Engineer, will share how self-driving makes saving the planet profitable.",
+            "by": "Einride",
             "location": "Johan & Nyström, Avenyn",
-            "image": "city/gbg.jpg"
+            "image": "speakers/einride.jpg",
+            "image_style": {
+              "backgroundSize": "100%"
+            },
+            "link": "https://www.eventbrite.se/e/how-emerging-technology-is-changing-transportation-at-its-core-biljetter-81033281727"
           },
           {
             "day": "2019-11-26",
@@ -76,11 +84,15 @@
             "day": "2019-11-26",
             "start": "17:00",
             "end": "18:00",
-            "title": "To be announced",
-            "text": "...",
-            "by": "TBA",
+            "title": "Your money is your voting power!",
+            "text": "You invest your money for a better future, or are you? It is time to start talking about money! Because where the money goes, development grows. What if you could put your money to work, both for your own private interest and for the greater good? Hanna Lindquist, Communications & Customer growth at Trine, will show you how business and new technology can come together with solutions for both making money and assist underdeveloped countries in their future growth.",
+            "by": "Trine",
             "location": "Johan & Nyström, Avenyn",
-            "image": "city/gbg.jpg"
+            "image": "speakers/trine.jpg",
+            "image_style": {
+              "backgroundSize": "100%"
+            },
+            "link": "https://www.eventbrite.se/e/your-money-is-your-voting-power-biljetter-81038637747"
           }
         ]
       },
@@ -114,11 +126,12 @@
             "day": "2019-11-27",
             "start": "17:00",
             "end": "18:00",
-            "title": "To be announced",
-            "text": "...",
-            "by": "TBA",
+            "title": "Is 3D motion capture the answer to preventing injuries?",
+            "text": "With the rapid development in VR/AR, machine learning, AI and vision technologies - possibilities for the future are greater than ever before! In an inspirational talk Magnus Berlander, CTO at Qualisys, will give you insights on how 3D motion capture will improve the speed and quality of rehabilitation from injuries, prevent injuries and assist coaches and athletes in their strive for improved performance.",
+            "by": "Qualisys",
             "location": "Johan & Nyström, Avenyn",
-            "image": "city/gbg.jpg"
+            "image": "speakers/qualisys.jpg",
+            "link": "https://www.eventbrite.se/e/is-3d-motion-capture-the-answer-to-preventing-injuries-biljetter-81035171379"
           }
         ]
       },

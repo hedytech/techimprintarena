@@ -1,6 +1,5 @@
 import React from 'react';
 import Head from 'next/head';
-import Malarquee from 'react-malarquee';
 import logos from '../data/logos.json';
 
 export default () => (
@@ -161,7 +160,7 @@ export default () => (
           </h2>
           <div className='w-full text-center pt-20 px-10'>
             <div className='flex justify-center'>
-              <Malarquee fill={false} className='w-2/4' rate={90}>
+              <div className='marquee'>
                 {logos.map((l, li) => (
                   <img
                     key={li}
@@ -171,7 +170,7 @@ export default () => (
                     style={l.style ? l.style : {}}
                   />
                 ))}
-              </Malarquee>
+              </div>
             </div>
           </div>
         </div>

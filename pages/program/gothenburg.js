@@ -153,19 +153,19 @@
       <div className='flex flex-wrap lg:justify-center'>
         <div className='w-full lg:w-1/5 -mr-6 pb-6 lg:pb-0'>
           <div className="event-thumbnail-container">
-            <div className="event-thumbnail" style={{...{backgroundImage: "url(/city/gbg.jpg)"}, ...{}}}></div>
+            <div className="event-thumbnail" style={{...{backgroundImage: "url(/speakers/mimbly.png)"}, ...{"backgroundSize":"100%"}}}></div>
           </div>
         </div>
         <div className='w-full lg:w-3/5'>
-          <h4 className='font-bold tracking-wide'>To be announced</h4>
+          <h4 className='font-bold tracking-wide'>How technology save our oceans and change the way we use water</h4>
           <span className='text-xs font-bold' style={{color:'undefined'}}></span>
-          <p className='pt-3'>...</p>
+          <p className='pt-3'>But what if we could use water in a smarter way and stop plastics before they even reach the oceans? The award winning entrepreneur Isabella Palmgren, Founder & CEO at Mimbly, will talk about how technology and innovative solutions could solve the biggest environmental issues we  are facing today.</p>
         </div>
         <div className='w-full lg:w-1/5 lg:pl-4'>
-          <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>TBA</p>
+          <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>Mimbly</p>
           <p className='event-location'><span className='location-icon big my-2' /> <span className='location-link'>Johan & Nyström, Avenyn</span></p>
           <p className='event-signup'>
-            <a href='#' target='_blank' title='Read more' rel='noopener noreferrer' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Signup</a>
+            <a href='https://www.eventbrite.se/e/how-technology-save-our-oceans-and-change-the-way-we-use-water-biljetter-81215456617' target='_blank' title='Read more' rel='noopener noreferrer' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Signup</a>
           </p>
         </div>
       </div>
@@ -194,19 +194,19 @@
       <div className='flex flex-wrap lg:justify-center'>
         <div className='w-full lg:w-1/5 -mr-6 pb-6 lg:pb-0'>
           <div className="event-thumbnail-container">
-            <div className="event-thumbnail" style={{...{backgroundImage: "url(/city/gbg.jpg)"}, ...{}}}></div>
+            <div className="event-thumbnail" style={{...{backgroundImage: "url(/speakers/einride.jpg)"}, ...{"backgroundSize":"100%"}}}></div>
           </div>
         </div>
         <div className='w-full lg:w-3/5'>
-          <h4 className='font-bold tracking-wide'>To be announced</h4>
+          <h4 className='font-bold tracking-wide'>How emerging technology is changing transportation at its core</h4>
           <span className='text-xs font-bold' style={{color:'undefined'}}></span>
-          <p className='pt-3'>...</p>
+          <p className='pt-3'>The evolution of autonomous transportation is here to stay, but is society ready for the change? And what are the actual benefits? Driven by a passion for tech and sustainability, Einride is about to transform the transport industry for good. Tomas Ohlson, the Founding Engineer, will share how self-driving makes saving the planet profitable.</p>
         </div>
         <div className='w-full lg:w-1/5 lg:pl-4'>
-          <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>TBA</p>
+          <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>Einride</p>
           <p className='event-location'><span className='location-icon big my-2' /> <span className='location-link'>Johan & Nyström, Avenyn</span></p>
           <p className='event-signup'>
-            <a href='#' target='_blank' title='Read more' rel='noopener noreferrer' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Signup</a>
+            <a href='https://www.eventbrite.se/e/how-emerging-technology-is-changing-transportation-at-its-core-biljetter-81033281727' target='_blank' title='Read more' rel='noopener noreferrer' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Signup</a>
           </p>
         </div>
       </div>
@@ -256,19 +256,19 @@
       <div className='flex flex-wrap lg:justify-center'>
         <div className='w-full lg:w-1/5 -mr-6 pb-6 lg:pb-0'>
           <div className="event-thumbnail-container">
-            <div className="event-thumbnail" style={{...{backgroundImage: "url(/city/gbg.jpg)"}, ...{}}}></div>
+            <div className="event-thumbnail" style={{...{backgroundImage: "url(/speakers/trine.jpg)"}, ...{"backgroundSize":"100%"}}}></div>
           </div>
         </div>
         <div className='w-full lg:w-3/5'>
-          <h4 className='font-bold tracking-wide'>To be announced</h4>
+          <h4 className='font-bold tracking-wide'>Your money is your voting power!</h4>
           <span className='text-xs font-bold' style={{color:'undefined'}}></span>
-          <p className='pt-3'>...</p>
+          <p className='pt-3'>You invest your money for a better future, or are you? It is time to start talking about money! Because where the money goes, development grows. What if you could put your money to work, both for your own private interest and for the greater good? Hanna Lindquist, Communications & Customer growth at Trine, will show you how business and new technology can come together with solutions for both making money and assist underdeveloped countries in their future growth.</p>
         </div>
         <div className='w-full lg:w-1/5 lg:pl-4'>
-          <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>TBA</p>
+          <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>Trine</p>
           <p className='event-location'><span className='location-icon big my-2' /> <span className='location-link'>Johan & Nyström, Avenyn</span></p>
           <p className='event-signup'>
-            <a href='#' target='_blank' title='Read more' rel='noopener noreferrer' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Signup</a>
+            <a href='https://www.eventbrite.se/e/your-money-is-your-voting-power-biljetter-81038637747' target='_blank' title='Read more' rel='noopener noreferrer' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Signup</a>
           </p>
         </div>
       </div>
@@ -359,19 +359,19 @@
       <div className='flex flex-wrap lg:justify-center'>
         <div className='w-full lg:w-1/5 -mr-6 pb-6 lg:pb-0'>
           <div className="event-thumbnail-container">
-            <div className="event-thumbnail" style={{...{backgroundImage: "url(/city/gbg.jpg)"}, ...{}}}></div>
+            <div className="event-thumbnail" style={{...{backgroundImage: "url(/speakers/qualisys.jpg)"}, ...{}}}></div>
           </div>
         </div>
         <div className='w-full lg:w-3/5'>
-          <h4 className='font-bold tracking-wide'>To be announced</h4>
+          <h4 className='font-bold tracking-wide'>Is 3D motion capture the answer to preventing injuries?</h4>
           <span className='text-xs font-bold' style={{color:'undefined'}}></span>
-          <p className='pt-3'>...</p>
+          <p className='pt-3'>With the rapid development in VR/AR, machine learning, AI and vision technologies - possibilities for the future are greater than ever before! In an inspirational talk Magnus Berlander, CTO at Qualisys, will give you insights on how 3D motion capture will improve the speed and quality of rehabilitation from injuries, prevent injuries and assist coaches and athletes in their strive for improved performance.</p>
         </div>
         <div className='w-full lg:w-1/5 lg:pl-4'>
-          <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>TBA</p>
+          <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>Qualisys</p>
           <p className='event-location'><span className='location-icon big my-2' /> <span className='location-link'>Johan & Nyström, Avenyn</span></p>
           <p className='event-signup'>
-            <a href='#' target='_blank' title='Read more' rel='noopener noreferrer' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Signup</a>
+            <a href='https://www.eventbrite.se/e/is-3d-motion-capture-the-answer-to-preventing-injuries-biljetter-81035171379' target='_blank' title='Read more' rel='noopener noreferrer' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Signup</a>
           </p>
         </div>
       </div>
