@@ -16,7 +16,7 @@ export default () => (
       <div className='p-5 px-3'>
         <h3 className='text-lg italic text-white pb-2'>Upcoming</h3>
         <p className='text-white text-sm'>
-          Gothenburg the 25<sup>th</sup> – 29<sup>th</sup> of nov 2019
+          Gothenburg the 25<sup>th</sup> – 28<sup>th</sup> of nov 2019
         </p>
       </div>
     </a>
