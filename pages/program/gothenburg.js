@@ -391,37 +391,6 @@
   <div className='event'>
     <div className='event-timeline hidden lg:block'>
       <p className="event-time">
-        <span className="event-start-time">07:30</span>
-        <span>-</span>
-        <span className="event-end-time">08:30</span>
-      </p>
-    </div>
-    <div className="event-link m-0 lg:ml-32 w-full lg:w-4/4">
-      <div className='flex flex-wrap lg:justify-center'>
-        <div className='w-full lg:w-1/5 -mr-6 pb-6 lg:pb-0'>
-          <div className="event-thumbnail-container">
-            <div className="event-thumbnail" style={{...{backgroundImage: "url(/city/gbg.jpg)"}, ...{}}}></div>
-          </div>
-        </div>
-        <div className='w-full lg:w-3/5'>
-          <h4 className='font-bold tracking-wide'>To be announced</h4>
-          <span className='text-xs font-bold' style={{color:'undefined'}}></span>
-          <p className='pt-3'>...</p>
-        </div>
-        <div className='w-full lg:w-1/5 lg:pl-4'>
-          <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>TBA</p>
-          <p className='event-location'><span className='location-icon big my-2' /> <span className='location-link'>Johan & Nyström, Avenyn</span></p>
-          <p className='event-signup'>
-            <a href='#' target='_blank' title='Read more' rel='noopener noreferrer' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Signup</a>
-          </p>
-        </div>
-      </div>
-    </div>
-  </div>
-  
-  <div className='event'>
-    <div className='event-timeline hidden lg:block'>
-      <p className="event-time">
         <span className="event-start-time">11:30</span>
         <span>-</span>
         <span className="event-end-time">12:30</span>
@@ -444,37 +413,6 @@
           <p className='event-location'><span className='location-icon big my-2' /> <span className='location-link'>Johan & Nyström, Avenyn</span></p>
           <p className='event-signup'>
             <a href='https://www.eventbrite.se/e/the-challenge-to-teach-a-car-to-drive-tickets-80013714173' target='_blank' title='Read more' rel='noopener noreferrer' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Signup</a>
-          </p>
-        </div>
-      </div>
-    </div>
-  </div>
-  
-  <div className='event'>
-    <div className='event-timeline hidden lg:block'>
-      <p className="event-time">
-        <span className="event-start-time">17:00</span>
-        <span>-</span>
-        <span className="event-end-time">18:00</span>
-      </p>
-    </div>
-    <div className="event-link m-0 lg:ml-32 w-full lg:w-4/4">
-      <div className='flex flex-wrap lg:justify-center'>
-        <div className='w-full lg:w-1/5 -mr-6 pb-6 lg:pb-0'>
-          <div className="event-thumbnail-container">
-            <div className="event-thumbnail" style={{...{backgroundImage: "url(/city/gbg.jpg)"}, ...{}}}></div>
-          </div>
-        </div>
-        <div className='w-full lg:w-3/5'>
-          <h4 className='font-bold tracking-wide'>To be announced</h4>
-          <span className='text-xs font-bold' style={{color:'undefined'}}></span>
-          <p className='pt-3'>...</p>
-        </div>
-        <div className='w-full lg:w-1/5 lg:pl-4'>
-          <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>TBA</p>
-          <p className='event-location'><span className='location-icon big my-2' /> <span className='location-link'>Johan & Nyström, Avenyn</span></p>
-          <p className='event-signup'>
-            <a href='#' target='_blank' title='Read more' rel='noopener noreferrer' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Signup</a>
           </p>
         </div>
       </div>
@@ -516,37 +454,6 @@
           <p className='event-location'><span className='location-icon big my-2' /> <span className='location-link'>Johan & Nyström, Avenyn</span></p>
           <p className='event-signup'>
             <a href='https://www.eventbrite.se/e/how-to-prevent-cyberattacks-and-fake-news-biljetter-81036667855' target='_blank' title='Read more' rel='noopener noreferrer' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Signup</a>
-          </p>
-        </div>
-      </div>
-    </div>
-  </div>
-  
-  <div className='event'>
-    <div className='event-timeline hidden lg:block'>
-      <p className="event-time">
-        <span className="event-start-time">11:30</span>
-        <span>-</span>
-        <span className="event-end-time">12:30</span>
-      </p>
-    </div>
-    <div className="event-link m-0 lg:ml-32 w-full lg:w-4/4">
-      <div className='flex flex-wrap lg:justify-center'>
-        <div className='w-full lg:w-1/5 -mr-6 pb-6 lg:pb-0'>
-          <div className="event-thumbnail-container">
-            <div className="event-thumbnail" style={{...{backgroundImage: "url(/city/gbg.jpg)"}, ...{}}}></div>
-          </div>
-        </div>
-        <div className='w-full lg:w-3/5'>
-          <h4 className='font-bold tracking-wide'>To be announced</h4>
-          <span className='text-xs font-bold' style={{color:'undefined'}}></span>
-          <p className='pt-3'>...</p>
-        </div>
-        <div className='w-full lg:w-1/5 lg:pl-4'>
-          <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>TBA</p>
-          <p className='event-location'><span className='location-icon big my-2' /> <span className='location-link'>Johan & Nyström, Avenyn</span></p>
-          <p className='event-signup'>
-            <a href='#' target='_blank' title='Read more' rel='noopener noreferrer' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Signup</a>
           </p>
         </div>
       </div>

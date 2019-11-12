@@ -141,16 +141,6 @@
         "events": [
           {
             "day": "2019-11-28",
-            "start": "07:30",
-            "end": "08:30",
-            "title": "To be announced",
-            "text": "...",
-            "by": "TBA",
-            "location": "Johan & Nyström, Avenyn",
-            "image": "city/gbg.jpg"
-          },
-          {
-            "day": "2019-11-28",
             "start": "11:30",
             "end": "12:30",
             "title": "The challenge to teach a car to drive",
@@ -159,16 +149,6 @@
             "location": "Johan & Nyström, Avenyn",
             "image": "speakers/annotell.jpg",
             "link": "https://www.eventbrite.se/e/the-challenge-to-teach-a-car-to-drive-tickets-80013714173"
-          },
-          {
-            "day": "2019-11-28",
-            "start": "17:00",
-            "end": "18:00",
-            "title": "To be announced",
-            "text": "...",
-            "by": "TBA",
-            "location": "Johan & Nyström, Avenyn",
-            "image": "city/gbg.jpg"
           }
         ]
       },
@@ -189,16 +169,6 @@
               "backgroundSize": "100%"
             },
             "link": "https://www.eventbrite.se/e/how-to-prevent-cyberattacks-and-fake-news-biljetter-81036667855"
-          },
-          {
-            "day": "2019-11-29",
-            "start": "11:30",
-            "end": "12:30",
-            "title": "To be announced",
-            "text": "...",
-            "by": "TBA",
-            "location": "Johan & Nyström, Avenyn",
-            "image": "city/gbg.jpg"
           }
         ]
       }
