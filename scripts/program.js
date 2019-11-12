@@ -30,7 +30,9 @@ const eventTemplate = event =>
           <div className="event-thumbnail-container">
             <div className="event-thumbnail" style={{...{backgroundImage: "url(/${
               event.image
-            })"}, ...${event.image_style ? JSON.stringify(event.image_style) : JSON.stringify({})}}}></div>
+            })"}, ...${
+    event.image_style ? JSON.stringify(event.image_style) : JSON.stringify({})
+  }}}></div>
           </div>
         </div>
         <div className='w-full lg:w-3/5'>
@@ -102,7 +104,9 @@ const template = city =>
           <div className="bg-color-cover opacity-75 fixed h-screen w-screen" />
           <div className='relative pt-32 w-full -mb-24 z-10'>
             <h1 className="w-full text-5xl font-bold w-3/4 text-center">
-              ${city.name}<br/>${city.when.replace(/th/g, '<sup>th</sup>').replace(/ND/g, '<sup>nd</sup>')}
+              ${city.name}<br/>${city.when
+    .replace(/th/g, '<sup>th</sup>')
+    .replace(/ND/g, '<sup>nd</sup>')}
             </h1>
             <p className='text-center text-lg w-full'>${
               city.location

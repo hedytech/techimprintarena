@@ -1,7 +1,7 @@
 [
   {
     "name": "Gothenburg",
-    "when": "25th – 28th of November 2019",
+    "when": "25th – 29th of November 2019",
     "image": "city/gbg-circle.png",
     "background": "city/gbg-bw2.jpg",
     "slug": "gothenburg",
@@ -164,6 +164,36 @@
             "day": "2019-11-28",
             "start": "17:00",
             "end": "18:00",
+            "title": "To be announced",
+            "text": "...",
+            "by": "TBA",
+            "location": "Johan & Nyström, Avenyn",
+            "image": "city/gbg.jpg"
+          }
+        ]
+      },
+      {
+        "day": "2019-11-29",
+        "title": "Friday 29/11",
+        "events": [
+          {
+            "day": "2019-11-29",
+            "start": "07:30",
+            "end": "08:30",
+            "title": "How to prevent cyberattacks and fake news",
+            "text": "Digital safety has never been more important and is on top of the agenda of the world leaders. So, how can we sort out worldwide threats and disinformation in a swift? With the latest technology, we  are able to link events, actions, people, places, and other characteristics to represent how cyber and physical events manifest both online and in the real world! Staffan Truvé, CTO at Recorded Future, will take you into the world of security and talk about how to view information in a new and conscientious way.",
+            "by": "Recorded Future",
+            "location": "Johan & Nyström, Avenyn",
+            "image": "speakers/recorded-future.jpg",
+            "image_style": {
+              "backgroundSize": "100%"
+            },
+            "link": "https://www.eventbrite.se/e/how-to-prevent-cyberattacks-and-fake-news-biljetter-81036667855"
+          },
+          {
+            "day": "2019-11-29",
+            "start": "11:30",
+            "end": "12:30",
             "title": "To be announced",
             "text": "...",
             "by": "TBA",
