@@ -96,6 +96,7 @@
         </div>
         <div className='w-full lg:w-3/5'>
           <h4 className='font-bold tracking-wide'>Outsmarting superbugs with DNA analytics</h4>
+          <span className="block lg:hidden">07:30 - 08:30</span>
           <span className='text-xs font-bold' style={{color:'undefined'}}></span>
           <p className='pt-3'>Did you know that bacterial resistance will exceed cancer in death cause if the spread continuous in the current pace? With the latest technology we could stop and prevent deadly outbreaks of antibiotic resistant infections and save lives! Listen to Susanne Staaf, Founder and COO of 1982 Diagnostics, when she tells you about the groundbreaking innovation that will create a brighter future.</p>
         </div>
@@ -127,6 +128,7 @@
         </div>
         <div className='w-full lg:w-3/5'>
           <h4 className='font-bold tracking-wide'>Visualisation of the climate footprints of food</h4>
+          <span className="block lg:hidden">11:30 - 12:30</span>
           <span className='text-xs font-bold' style={{color:'undefined'}}></span>
           <p className='pt-3'>The food system accounts for 20-25% of the world’s total greenhouse gas emissions. Do you know how your eating habits affect the climate and what your climate footprint really is? What if today’s technology enables you to get the accurate and comprehensible information about the climate impact from your choices - would you make different ones?</p>
         </div>
@@ -158,6 +160,7 @@
         </div>
         <div className='w-full lg:w-3/5'>
           <h4 className='font-bold tracking-wide'>How technology save our oceans and change the way we use water</h4>
+          <span className="block lg:hidden">17:00 - 18:00</span>
           <span className='text-xs font-bold' style={{color:'undefined'}}></span>
           <p className='pt-3'>But what if we could use water in a smarter way and stop plastics before they even reach the oceans? The award winning entrepreneur Isabella Palmgren, Founder & CEO at Mimbly, will talk about how technology and innovative solutions could solve the biggest environmental issues we  are facing today.</p>
         </div>
@@ -199,6 +202,7 @@
         </div>
         <div className='w-full lg:w-3/5'>
           <h4 className='font-bold tracking-wide'>How emerging technology is changing transportation at its core</h4>
+          <span className="block lg:hidden">07:30 - 08:30</span>
           <span className='text-xs font-bold' style={{color:'undefined'}}></span>
           <p className='pt-3'>The evolution of autonomous transportation is here to stay, but is society ready for the change? And what are the actual benefits? Driven by a passion for tech and sustainability, Einride is about to transform the transport industry for good. Tomas Ohlson, the Founding Engineer, will share how self-driving makes saving the planet profitable.</p>
         </div>
@@ -230,6 +234,7 @@
         </div>
         <div className='w-full lg:w-3/5'>
           <h4 className='font-bold tracking-wide'>The future of medicine is here</h4>
+          <span className="block lg:hidden">11:30 - 12:30</span>
           <span className='text-xs font-bold' style={{color:'undefined'}}></span>
           <p className='pt-3'>What if you didn’t need to rely on organ donors – if every single person in need of an organ could generate one using their own cells? At this year’s Tech Imprint Arena, CELLINK’s Chief Scientific Officer Itedale Namro Redwan will tell you how CELLINK is driving the field of bioprinting to accelerate the future of medicine and solve some of the world’s biggest challenges related to human health.</p>
         </div>
@@ -261,6 +266,7 @@
         </div>
         <div className='w-full lg:w-3/5'>
           <h4 className='font-bold tracking-wide'>Your money is your voting power!</h4>
+          <span className="block lg:hidden">17:00 - 18:00</span>
           <span className='text-xs font-bold' style={{color:'undefined'}}></span>
           <p className='pt-3'>You invest your money for a better future, or are you? It is time to start talking about money! Because where the money goes, development grows. What if you could put your money to work, both for your own private interest and for the greater good? Hanna Lindquist, Communications & Customer growth at Trine, will show you how business and new technology can come together with solutions for both making money and assist underdeveloped countries in their future growth.</p>
         </div>
@@ -302,6 +308,7 @@
         </div>
         <div className='w-full lg:w-3/5'>
           <h4 className='font-bold tracking-wide'>From sci-fi concept to life-saving medtech</h4>
+          <span className="block lg:hidden">07:30 - 08:30</span>
           <span className='text-xs font-bold' style={{color:'undefined'}}></span>
           <p className='pt-3'>What if healthcare could become proactive instead of reactive? Cutting edge technology will not only change the automotive industry and the Olympic Games, but personalize healthcare and enable professionals to be proactive. This inspirational talk will take you on a journey describing how contact-free scanning of vital signs will change the future of healthcare.</p>
         </div>
@@ -333,6 +340,7 @@
         </div>
         <div className='w-full lg:w-3/5'>
           <h4 className='font-bold tracking-wide'>How world-leading technology can prevent sexual abuse against children</h4>
+          <span className="block lg:hidden">11:30 - 12:30</span>
           <span className='text-xs font-bold' style={{color:'undefined'}}></span>
           <p className='pt-3'>Digitalisation and connectivity have brought a lot of positive developments and opportunities, but it has also resulted in a great increase in the volumes of and accessibility to child sexual abuse material. What role does businesses play and what can they do to disrupt the dissemination of child sexual abuse material – and why should they?</p>
         </div>
@@ -364,6 +372,7 @@
         </div>
         <div className='w-full lg:w-3/5'>
           <h4 className='font-bold tracking-wide'>Is 3D motion capture the answer to preventing injuries?</h4>
+          <span className="block lg:hidden">17:00 - 18:00</span>
           <span className='text-xs font-bold' style={{color:'undefined'}}></span>
           <p className='pt-3'>With the rapid development in VR/AR, machine learning, AI and vision technologies - possibilities for the future are greater than ever before! In an inspirational talk Magnus Berlander, CTO at Qualisys, will give you insights on how 3D motion capture will improve the speed and quality of rehabilitation from injuries, prevent injuries and assist coaches and athletes in their strive for improved performance.</p>
         </div>
@@ -405,6 +414,7 @@
         </div>
         <div className='w-full lg:w-3/5'>
           <h4 className='font-bold tracking-wide'>The challenge to teach a car to drive</h4>
+          <span className="block lg:hidden">11:30 - 12:30</span>
           <span className='text-xs font-bold' style={{color:'undefined'}}></span>
           <p className='pt-3'>What is the logic behind and how do you really teach a car how to drive? Although technology is emerging, computers are still quite stupid and the world is very complex. So, how to teach your product  to act exactly as you want it to and to be reliable? In this talk we are taking part of the deep knowledge behind machine learning and AI as well as the vision of autonomous cars.</p>
         </div>
@@ -446,6 +456,7 @@
         </div>
         <div className='w-full lg:w-3/5'>
           <h4 className='font-bold tracking-wide'>How to prevent cyberattacks and fake news</h4>
+          <span className="block lg:hidden">07:30 - 08:30</span>
           <span className='text-xs font-bold' style={{color:'undefined'}}></span>
           <p className='pt-3'>Digital safety has never been more important and is on top of the agenda of the world leaders. So, how can we sort out worldwide threats and disinformation in a swift? With the latest technology, we  are able to link events, actions, people, places, and other characteristics to represent how cyber and physical events manifest both online and in the real world! Staffan Truvé, CTO at Recorded Future, will take you into the world of security and talk about how to view information in a new and conscientious way.</p>
         </div>

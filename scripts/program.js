@@ -37,6 +37,7 @@ const eventTemplate = event =>
         </div>
         <div className='w-full lg:w-3/5'>
           <h4 className='font-bold tracking-wide'>${event.title}</h4>
+          <span className="block lg:hidden">${event.start} - ${event.end}</span>
           <span className='text-xs font-bold' style={{color:'${
             event.info_color
           }'}}>${event.info ? event.info : ''}</span>
