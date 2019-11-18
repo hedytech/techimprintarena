@@ -91,19 +91,19 @@
       <div className='flex flex-wrap lg:justify-center'>
         <div className='w-full lg:w-1/5 -mr-6 pb-6 lg:pb-0'>
           <div className="event-thumbnail-container">
-            <div className="event-thumbnail" style={{...{backgroundImage: "url(/city/gbg.jpg)"}, ...{}}}></div>
+            <div className="event-thumbnail" style={{...{backgroundImage: "url(/speakers/1928diagnostics.png)"}, ...{"backgroundSize":"100%"}}}></div>
           </div>
         </div>
         <div className='w-full lg:w-3/5'>
-          <h4 className='font-bold tracking-wide'>To be announced</h4>
+          <h4 className='font-bold tracking-wide'>Outsmarting superbugs with DNA analytics</h4>
           <span className='text-xs font-bold' style={{color:'undefined'}}></span>
-          <p className='pt-3'>...</p>
+          <p className='pt-3'>Did you know that bacterial resistance will exceed cancer in death cause if the spread continuous in the current pace? With the latest technology we could stop and prevent deadly outbreaks of antibiotic resistant infections and save lives! Listen to Susanne Staaf, Founder and COO of 1982 Diagnostics, when she tells you about the groundbreaking innovation that will create a brighter future.</p>
         </div>
         <div className='w-full lg:w-1/5 lg:pl-4'>
-          <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>TBA</p>
+          <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>1928 Diagnostics</p>
           <p className='event-location'><span className='location-icon big my-2' /> <span className='location-link'>Johan & Nyström, Avenyn</span></p>
           <p className='event-signup'>
-            <a href='#' target='_blank' title='Read more' rel='noopener noreferrer' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Signup</a>
+            <a href='https://www.eventbrite.se/e/outsmarting-superbugs-with-dna-analytics-biljetter-82206996339' target='_blank' title='Read more' rel='noopener noreferrer' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Signup</a>
           </p>
         </div>
       </div>
@@ -225,19 +225,19 @@
       <div className='flex flex-wrap lg:justify-center'>
         <div className='w-full lg:w-1/5 -mr-6 pb-6 lg:pb-0'>
           <div className="event-thumbnail-container">
-            <div className="event-thumbnail" style={{...{backgroundImage: "url(/city/gbg.jpg)"}, ...{}}}></div>
+            <div className="event-thumbnail" style={{...{backgroundImage: "url(/speakers/cellink.jpg)"}, ...{"backgroundSize":"100%"}}}></div>
           </div>
         </div>
         <div className='w-full lg:w-3/5'>
-          <h4 className='font-bold tracking-wide'>To be announced</h4>
+          <h4 className='font-bold tracking-wide'>The future of medicine is here</h4>
           <span className='text-xs font-bold' style={{color:'undefined'}}></span>
-          <p className='pt-3'>...</p>
+          <p className='pt-3'>What if you didn’t need to rely on organ donors – if every single person in need of an organ could generate one using their own cells? At this year’s Tech Imprint Arena, CELLINK’s Chief Scientific Officer Itedale Namro Redwan will tell you how CELLINK is driving the field of bioprinting to accelerate the future of medicine and solve some of the world’s biggest challenges related to human health.</p>
         </div>
         <div className='w-full lg:w-1/5 lg:pl-4'>
-          <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>TBA</p>
+          <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>CELLINK</p>
           <p className='event-location'><span className='location-icon big my-2' /> <span className='location-link'>Johan & Nyström, Avenyn</span></p>
           <p className='event-signup'>
-            <a href='#' target='_blank' title='Read more' rel='noopener noreferrer' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Signup</a>
+            <a href='https://www.eventbrite.se/e/the-future-of-medicine-is-here-biljetter-82208440659' target='_blank' title='Read more' rel='noopener noreferrer' className='bg-white hover:bg-gray-100 text-gray-800 p-2 text-sm text-center lg:float-right'>Signup</a>
           </p>
         </div>
       </div>

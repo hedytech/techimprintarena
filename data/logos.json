@@ -58,5 +58,20 @@
     "style": {
       "marginTop": "20px"
     }
+  },
+  {
+    "name": "1928 Diagnostics",
+    "image": "logos/1928diagnostics.png",
+    "style": {
+      "marginTop": "20px",
+      "width": "100px"
+    }
+  },
+  {
+    "name": "CELLINK",
+    "image": "logos/cellink.png",
+    "style": {
+      "marginTop": "20px"
+    }
   }
 ]

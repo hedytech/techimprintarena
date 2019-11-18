@@ -16,11 +16,15 @@
             "day": "2019-11-25",
             "start": "07:30",
             "end": "08:30",
-            "title": "To be announced",
-            "text": "...",
-            "by": "TBA",
+            "title": "Outsmarting superbugs with DNA analytics",
+            "text": "Did you know that bacterial resistance will exceed cancer in death cause if the spread continuous in the current pace? With the latest technology we could stop and prevent deadly outbreaks of antibiotic resistant infections and save lives! Listen to Susanne Staaf, Founder and COO of 1982 Diagnostics, when she tells you about the groundbreaking innovation that will create a brighter future.",
+            "by": "1928 Diagnostics",
             "location": "Johan & Nyström, Avenyn",
-            "image": "city/gbg.jpg"
+            "image": "speakers/1928diagnostics.png",
+            "image_style": {
+              "backgroundSize": "100%"
+            },
+            "link": "https://www.eventbrite.se/e/outsmarting-superbugs-with-dna-analytics-biljetter-82206996339"
           },
           {
             "day": "2019-11-25",
@@ -74,11 +78,15 @@
             "day": "2019-11-26",
             "start": "11:30",
             "end": "12:30",
-            "title": "To be announced",
-            "text": "...",
-            "by": "TBA",
+            "title": "The future of medicine is here",
+            "text": "What if you didn’t need to rely on organ donors – if every single person in need of an organ could generate one using their own cells? At this year’s Tech Imprint Arena, CELLINK’s Chief Scientific Officer Itedale Namro Redwan will tell you how CELLINK is driving the field of bioprinting to accelerate the future of medicine and solve some of the world’s biggest challenges related to human health.",
+            "by": "CELLINK",
             "location": "Johan & Nyström, Avenyn",
-            "image": "city/gbg.jpg"
+            "image": "speakers/cellink.jpg",
+            "image_style": {
+              "backgroundSize": "100%"
+            },
+            "link": "https://www.eventbrite.se/e/the-future-of-medicine-is-here-biljetter-82208440659"
           },
           {
             "day": "2019-11-26",
