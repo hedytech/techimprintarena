@@ -14,6 +14,25 @@ const sidebarTemplate = program =>
 const eventlocationtemplate = event =>
   `<p className='event-location'><span className='location-icon big my-2' /> <span className='location-link'>${event.location}</span></p>`;
 
+const eventImages = event => {
+  if (!(event.image instanceof Array)) {
+    event.image = [event.image];
+  }
+
+  const images = event.image
+    .map(
+      image => `
+    <div className="event-thumbnail" style={{...{backgroundImage: "url(/${image})"}, ...${
+        event.image_style
+          ? JSON.stringify(event.image_style)
+          : JSON.stringify({})
+      }}}></div>`
+    )
+    .join('');
+
+  return `<div className="event-thumbnail-container">${images}</div>`;
+};
+
 const eventTemplate = event =>
   `
   <div className='event'>
@@ -27,13 +46,7 @@ const eventTemplate = event =>
     <div className="event-link m-0 lg:ml-32 w-full lg:w-4/4">
       <div className='flex flex-wrap lg:justify-center'>
         <div className='w-full lg:w-1/5 -mr-6 pb-6 lg:pb-0'>
-          <div className="event-thumbnail-container">
-            <div className="event-thumbnail" style={{...{backgroundImage: "url(/${
-              event.image
-            })"}, ...${
-    event.image_style ? JSON.stringify(event.image_style) : JSON.stringify({})
-  }}}></div>
-          </div>
+          ${eventImages(event)}
         </div>
         <div className='w-full lg:w-3/5'>
           <h4 className='font-bold tracking-wide'>${event.title}</h4>

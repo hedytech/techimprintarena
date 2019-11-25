@@ -263,6 +263,7 @@ body {
   background-position: center;
   margin-left: 12px;
   margin-top: 5px;
+  margin-bottom: 15px;
 }
 
 .location-link {
@@ -291,7 +292,7 @@ body {
 }
 
 
-@media (max-width: 768px) {
+@media (max-width: 1024px) {
   .event-signup {
     width: 100%;
     padding: 0;
@@ -299,6 +300,8 @@ body {
 
   .event-thumbnail {
     margin: 0;
+    margin-right: 15px;
+    float: left;
   }
 
   .event-location .location-link {

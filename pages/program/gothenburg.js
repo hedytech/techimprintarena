@@ -91,8 +91,7 @@
       <div className='flex flex-wrap lg:justify-center'>
         <div className='w-full lg:w-1/5 -mr-6 pb-6 lg:pb-0'>
           <div className="event-thumbnail-container">
-            <div className="event-thumbnail" style={{...{backgroundImage: "url(/speakers/1928diagnostics.png)"}, ...{"backgroundSize":"100%"}}}></div>
-          </div>
+    <div className="event-thumbnail" style={{...{backgroundImage: "url(/speakers/1928diagnostics.png)"}, ...{"backgroundSize":"100%"}}}></div></div>
         </div>
         <div className='w-full lg:w-3/5'>
           <h4 className='font-bold tracking-wide'>Outsmarting superbugs with DNA analytics</h4>
@@ -123,8 +122,7 @@
       <div className='flex flex-wrap lg:justify-center'>
         <div className='w-full lg:w-1/5 -mr-6 pb-6 lg:pb-0'>
           <div className="event-thumbnail-container">
-            <div className="event-thumbnail" style={{...{backgroundImage: "url(/speakers/carboncloud.jpg)"}, ...{"backgroundSize":"100%"}}}></div>
-          </div>
+    <div className="event-thumbnail" style={{...{backgroundImage: "url(/speakers/carboncloud.jpg)"}, ...{"backgroundSize":"100%"}}}></div></div>
         </div>
         <div className='w-full lg:w-3/5'>
           <h4 className='font-bold tracking-wide'>Visualisation of the climate footprints of food</h4>
@@ -155,8 +153,7 @@
       <div className='flex flex-wrap lg:justify-center'>
         <div className='w-full lg:w-1/5 -mr-6 pb-6 lg:pb-0'>
           <div className="event-thumbnail-container">
-            <div className="event-thumbnail" style={{...{backgroundImage: "url(/speakers/mimbly.png)"}, ...{"backgroundSize":"100%"}}}></div>
-          </div>
+    <div className="event-thumbnail" style={{...{backgroundImage: "url(/speakers/mimbly.png)"}, ...{"backgroundSize":"100%"}}}></div></div>
         </div>
         <div className='w-full lg:w-3/5'>
           <h4 className='font-bold tracking-wide'>How technology save our oceans and change the way we use water</h4>
@@ -197,14 +194,13 @@
       <div className='flex flex-wrap lg:justify-center'>
         <div className='w-full lg:w-1/5 -mr-6 pb-6 lg:pb-0'>
           <div className="event-thumbnail-container">
-            <div className="event-thumbnail" style={{...{backgroundImage: "url(/speakers/einride.jpg)"}, ...{"backgroundSize":"100%"}}}></div>
-          </div>
+    <div className="event-thumbnail" style={{...{backgroundImage: "url(/speakers/einride.jpg)"}, ...{"backgroundSize":"100%"}}}></div></div>
         </div>
         <div className='w-full lg:w-3/5'>
           <h4 className='font-bold tracking-wide'>How emerging technology is changing transportation at its core</h4>
           <span className="block lg:hidden">07:30 - 08:30</span>
           <span className='text-xs font-bold' style={{color:'undefined'}}></span>
-          <p className='pt-3'>The evolution of autonomous transportation is here to stay, but is society ready for the change? And what are the actual benefits? Driven by a passion for tech and sustainability, Einride is about to transform the transport industry for good. Tomas Ohlson, the Founding Engineer, will share how self-driving makes saving the planet profitable.</p>
+          <p className='pt-3'>The evolution of autonomous transportation is here to stay, but is society ready for the change? And what are the actual benefits? Driven by a passion for tech and sustainability, Einride is about to transform the transport industry for good. Tomas Ohlson, the Founding Engineer and Linnea van Lokhorst, Operations Director, will share how self-driving makes saving the planet profitable.</p>
         </div>
         <div className='w-full lg:w-1/5 lg:pl-4'>
           <p className='text-m pt-6 lg:pt-0 lg:pl-6'>Hosted by:<br/>Einride</p>
@@ -229,8 +225,7 @@
       <div className='flex flex-wrap lg:justify-center'>
         <div className='w-full lg:w-1/5 -mr-6 pb-6 lg:pb-0'>
           <div className="event-thumbnail-container">
-            <div className="event-thumbnail" style={{...{backgroundImage: "url(/speakers/cellink.jpg)"}, ...{"backgroundSize":"100%"}}}></div>
-          </div>
+    <div className="event-thumbnail" style={{...{backgroundImage: "url(/speakers/cellink.jpg)"}, ...{"backgroundSize":"100%"}}}></div></div>
         </div>
         <div className='w-full lg:w-3/5'>
           <h4 className='font-bold tracking-wide'>The future of medicine is here</h4>
@@ -261,8 +256,7 @@
       <div className='flex flex-wrap lg:justify-center'>
         <div className='w-full lg:w-1/5 -mr-6 pb-6 lg:pb-0'>
           <div className="event-thumbnail-container">
-            <div className="event-thumbnail" style={{...{backgroundImage: "url(/speakers/trine.jpg)"}, ...{"backgroundSize":"100%"}}}></div>
-          </div>
+    <div className="event-thumbnail" style={{...{backgroundImage: "url(/speakers/trine.jpg)"}, ...{"backgroundSize":"100%"}}}></div></div>
         </div>
         <div className='w-full lg:w-3/5'>
           <h4 className='font-bold tracking-wide'>Your money is your voting power!</h4>
@@ -303,8 +297,7 @@
       <div className='flex flex-wrap lg:justify-center'>
         <div className='w-full lg:w-1/5 -mr-6 pb-6 lg:pb-0'>
           <div className="event-thumbnail-container">
-            <div className="event-thumbnail" style={{...{backgroundImage: "url(/speakers/detectivio.jpg)"}, ...{}}}></div>
-          </div>
+    <div className="event-thumbnail" style={{...{backgroundImage: "url(/speakers/detectivio.jpg)"}, ...{}}}></div></div>
         </div>
         <div className='w-full lg:w-3/5'>
           <h4 className='font-bold tracking-wide'>From sci-fi concept to life-saving medtech</h4>
@@ -335,8 +328,7 @@
       <div className='flex flex-wrap lg:justify-center'>
         <div className='w-full lg:w-1/5 -mr-6 pb-6 lg:pb-0'>
           <div className="event-thumbnail-container">
-            <div className="event-thumbnail" style={{...{backgroundImage: "url(/speakers/netclean.jpg)"}, ...{}}}></div>
-          </div>
+    <div className="event-thumbnail" style={{...{backgroundImage: "url(/speakers/netclean.jpg)"}, ...{}}}></div></div>
         </div>
         <div className='w-full lg:w-3/5'>
           <h4 className='font-bold tracking-wide'>How world-leading technology can prevent sexual abuse against children</h4>
@@ -367,8 +359,7 @@
       <div className='flex flex-wrap lg:justify-center'>
         <div className='w-full lg:w-1/5 -mr-6 pb-6 lg:pb-0'>
           <div className="event-thumbnail-container">
-            <div className="event-thumbnail" style={{...{backgroundImage: "url(/speakers/qualisys.jpg)"}, ...{}}}></div>
-          </div>
+    <div className="event-thumbnail" style={{...{backgroundImage: "url(/speakers/qualisys.jpg)"}, ...{}}}></div></div>
         </div>
         <div className='w-full lg:w-3/5'>
           <h4 className='font-bold tracking-wide'>Is 3D motion capture the answer to preventing injuries?</h4>
@@ -409,8 +400,7 @@
       <div className='flex flex-wrap lg:justify-center'>
         <div className='w-full lg:w-1/5 -mr-6 pb-6 lg:pb-0'>
           <div className="event-thumbnail-container">
-            <div className="event-thumbnail" style={{...{backgroundImage: "url(/speakers/annotell.jpg)"}, ...{}}}></div>
-          </div>
+    <div className="event-thumbnail" style={{...{backgroundImage: "url(/speakers/annotell.jpg)"}, ...{}}}></div></div>
         </div>
         <div className='w-full lg:w-3/5'>
           <h4 className='font-bold tracking-wide'>The challenge to teach a car to drive</h4>
@@ -451,8 +441,7 @@
       <div className='flex flex-wrap lg:justify-center'>
         <div className='w-full lg:w-1/5 -mr-6 pb-6 lg:pb-0'>
           <div className="event-thumbnail-container">
-            <div className="event-thumbnail" style={{...{backgroundImage: "url(/speakers/recorded-future.jpg)"}, ...{"backgroundSize":"100%"}}}></div>
-          </div>
+    <div className="event-thumbnail" style={{...{backgroundImage: "url(/speakers/recorded-future.jpg)"}, ...{"backgroundSize":"100%"}}}></div></div>
         </div>
         <div className='w-full lg:w-3/5'>
           <h4 className='font-bold tracking-wide'>How to prevent cyberattacks and fake news</h4>
