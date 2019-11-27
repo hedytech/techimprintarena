@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react';
 
-export default ({ navigation = [] }) => {
+export default ({ locale = 'en', navigation = [] }) => {
   useEffect(() => {
     /* eslint-disable no-new */
     const SmoothScroll = require('smooth-scroll');
@@ -12,7 +12,7 @@ export default ({ navigation = [] }) => {
   return (
     <nav className='fixed z-20 w-full'>
       <div className='container mx-auto px-6 py-2 flex justify-between items-center bg-black'>
-        <a className='font-bold text-2xl lg:text-4xl text-white' href='/#'>
+        <a className='font-bold text-2xl lg:text-4xl text-white' href={`/${locale}`}>
           <img
             src='/logo-sidebyside.png'
             alt='Tech Imprint Arena'

@@ -3,10 +3,10 @@ import Navbar from './components/navbar';
 import Footer from './components/footer';
 import { withTranslation } from './components/i18n';
 
-const Layout = ({ children, t }) => (
+const Layout = ({ children, locale, t }) => (
   <div>
     <header>
-      <Navbar navigation={t('navigation')} />
+      <Navbar locale={locale} navigation={t('navigation')} />
     </header>
     <div className='container max-auto'>
       {children}
