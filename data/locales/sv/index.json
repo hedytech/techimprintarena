@@ -1,0 +1,34 @@
+{
+  "upcoming": {
+    "title": "Kommande",
+    "city": "Göteborg",
+    "text": "Göteborg den 25:e – 29:e nov 2019"
+  },
+  "heading": "At the Tech Imprint Arena, companies open up their inner core and tell you how they use today’s technology to make a tech imprint tomorrow",
+  "home": {
+    "heading": "WHAT IS HAPPENING<br />RIGHT NOW?",
+    "text": [
+      "The technology is emerging and will open up opportunities for us that we cannot even imagine.",
+      "United Nations has set 17 global sustainability goals as a blueprint to achieve a better future for all. In order to reach them the world’s leaders are putting environmental footprint, inequality, health, peace and justice on top of the agenda.",
+      "Companies are using the latest technology to create innovations that will be game changers in creating a better tomorrow."
+    ],
+    "footer": "– but do you really know what is coming?"
+  },
+  "ambition": {
+    "heading": "OUR AMBITION",
+    "text": "Create the number one arena where tech innovations, with focus on making a better world, are shared with the society"
+  },
+  "how": {
+    "heading": "HOW<br />WHERE<br />&amp; WHEN?",
+    "text": [
+      "During a one week period in each city, companies will gather to tell YOU how they use the latest technology to create a better world.",
+      "Tech Imprint Arena will take place in Gothenburg, Stockholm and Malmö during 2019 and the beginning of 2020, and continue to Copenhagen, Oslo and Helsinki short after."
+    ],
+    "view": "View the program and book your seat",
+    "here": "here!",
+    "title": "View the program"
+  },
+  "logos": {
+    "heading": "COMPANIES THAT ARE MAKING A TECH <br /> IMPRINT FOR A BETTER WORLD:"
+  }
+}

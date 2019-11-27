@@ -1,0 +1,227 @@
+{
+  "program": [
+    {
+      "name": "Gothenburg",
+      "when": "25th – 29th of November 2019",
+      "image": "city/gbg-circle.png",
+      "background": "city/gbg-bw2.jpg",
+      "slug": "gothenburg",
+      "location": "Johan & Nyström, Avenyn",
+      "year": 2019,
+      "program": [
+        {
+          "day": "2019-11-25",
+          "title": "Monday 25/11",
+          "events": [
+            {
+              "day": "2019-11-25",
+              "start": "07:30",
+              "end": "08:30",
+              "title": "Outsmarting superbugs with DNA analytics",
+              "text": "Did you know that bacterial resistance will exceed cancer in death cause if the spread continuous in the current pace? With the latest technology we could stop and prevent deadly outbreaks of antibiotic resistant infections and save lives! Listen to Susanne Staaf, Founder and COO of 1982 Diagnostics, when she tells you about the groundbreaking innovation that will create a brighter future.",
+              "by": "1928 Diagnostics",
+              "location": "Johan & Nyström, Avenyn",
+              "image": "speakers/1928diagnostics.png",
+              "image_style": {
+                "backgroundSize": "100%"
+              },
+              "link": "https://www.eventbrite.se/e/outsmarting-superbugs-with-dna-analytics-biljetter-82206996339"
+            },
+            {
+              "day": "2019-11-25",
+              "start": "11:30",
+              "end": "12:30",
+              "title": "Visualisation of the climate footprints of food",
+              "text": "The food system accounts for 20-25% of the world’s total greenhouse gas emissions. Do you know how your eating habits affect the climate and what your climate footprint really is? What if today’s technology enables you to get the accurate and comprehensible information about the climate impact from your choices - would you make different ones?",
+              "by": "CarbonCloud",
+              "location": "Johan & Nyström, Avenyn",
+              "image": "speakers/carboncloud.jpg",
+              "image_style": {
+                "backgroundSize": "100%"
+              },
+              "link": "https://www.eventbrite.se/e/visualisation-of-the-climate-footprints-of-food-tickets-78590284657"
+            },
+            {
+              "day": "2019-11-25",
+              "start": "17:00",
+              "end": "18:00",
+              "title": "How technology save our oceans and change the way we use water",
+              "text": "But what if we could use water in a smarter way and stop plastics before they even reach the oceans? The award winning entrepreneur Isabella Palmgren, Founder & CEO at Mimbly, will talk about how technology and innovative solutions could solve the biggest environmental issues we  are facing today.",
+              "by": "Mimbly",
+              "location": "Johan & Nyström, Avenyn",
+              "image": "speakers/mimbly.png",
+              "image_style": {
+                "backgroundSize": "100%"
+              },
+              "link": "https://www.eventbrite.se/e/how-technology-save-our-oceans-and-change-the-way-we-use-water-biljetter-81215456617"
+            }
+          ]
+        },
+        {
+          "day": "2019-11-26",
+          "title": "Tuesday 26/11",
+          "events": [
+            {
+              "day": "2019-11-26",
+              "start": "07:30",
+              "end": "08:30",
+              "title": "How emerging technology is changing transportation at its core",
+              "text": "The evolution of autonomous transportation is here to stay, but is society ready for the change? And what are the actual benefits? Driven by a passion for tech and sustainability, Einride is about to transform the transport industry for good. Tomas Ohlson, the Founding Engineer and Linnea van Lokhorst, Operations Director, will share how self-driving makes saving the planet profitable.",
+              "by": "Einride",
+              "location": "Johan & Nyström, Avenyn",
+              "image": "speakers/einride.jpg",
+              "image_style": {
+                "backgroundSize": "100%"
+              },
+              "link": "https://www.eventbrite.se/e/how-emerging-technology-is-changing-transportation-at-its-core-biljetter-81033281727"
+            },
+            {
+              "day": "2019-11-26",
+              "start": "11:30",
+              "end": "12:30",
+              "title": "The future of medicine is here",
+              "text": "What if you didn’t need to rely on organ donors – if every single person in need of an organ could generate one using their own cells? At this year’s Tech Imprint Arena, CELLINK’s Chief Scientific Officer Itedale Namro Redwan will tell you how CELLINK is driving the field of bioprinting to accelerate the future of medicine and solve some of the world’s biggest challenges related to human health.",
+              "by": "CELLINK",
+              "location": "Johan & Nyström, Avenyn",
+              "image": "speakers/cellink.jpg",
+              "image_style": {
+                "backgroundSize": "100%"
+              },
+              "link": "https://www.eventbrite.se/e/the-future-of-medicine-is-here-biljetter-82208440659"
+            },
+            {
+              "day": "2019-11-26",
+              "start": "17:00",
+              "end": "18:00",
+              "title": "Your money is your voting power!",
+              "text": "You invest your money for a better future, or are you? It is time to start talking about money! Because where the money goes, development grows. What if you could put your money to work, both for your own private interest and for the greater good? Hanna Lindquist, Communications & Customer growth at Trine, will show you how business and new technology can come together with solutions for both making money and assist underdeveloped countries in their future growth.",
+              "by": "Trine",
+              "location": "Johan & Nyström, Avenyn",
+              "image": "speakers/trine.jpg",
+              "image_style": {
+                "backgroundSize": "100%"
+              },
+              "link": "https://www.eventbrite.se/e/your-money-is-your-voting-power-biljetter-81038637747"
+            }
+          ]
+        },
+        {
+          "day": "2019-11-27",
+          "title": "Wednesday 27/11",
+          "events": [
+            {
+              "day": "2019-11-27",
+              "start": "07:30",
+              "end": "08:30",
+              "title": "From sci-fi concept to life-saving medtech",
+              "text": "What if healthcare could become proactive instead of reactive? Cutting edge technology will not only change the automotive industry and the Olympic Games, but personalize healthcare and enable professionals to be proactive. This inspirational talk will take you on a journey describing how contact-free scanning of vital signs will change the future of healthcare.",
+              "by": "Detectivio",
+              "location": "Johan & Nyström, Avenyn",
+              "image": "speakers/detectivio.jpg",
+              "link": "https://www.eventbrite.se/e/from-sci-fi-concept-to-life-saving-medtech-tickets-78964219105"
+            },
+            {
+              "day": "2019-11-27",
+              "start": "11:30",
+              "end": "12:30",
+              "title": "How world-leading technology can prevent sexual abuse against children",
+              "text": "Digitalisation and connectivity have brought a lot of positive developments and opportunities, but it has also resulted in a great increase in the volumes of and accessibility to child sexual abuse material. What role does businesses play and what can they do to disrupt the dissemination of child sexual abuse material – and why should they?",
+              "by": "NetClean",
+              "location": "Johan & Nyström, Avenyn",
+              "image": "speakers/netclean.jpg",
+              "link": "https://www.eventbrite.se/e/how-world-leading-technology-can-prevent-sexual-abuse-tickets-77983604059"
+            },
+            {
+              "day": "2019-11-27",
+              "start": "17:00",
+              "end": "18:00",
+              "title": "Is 3D motion capture the answer to preventing injuries?",
+              "text": "With the rapid development in VR/AR, machine learning, AI and vision technologies - possibilities for the future are greater than ever before! In an inspirational talk Magnus Berlander, CTO at Qualisys, will give you insights on how 3D motion capture will improve the speed and quality of rehabilitation from injuries, prevent injuries and assist coaches and athletes in their strive for improved performance.",
+              "by": "Qualisys",
+              "location": "Johan & Nyström, Avenyn",
+              "image": "speakers/qualisys.jpg",
+              "link": "https://www.eventbrite.se/e/is-3d-motion-capture-the-answer-to-preventing-injuries-biljetter-81035171379"
+            }
+          ]
+        },
+        {
+          "day": "2019-11-28",
+          "title": "Thursday 28/11",
+          "events": [
+            {
+              "day": "2019-11-28",
+              "start": "11:30",
+              "end": "12:30",
+              "title": "The challenge to teach a car to drive",
+              "text": "What is the logic behind and how do you really teach a car how to drive? Although technology is emerging, computers are still quite stupid and the world is very complex. So, how to teach your product  to act exactly as you want it to and to be reliable? In this talk we are taking part of the deep knowledge behind machine learning and AI as well as the vision of autonomous cars.",
+              "by": "Annotell",
+              "location": "Johan & Nyström, Avenyn",
+              "image": "speakers/annotell.jpg",
+              "link": "https://www.eventbrite.se/e/the-challenge-to-teach-a-car-to-drive-tickets-80013714173"
+            }
+          ]
+        },
+        {
+          "day": "2019-11-29",
+          "title": "Friday 29/11",
+          "events": [
+            {
+              "day": "2019-11-29",
+              "start": "07:30",
+              "end": "08:30",
+              "title": "How to prevent cyberattacks and fake news",
+              "text": "Digital safety has never been more important and is on top of the agenda of the world leaders. So, how can we sort out worldwide threats and disinformation in a swift? With the latest technology, we  are able to link events, actions, people, places, and other characteristics to represent how cyber and physical events manifest both online and in the real world! Staffan Truvé, CTO at Recorded Future, will take you into the world of security and talk about how to view information in a new and conscientious way.",
+              "by": "Recorded Future",
+              "location": "Johan & Nyström, Avenyn",
+              "image": "speakers/recorded-future.jpg",
+              "image_style": {
+                "backgroundSize": "100%"
+              },
+              "link": "https://www.eventbrite.se/e/how-to-prevent-cyberattacks-and-fake-news-biljetter-81036667855"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Stockholm",
+      "when": "24th – 28th of February 2020",
+      "year": 2019,
+      "image": "city/sthlm-circle.png",
+      "background": "city/sthlm-bw2.jpg",
+      "slug": "stockholm"
+    },
+    {
+      "name": "Malmö",
+      "when": "6th – 10th of April 2020",
+      "year": 2019,
+      "image": "city/malmo-circle.png",
+      "background": "city/malmo-bw2.jpg",
+      "slug": "malmo"
+    },
+    {
+      "name": "Oslo",
+      "when": "18th – 22nd of May 2020",
+      "year": 2019,
+      "image": "city/oslo-circle.png",
+      "background": "city/oslo-bw2.jpg",
+      "slug": "oslo"
+    },
+    {
+      "name": "Copenhagen",
+      "when": "7th – 11th of September 2020",
+      "year": 2019,
+      "image": "city/copenhagen-circle.png",
+      "background": "city/copenhagen-bw2.jpg",
+      "slug": "copenhangen"
+    },
+    {
+      "name": "Helsinki",
+      "when": "26th – 30th of Oct 2020",
+      "year": 2019,
+      "image": "city/helsinki-circle.png",
+      "background": "city/helsinki-bw2.jpg",
+      "slug": "helsinki"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "created_by": "Created by",
+  "privacy_policy": {
+    "title": "Privacy Policy",
+    "link": "/en/privacy-policy"
+  },
+  "navigation": [
+    {
+      "title": "Home",
+      "link": "/en#home"
+    },
+    {
+      "title": "Our AMBITION",
+      "link": "/en#our-ambition"
+    },
+    {
+      "title": "Program",
+      "link": "/en/program"
+    },
+    {
+      "title": "Become a speaker",
+      "link": "/en/become-a-speaker"
+    },
+    {
+      "title": "Contact",
+      "link": "/en/contact"
+    },
+    {
+      "title": "Partnership",
+      "link": "/en/partnership"
+    },
+    {
+      "title":"På svenska",
+      "link": "/sv"
+    }
+  ]
+}

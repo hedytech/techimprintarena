@@ -1,0 +1,37 @@
+{
+  "created_by": "Skapad av",
+  "privacy_policy": {
+    "title": "Privacy Policy",
+    "link": "/sv/privacy-policy"
+  },
+  "navigation": [
+    {
+      "title": "Hem",
+      "link": "/sv#home"
+    },
+    {
+      "title": "Vår AMBITION",
+      "link": "/sv#our-ambition"
+    },
+    {
+      "title": "Program",
+      "link": "/sv/program"
+    },
+    {
+      "title": "Bli en talare",
+      "link": "/sv/bli-en-talare"
+    },
+    {
+      "title": "Kontakt",
+      "link": "/sv/kontakt"
+    },
+    {
+      "title": "Partnerskap",
+      "link": "/sv/partnerskap"
+    },
+    {
+      "title":"In English",
+      "link": "/en"
+    }
+  ]
+}

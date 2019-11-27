@@ -1,6 +1,9 @@
 const fs = require('fs');
 const path = require('path');
-const program = require('../data/program.json');
+const sources = {
+  en: require('../data/locales/en/program.json'),
+  sv: require('../data/locales/sv/program.json')
+};
 
 const sidebarTemplate = program =>
   `
@@ -92,9 +95,10 @@ const template = city =>
     import { useEffect, useState } from 'react';
     import Head from 'next/head';
     import VisibilitySensor from 'react-visibility-sensor';
-    import '../../styles/index.css';
+    import '../../../styles/index.css';
+    import { withLayout } from '../../../src/layout';
 
-    export default () => {
+    const Page = () => {
       const [day, setDay] = useState('');
 
       useEffect(() => {
@@ -105,9 +109,9 @@ const template = city =>
         <div>
           <Head>
             <title>${city.name} - Tech Imprint Arena</title>
-            <link rel="canonical" href="https://techimprintarena.com/program/${
-              city.slug
-            }/" />
+            <link rel="canonical" href="https://techimprintarena.com/${
+              city.locale
+            }/program/${city.slug}/" />
           </Head>
           <div
           className="bg-cover bg-center h-screen w-screen fixed z-0"
@@ -159,16 +163,22 @@ const template = city =>
           </div>
         </div>
       );
-    }
+    };
+
+    export default withLayout(Page, '${city.locale}');
   `;
 
-program.forEach(city => {
-  const dest = path.join(
-    __dirname,
-    '..',
-    'pages',
-    'program',
-    `${city.slug}.js`
-  );
-  fs.writeFileSync(dest, template(city));
+Object.keys(sources).forEach(locale => {
+  sources[locale].program.forEach(city => {
+    city.locale = locale;
+    const dest = path.join(
+      __dirname,
+      '..',
+      'pages',
+      locale,
+      'program',
+      `${city.slug}.js`
+    );
+    fs.writeFileSync(dest, template(city));
+  });
 });
