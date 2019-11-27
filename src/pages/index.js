@@ -1,7 +1,7 @@
 import React from 'react';
 import Head from 'next/head';
 import logos from '../../data/logos.json';
-import { withLayout } from '../layout';
+import { withLayout } from '../components/layout';
 import { withTranslation } from '../components/i18n';
 
 const Page = ({ locale, t }) => (

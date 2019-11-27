@@ -1,6 +1,6 @@
 import Head from 'next/head';
 import { withTranslation } from '../../components/i18n';
-import { withLayout } from '../../layout';
+import { withLayout } from '../../components/layout';
 
 const Page = ({ locale, t }) => (
   <div>

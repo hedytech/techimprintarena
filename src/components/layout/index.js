@@ -1,7 +1,7 @@
 import React from 'react';
-import Navbar from './components/navbar';
-import Footer from './components/footer';
-import { withTranslation } from './components/i18n';
+import Navbar from '../navbar';
+import Footer from '../footer';
+import { withTranslation } from '../i18n';
 
 const Layout = ({ children, locale, t }) => (
   <div>

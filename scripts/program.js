@@ -96,7 +96,7 @@ const template = city =>
     import Head from 'next/head';
     import VisibilitySensor from 'react-visibility-sensor';
     import '../../../styles/index.css';
-    import { withLayout } from '../../../src/layout';
+    import { withLayout } from '../../../src/components/layout';
 
     const Page = () => {
       const [day, setDay] = useState('');
