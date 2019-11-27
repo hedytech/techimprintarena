@@ -11,7 +11,7 @@ const Page = ({ locale, t }) => (
       <link rel='canonical' href={`https://techimprintarena.com/${locale}/`} />
     </Head>
     <a
-      href={`/${locale}/program/${t('upcoming.city').toLowerCase()}`}
+      href={`/${locale}/program/${t('upcoming.slug')}`}
       title={t('upcoming.city')}
       className='hidden lg:block right-0 w-32 fixed bg-tia-viking mt-64 z-10 lg:z-20 w-32 hover:underline text-white opacity-75'
     >
