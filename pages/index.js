@@ -9,14 +9,14 @@ export default () => (
       <link rel='canonical' href='https://techimprintarena.com/' />
     </Head>
     <a
-      href='/program/gothenburg'
-      title='Gothenburg'
+      href='/program/stockholm'
+      title='Stockholm'
       className='hidden lg:block right-0 w-32 fixed bg-tia-viking mt-64 z-10 lg:z-20 w-32 hover:underline text-white opacity-75'
     >
       <div className='p-5 px-3'>
         <h3 className='text-lg italic text-white pb-2'>Upcoming</h3>
         <p className='text-white text-sm'>
-          Gothenburg the 25<sup>th</sup> – 29<sup>th</sup> of nov 2019
+          Stockholm May 2020 {/*<sup>th</sup> – 29<sup>th</sup> */}
         </p>
       </div>
     </a>
