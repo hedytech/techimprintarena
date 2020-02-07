@@ -184,42 +184,26 @@
   },
   {
     "name": "Stockholm",
-    "when": "24th – 28th of February 2020",
-    "year": 2019,
+    "when": "May 2020",
+    "year": 2020,
     "image": "city/sthlm-circle.png",
     "background": "city/sthlm-bw2.jpg",
     "slug": "stockholm"
   },
   {
+    "name": "Almedalen",
+    "when": "1 July 2020",
+    "year": 2020,
+    "image": "city/almedalen-circle.png",
+    "background": "city/almedalen-bw.png",
+    "slug": "almedalen"
+  },
+  {
     "name": "Malmö",
-    "when": "6th – 10th of April 2020",
-    "year": 2019,
+    "when": "October 2020",
+    "year": 2020,
     "image": "city/malmo-circle.png",
     "background": "city/malmo-bw2.jpg",
     "slug": "malmo"
-  },
-  {
-    "name": "Oslo",
-    "when": "18th – 22nd of May 2020",
-    "year": 2019,
-    "image": "city/oslo-circle.png",
-    "background": "city/oslo-bw2.jpg",
-    "slug": "oslo"
-  },
-  {
-    "name": "Copenhagen",
-    "when": "7th – 11th of September 2020",
-    "year": 2019,
-    "image": "city/copenhagen-circle.png",
-    "background": "city/copenhagen-bw2.jpg",
-    "slug": "copenhangen"
-  },
-  {
-    "name": "Helsinki",
-    "when": "26th – 30th of Oct 2020",
-    "year": 2019,
-    "image": "city/helsinki-circle.png",
-    "background": "city/helsinki-bw2.jpg",
-    "slug": "helsinki"
   }
 ]
